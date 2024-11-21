@@ -12,10 +12,10 @@ app.use(bodyParser.json());
 
 // Connect to MySQL
 const db = mysql.createConnection({
-  host: "127.0.0.1",
-  user: "root",
-  password: "tab21",
-  database: "cricket_data",
+  host: "sql12.freesqldatabase.com",
+  user: "sql12746379",
+  password: "plkbmDFHQh",
+  database: "sql12746379",
 });
 
 db.connect((err) => {
@@ -25,6 +25,35 @@ db.connect((err) => {
   }
   console.log("Connected to MySQL database");
 });
+
+// check_res = () => {
+//   db.query("SELECT * FROM PlayerDetails", (err, results) => {
+//     if (err) {
+//       return res.status(500).json({ error: "Database query failed" });
+//     }
+//     console.log(results);
+//   });
+// };
+
+// console.log("check_res : \n", check_res());
+
+// In-memory cache for player details
+let playerDataCache = [];
+
+// Load player data into memory on startup
+const loadPlayerData = () => {
+  db.query("SELECT * FROM PlayerDetails", (err, results) => {
+    if (err) {
+      console.error("Error loading player data:", err);
+      return;
+    }
+    playerDataCache = results;
+    console.log("Player data loaded into memory");
+  });
+};
+
+// Call the function to load data initially
+loadPlayerData();
 
 // Function to calculate Levenshtein Distance
 function levenshteinDistance(a, b) {
@@ -53,44 +82,40 @@ function levenshteinDistance(a, b) {
 app.get("/search", (req, res) => {
   const searchQuery = req.query.name;
 
-  db.query("SELECT * FROM playerdetails", (err, results) => {
-    if (err) {
-      return res.status(500).json({ error: "Database query failed" });
-    }
+  console.log("searchQuery:", searchQuery);
 
-    // Find exact match
-    const exactMatch = results.find(
-      (player) => player.PlayerName.toLowerCase() === searchQuery.toLowerCase()
-    );
+  // Find exact match
+  const exactMatch = playerDataCache.find(
+    (player) => player.PlayerName.toLowerCase() === searchQuery.toLowerCase()
+  );
 
-    if (exactMatch) {
-      return res.json({ match: exactMatch });
-    }
+  if (exactMatch) {
+    return res.json({ match: exactMatch });
+  }
 
-    // Compute Levenshtein distance for all players
-    const distances = results.map((player) => ({
-      player: {
-        name: player.PlayerName,
-        country: player.country_name,
-        image: player.image_path,
-      },
-      distance: levenshteinDistance(
-        searchQuery.toLowerCase(),
-        player.PlayerName.toLowerCase()
-      ),
-    }));
+  // Compute Levenshtein distance for all players
+  const distances = playerDataCache.map((player) => ({
+    player: {
+      name: player.PlayerName,
+      country: player.country_name,
+      image: player.image_path,
+    },
+    distance: levenshteinDistance(
+      searchQuery.toLowerCase(),
+      player.PlayerName.toLowerCase()
+    ),
+  }));
 
-    // Sort by distance and get the top 5
-    const topMatches = distances
-      .sort((a, b) => a.distance - b.distance)
-      .slice(0, 5);
+  // Sort by distance and get the top 5
+  const topMatches = distances
+    .sort((a, b) => a.distance - b.distance)
+    .slice(0, 5);
 
-    res.json({ suggestions: topMatches });
-  });
+  res.json({ suggestions: topMatches });
 });
 
 // Start Server
-const PORT = 3000;
+const PORT = 8000;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });

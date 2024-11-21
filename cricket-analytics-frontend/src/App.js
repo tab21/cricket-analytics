@@ -7,6 +7,8 @@ const formatDate = (dateString) => {
   return date.toLocaleDateString(); // Format date in a more user-friendly way
 };
 
+const PORT = 8000;
+
 const App = () => {
   const [playerDetails, setPlayerDetails] = useState(null);
   const [suggestions, setSuggestions] = useState([]);
@@ -14,7 +16,7 @@ const App = () => {
   const searchPlayer = async (name) => {
     try {
       const response = await axios.get(
-        `http://localhost:3000/search?name=${name}`
+        `http://localhost:${PORT}/search?name=${name}`
       );
       if (response.data.match) {
         setPlayerDetails(response.data.match); // Exact match found
