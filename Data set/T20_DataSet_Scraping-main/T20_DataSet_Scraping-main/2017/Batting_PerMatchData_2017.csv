@@ -1,0 +1,1019 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out,match_id
+Bangladesh Vs New Zealand,Bangladesh,1,Tamim Iqbal,11,13,1,0,84.61,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,2,Imrul Kayes,0,2,0,0,0.00,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,3,Sabbir Rahman,16,15,1,1,106.66,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,4,Shakib Al Hasan,14,14,0,0,100.00,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,5,Soumya Sarkar,0,1,0,0,0.00,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,6,Mahmudullah,52,47,3,3,110.63,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,7,Mosaddek Hossain,20,17,0,2,117.64,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,8,Mashrafe Mortaza,1,3,0,0,33.33,out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,9,Nurul Hasan,7,6,1,0,116.66,not_out,T20I # 574
+Bangladesh Vs New Zealand,Bangladesh,10,Rubel Hossain,2,2,0,0,100.00,not_out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,1,Neil Broom,6,7,1,0,85.71,out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,2,Kane Williamson,73,55,5,2,132.72,not_out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,3,Colin Munro,0,2,0,0,0.00,out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,4,Corey Anderson,13,14,1,0,92.85,out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,5,Tom Bruce,7,9,0,0,77.77,out,T20I # 574
+Bangladesh Vs New Zealand,New Zealand,6,Colin de Grandhomme,41,22,3,3,186.36,not_out,T20I # 574
+New Zealand Vs Bangladesh,New Zealand,1,Luke Ronchi,0,1,0,0,0.00,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,2,Kane Williamson,12,13,2,0,92.30,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,3,Colin Munro,101,54,7,7,187.03,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,4,Corey Anderson,4,3,1,0,133.33,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,5,Tom Bruce,59,39,5,1,151.28,not_out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,6,Colin de Grandhomme,2,2,0,0,100.00,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,7,James Neesham,5,5,0,0,100.00,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,8,Mitchell Santner,4,4,0,0,100.00,out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,9,Ben Wheeler,0,0,0,0,-,not_out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,1,Tamim Iqbal,13,7,2,0,185.71,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,2,Imrul Kayes,0,3,0,0,0.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,3,Sabbir Rahman,48,32,3,3,150.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,4,Shakib Al Hasan,1,2,0,0,50.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,5,Soumya Sarkar,39,26,3,2,150.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,6,Mahmudullah,19,15,0,1,126.66,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,1,7,0,0,14.28,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,8,Nurul Hasan,10,9,0,0,111.11,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,9,Mashrafe Mortaza,1,2,0,0,50.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,10,Rubel Hossain,1,2,0,0,50.00,out,T20I # 575
+New Zealand Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,0,4,0,0,0.00,not_out,T20I # 575
+New Zealand Vs Bangladesh,New Zealand,1,Kane Williamson,60,57,6,1,105.26,out,T20I # 576
+New Zealand Vs Bangladesh,New Zealand,2,James Neesham,15,12,3,0,125.00,out,T20I # 576
+New Zealand Vs Bangladesh,New Zealand,3,Colin Munro,0,3,0,0,0.00,out,T20I # 576
+New Zealand Vs Bangladesh,New Zealand,4,Tom Bruce,5,4,1,0,125.00,out,T20I # 576
+New Zealand Vs Bangladesh,New Zealand,5,Corey Anderson,94,41,2,10,229.26,not_out,T20I # 576
+New Zealand Vs Bangladesh,New Zealand,6,Colin de Grandhomme,4,3,0,0,133.33,not_out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,1,Tamim Iqbal,24,15,3,1,160.00,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,2,Soumya Sarkar,42,28,6,0,150.00,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,3,Sabbir Rahman,18,16,2,0,112.50,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,4,Shakib Al Hasan,41,34,4,0,120.58,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,5,Mahmudullah,18,14,3,0,128.57,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,6,Mosaddek Hossain,12,7,2,0,171.42,out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,7,Nurul Hasan,7,5,1,0,140.00,not_out,T20I # 576
+New Zealand Vs Bangladesh,Bangladesh,8,Rubel Hossain,1,1,0,0,100.00,not_out,T20I # 576
+Scotland Vs Hong Kong,Scotland,1,George Munsey,22,26,0,84.61,31,out,T20I # 577
+Scotland Vs Hong Kong,Scotland,2,Kyle Coetzer,20,2,155.00,60,34,out,T20I # 577
+Scotland Vs Hong Kong,Scotland,3,Calum MacLeod,4,3,60,39,2,out,T20I # 577
+Scotland Vs Hong Kong,Scotland,4,Richie Berrington,2,153.84,1,0,0,not_out,T20I # 577
+Scotland Vs Hong Kong,Scotland,5,Craig Wallace,0.00,4,36,9.00,0,not_out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,1,Nizakat Khan,25,3,160.00,42,22,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,2,Aizaz Khan,3,3,10,9,0,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,3,Babar Hayat,0,111.11,0,20,5.00,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,4,Anshy Rath,0,0,0,31,7.75,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,5,Waqas Khan,0,0,0,48,12.00,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,6,Shahid Wasif,0,2,0,24,8.00,out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,7,Ehsan Khan,0,0,0,22,5.50,not_out,T20I # 577
+Scotland Vs Hong Kong,Hong Kong,8,Waqas Barkat,0,0,0,13,13.00,not_out,T20I # 577
+Ireland Vs Afghanistan,Ireland,1,Paul Stirling,25,24,0,104.16,18,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,2,Stuart Poynter,20,3,90.00,17,17,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,3,William Porterfield,1,0,12,9,2,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,4,Kevin O'Brien,0,133.33,19,2,0,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,5,Gary Wilson,121.05,3,0,0,33.33,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,6,Greg Thompson,7,12,0,58.33,13,out,T20I # 578
+Ireland Vs Afghanistan,Ireland,7,Andy McBrine,10,1,130.00,4,0,not_out,T20I # 578
+Ireland Vs Afghanistan,Ireland,8,George Dockrell,22,5.50,0,4,0,not_out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,1,Mohammad Shahzad,2,152.94,7,0,0,out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,2,Najeeb Tarakai,28.57,11,1,1,100.00,out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,3,Asghar Afghan,4,0,7.75,0,0,out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,4,Samiullah Shinwari,2,0,6.00,0,0,out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,5,Mohammad Nabi,4,0,4.75,1,0,not_out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,6,Gulbadin Naib,3.4,0,8.45,1,0,out,T20I # 578
+Ireland Vs Afghanistan,Afghanistan,7,Najibullah Zadran,4,0,5.75,0,0,not_out,T20I # 578
+Oman Vs Netherlands,Oman,1,Arun Poulose,9,9,0,100.00,34,out,T20I # 579
+Oman Vs Netherlands,Oman,2,Zeeshan Maqsood,31,5,109.67,4,3,out,T20I # 579
+Oman Vs Netherlands,Oman,3,Aqib Ilyas,1,0,17,26,1,out,T20I # 579
+Oman Vs Netherlands,Oman,4,Khawar Ali,0,65.38,13,0,1,out,T20I # 579
+Oman Vs Netherlands,Oman,5,Ajay Lalcheta,100.00,26,1,1,144.44,out,T20I # 579
+Oman Vs Netherlands,Oman,6,Khurram Nawaz,1,2,0,50.00,25,not_out,T20I # 579
+Oman Vs Netherlands,Oman,7,Sultan Ahmed,19,1,131.57,2,0,out,T20I # 579
+Oman Vs Netherlands,Oman,8,Naseem Khushi,14,7.00,0,3,0,out,T20I # 579
+Oman Vs Netherlands,Netherlands,1,Stephan Myburgh,6,0,83.33,9,4,out,T20I # 579
+Oman Vs Netherlands,Netherlands,2,Michael Rippon,0,1,3.2,0,33,out,T20I # 579
+Oman Vs Netherlands,Netherlands,3,Ben Cooper,9.90,1,4,0,33,out,T20I # 579
+Oman Vs Netherlands,Netherlands,4,Wesley Barresi,8.25,2,2,0,23,out,T20I # 579
+Oman Vs Netherlands,Netherlands,5,Roelof van der Merwe,11.50,0,4,0,24,not_out,T20I # 579
+Oman Vs Netherlands,Netherlands,6,Peter Borren,6.00,0,4,0,18,out,T20I # 579
+Oman Vs Netherlands,Netherlands,7,Max O'Dowd,4.50,0,2,0,14,not_out,T20I # 579
+Hong Kong Vs Oman,Hong Kong,1,Nizakat Khan,1,2,0,50.00,19,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,2,Aizaz Khan,14,4,135.71,5,6,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,3,Babar Hayat,1,0,8,8,1,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,4,Anshy Rath,0,100.00,13,0,0,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,5,Waqas Khan,53.84,3,0,0,150.00,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,6,Shahid Wasif,10,18,0,55.55,17,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,7,Ehsan Khan,21,0,80.95,0,2,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,8,Christopher Carter,0,0,7,16,0,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,9,Ehsan Nawaz,0,43.75,9,1,0,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,10,Nadeem Ahmed,77.77,4,18,4.50,2,out,T20I # 580
+Hong Kong Vs Oman,Hong Kong,11,Tanveer Ahmed,0,4,23,5.75,0,not_out,T20I # 580
+Hong Kong Vs Oman,Oman,1,Zeeshan Maqsood,0,29,0,0,3,out,T20I # 580
+Hong Kong Vs Oman,Oman,2,Arun Poulose,0,18,0,0,1,out,T20I # 580
+Hong Kong Vs Oman,Oman,3,Aqib Ilyas,0,11,0,0,2,not_out,T20I # 580
+Hong Kong Vs Oman,Oman,4,Khawar Ali,0,20,0,0,1,out,T20I # 580
+United Arab Emirates Vs Afghanistan,United Arab Emirates,1,Rohan Mustafa,29,19,1,152.63,13,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,2,Mohammad Shahzad,5,3,260.00,52,52,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,3,Shaiman Anwar,7,0,20,21,2,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,4,Ghulam Shabber,0,95.23,4,0,0,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,5,Rameez Shahzad,75.00,5,0,0,50.00,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,6,Muhammad Usman,7,7,0,100.00,3,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,7,Amjad Javed,2,0,150.00,1,1,out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,8,Ahmed Raza,0,0,4,0,44,not_out,T20I # 581
+United Arab Emirates Vs Afghanistan,United Arab Emirates,9,Mohammad Naveed,11.00,3,4,0,31,not_out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,1,Mohammad Shahzad,1,1,11,5,0,out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,2,Najeeb Tarakai,1,220.00,0,34,11.33,out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,3,Asghar Afghan,0,0,0,18,4.50,out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,4,Samiullah Shinwari,1,0,0,10,5.00,out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,5,Mohammad Nabi,1,0,0,16,4.00,out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,6,Karim Janat,0,0,0,41,10.69,not_out,T20I # 581
+United Arab Emirates Vs Afghanistan,Afghanistan,7,Najibullah Zadran,2,0,0,21,10.50,not_out,T20I # 581
+Scotland Vs Netherlands,Scotland,1,George Munsey,4,4,0,100.00,4,out,T20I # 582
+Scotland Vs Netherlands,Scotland,2,Kyle Coetzer,7,1,57.14,4,13,out,T20I # 582
+Scotland Vs Netherlands,Scotland,3,Matthew Cross,0,0,20,18,2,out,T20I # 582
+Scotland Vs Netherlands,Scotland,4,Calum MacLeod,0,111.11,30,4,0,out,T20I # 582
+Scotland Vs Netherlands,Scotland,5,Richie Berrington,126.66,21,2,0,100.00,out,T20I # 582
+Scotland Vs Netherlands,Scotland,6,Craig Wallace,22,10,2,220.00,20,out,T20I # 582
+Scotland Vs Netherlands,Scotland,7,Con de Lange,11,0,181.81,9,7,out,T20I # 582
+Scotland Vs Netherlands,Scotland,8,Safyaan Sharif,1,0,4,0,26,not_out,T20I # 582
+Scotland Vs Netherlands,Scotland,9,Josh Davey,6.50,0,4,0,17,not_out,T20I # 582
+Scotland Vs Netherlands,Netherlands,1,Ben Cooper,0,0,12,11,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,2,Michael Rippon,0,109.09,10,2,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,3,Tobias Visee,120.00,7,0,0,87.50,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,4,Wesley Barresi,3,3,0,100.00,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,5,Peter Borren,0,0,-,4,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,6,Roelof van der Merwe,18,4.50,0,4,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,7,Max O'Dowd,39,9.75,1,4,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,8,Pieter Seelaar,34,8.50,0,3.2,0,out,T20I # 582
+Scotland Vs Netherlands,Netherlands,9,Timm van der Gugten,30,9.00,1,4,0,not_out,T20I # 582
+Ireland Vs United Arab Emirates,Ireland,1,Paul Stirling,39,30,2,130.00,5,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,2,Stuart Poynter,7,0,71.42,0,9,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,3,William Porterfield,0,0,40,27,1,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,4,Kevin O'Brien,3,148.14,17,2,2,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,5,Gary Wilson,152.94,17,1,1,121.42,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,6,Greg Thompson,14,13,0,107.69,7,out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,7,Andy McBrine,4,0,175.00,4,0,not_out,T20I # 583
+Ireland Vs United Arab Emirates,Ireland,8,George Dockrell,32,8.00,1,4,1,not_out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,1,Rohan Mustafa,21,3,114.28,47,46,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,2,Ghulam Shabber,0,5,12,22,0,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,3,Shaiman Anwar,0,54.54,11,4,1,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,4,Mohammad Shahzad,227.27,3,16,5.33,1,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,5,Rameez Shahzad,0,4,19,4.75,1,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,6,Muhammad Usman,0,4,37,9.25,3,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,7,Amjad Javed,0,4,24,6.00,2,not_out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,8,Ahmed Raza,0,4,20,5.00,0,out,T20I # 583
+Ireland Vs United Arab Emirates,United Arab Emirates,9,Mohammad Naveed,0,1,18,18.00,0,not_out,T20I # 583
+Hong Kong Vs Netherlands,Hong Kong,1,Nizakat Khan,59,33,2,178.78,14,out,T20I # 584
+Hong Kong Vs Netherlands,Hong Kong,2,Aizaz Khan,10,2,140.00,11,25,out,T20I # 584
+Hong Kong Vs Netherlands,Hong Kong,3,Babar Hayat,0,0,44,26,5,out,T20I # 584
+Hong Kong Vs Netherlands,Hong Kong,4,Anshy Rath,1,169.23,25,2,2,out,T20I # 584
+Hong Kong Vs Netherlands,Hong Kong,5,Waqas Khan,132.00,4,0,0,200.00,not_out,T20I # 584
+Hong Kong Vs Netherlands,Hong Kong,6,Shahid Wasif,4,0,7.25,0,0,not_out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,1,Peter Borren,100.00,13,0,0,86.66,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,2,Michael Rippon,1,2,0,50.00,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,3,Ben Cooper,1,0,0.00,4,7,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,4,Wesley Barresi,0,0,11,9,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,5,Roelof van der Merwe,1,122.22,11,0,2,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,6,Max O'Dowd,163.63,4,26,6.50,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,7,Pieter Seelaar,0,2,22,11.00,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,8,Tobias Visee,0,3.3,17,4.85,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,9,Timm van der Gugten,0,1,2,2.00,0,out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,10,Ahsan Malik,0,3,16,5.33,0,not_out,T20I # 584
+Hong Kong Vs Netherlands,Netherlands,11,Paul van Meekeren,0,2,6,3.00,0,out,T20I # 584
+Oman Vs Scotland,Oman,1,Zeeshan Maqsood,17,22,0,77.27,0,out,T20I # 585
+Oman Vs Scotland,Oman,2,Arun Poulose,3,0,0.00,19,21,out,T20I # 585
+Oman Vs Scotland,Oman,3,Aqib Ilyas,2,0,13,16,1,out,T20I # 585
+Oman Vs Scotland,Oman,4,Khawar Ali,0,81.25,25,2,1,out,T20I # 585
+Oman Vs Scotland,Oman,5,Khurram Nawaz,92.00,20,2,1,142.85,out,T20I # 585
+Oman Vs Scotland,Oman,6,Ajay Lalcheta,0,1,0,0.00,17,out,T20I # 585
+Oman Vs Scotland,Oman,7,Naseem Khushi,13,2,130.76,2,4,out,T20I # 585
+Oman Vs Scotland,Oman,8,Sultan Ahmed,0,0,0,1,0,out,T20I # 585
+Oman Vs Scotland,Oman,9,Mohammad Nadeem,0,0.00,2,1,0,out,T20I # 585
+Oman Vs Scotland,Oman,10,Kaleemullah,200.00,4,21,5.25,2,out,T20I # 585
+Oman Vs Scotland,Oman,11,Bilal Khan,0,4,33,8.25,0,not_out,T20I # 585
+Oman Vs Scotland,Scotland,1,George Munsey,0,31,1,1,4,out,T20I # 585
+Oman Vs Scotland,Scotland,2,Kyle Coetzer,0,23,0,0,4,out,T20I # 585
+Oman Vs Scotland,Scotland,3,Matthew Cross,0,22,0,0,3,out,T20I # 585
+Oman Vs Scotland,Scotland,4,Calum MacLeod,0,14,1,0,4,not_out,T20I # 585
+Oman Vs Scotland,Scotland,5,Craig Wallace,0,28,1,0,1,not_out,T20I # 585
+Oman Vs Afghanistan,Oman,1,Zeeshan Maqsood,33,36,1,91.66,5,out,T20I # 586
+Oman Vs Afghanistan,Oman,2,Khawar Ali,9,1,55.55,15,15,out,T20I # 586
+Oman Vs Afghanistan,Oman,3,Aqib Ilyas,1,1,10,10,0,out,T20I # 586
+Oman Vs Afghanistan,Oman,4,Mehran Khan,1,100.00,19,0,1,out,T20I # 586
+Oman Vs Afghanistan,Oman,5,Khurram Nawaz,126.31,16,1,1,160.00,out,T20I # 586
+Oman Vs Afghanistan,Oman,6,Ajay Lalcheta,29,17,3,170.58,6,out,T20I # 586
+Oman Vs Afghanistan,Oman,7,Naseem Khushi,4,1,150.00,0,0,out,T20I # 586
+Oman Vs Afghanistan,Oman,8,Mohammad Nadeem,0,0,4,0,35,out,T20I # 586
+Oman Vs Afghanistan,Oman,9,Sultan Ahmed,8.75,2,4,0,28,not_out,T20I # 586
+Oman Vs Afghanistan,Afghanistan,1,Mohammad Shahzad,0,17,0,0,3,out,T20I # 586
+Oman Vs Afghanistan,Afghanistan,2,Nawroz Mangal,0,21,0,0,2,out,T20I # 586
+Oman Vs Afghanistan,Afghanistan,3,Asghar Afghan,0,18,0,0,4,not_out,T20I # 586
+Oman Vs Afghanistan,Afghanistan,4,Samiullah Shinwari,0,13,0,0,3,not_out,T20I # 586
+Ireland Vs Scotland,Ireland,1,Paul Stirling,60,36,3,166.66,39,out,T20I # 587
+Ireland Vs Scotland,Ireland,2,Stuart Poynter,19,7,205.26,2,2,out,T20I # 587
+Ireland Vs Scotland,Ireland,3,William Porterfield,0,0,30,22,0,out,T20I # 587
+Ireland Vs Scotland,Ireland,4,Kevin O'Brien,2,136.36,29,8,3,out,T20I # 587
+Ireland Vs Scotland,Ireland,5,Gary Wilson,224.13,6,0,0,85.71,not_out,T20I # 587
+Ireland Vs Scotland,Ireland,6,Andy McBrine,0,2,0,0.00,3,out,T20I # 587
+Ireland Vs Scotland,Ireland,7,Greg Thompson,3,0,100.00,4,0,out,T20I # 587
+Ireland Vs Scotland,Ireland,8,George Dockrell,47,11.75,0,4,0,not_out,T20I # 587
+Ireland Vs Scotland,Scotland,1,Kyle Coetzer,1,100.00,4,0,0,out,T20I # 587
+Ireland Vs Scotland,Scotland,2,Matthew Cross,50.00,12,2,0,120.00,out,T20I # 587
+Ireland Vs Scotland,Scotland,3,Calum MacLeod,1,4,0,25.00,1,out,T20I # 587
+Ireland Vs Scotland,Scotland,4,George Munsey,2,0,50.00,6,4,out,T20I # 587
+Ireland Vs Scotland,Scotland,5,Richie Berrington,1,0,0,0,0,out,T20I # 587
+Ireland Vs Scotland,Scotland,6,Safyaan Sharif,0,-,0,10,3.33,out,T20I # 587
+Ireland Vs Scotland,Scotland,7,Con de Lange,0,0,0,33,16.50,out,T20I # 587
+Ireland Vs Scotland,Scotland,8,Craig Wallace,0,0,0,24,8.00,out,T20I # 587
+Ireland Vs Scotland,Scotland,9,Josh Davey,0,0,0,28,8.84,out,T20I # 587
+Ireland Vs Scotland,Scotland,10,Mark Watt,0,0,0,16,4.00,out,T20I # 587
+Ireland Vs Afghanistan,Ireland,1,Paul Stirling,17,18,0,94.44,8,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,2,Stuart Poynter,3,2,266.66,9,8,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,3,William Porterfield,0,1,5,6,1,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,4,Kevin O'Brien,0,83.33,6,0,0,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,5,Gary Wilson,50.00,10,1,0,62.50,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,6,Greg Thompson,0,2,0,0.00,8,not_out,T20I # 588
+Ireland Vs Afghanistan,Ireland,7,Andy McBrine,14,0,57.14,0,1,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,8,George Dockrell,0,0,2,4,0,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,9,Jacob Mulder,0,50.00,2,0,0,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,10,Boyd Rankin,100.00,4,15,3.75,0,out,T20I # 588
+Ireland Vs Afghanistan,Ireland,11,Craig Young,0,2,20,10.00,0,out,T20I # 588
+Ireland Vs Afghanistan,Afghanistan,1,Mohammad Shahzad,0,0,0,16,16.00,not_out,T20I # 588
+Ireland Vs Afghanistan,Afghanistan,2,Nawroz Mangal,0,0,0,7,7.00,not_out,T20I # 588
+South Africa Vs Sri Lanka,South Africa,1,JJ Smuts,13,8,1,162.50,10,out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,2,Heino Kuhn,6,2,166.66,19,10,out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,3,Theunis de Bruyn,2,1,40,18,3,out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,4,David Miller,3,222.22,18,3,1,out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,5,Farhaan Behardien,172.22,6,0,1,600.00,not_out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,6,Mangaliso Mosehle,0,0,0,-,2,out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,7,Wayne Parnell,0,29,0,3,1,not_out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,2,2,6,8,0,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,2,Dhananjaya de Silva,0,75.00,1,0,0,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,3,Angelo Mathews,0.00,12,0,2,400.00,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,4,Thikshila de Silva,1,2,0,50.00,6,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,5,Seekkuge Prasanna,5,1,120.00,10,6,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,6,Kusal Mendis,0,1,2,0,12,out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,7,Dinesh Chandimal,6.00,6,0,0,0,not_out,T20I # 589
+South Africa Vs Sri Lanka,Sri Lanka,8,Asela Gunaratne,2,0,11.50,4,3,not_out,T20I # 589
+South Africa Vs Sri Lanka,South Africa,1,JJ Smuts,4,8,1,0,50.00,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,2,Heino Kuhn,29,20,1,2,145.00,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,3,Theunis de Bruyn,7,6,1,0,116.66,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,4,Mangaliso Mosehle,11,10,2,0,110.00,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,5,David Miller,11,14,1,0,78.57,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,6,Farhaan Behardien,27,22,2,0,122.72,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,7,Wayne Parnell,3,7,0,0,42.85,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,8,Andile Phehlukwayo,0,2,0,0,0.00,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,9,Aaron Phangiso,13,19,1,0,68.42,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,10,Imran Tahir,1,6,0,0,16.66,out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,11,Lungi Ngidi,2,3,0,0,66.66,not_out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,22,15,5,0,146.66,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,2,Dhananjaya de Silva,2,6,0,0,33.33,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,3,Kusal Mendis,4,2,1,0,200.00,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,4,Dinesh Chandimal,22,28,0,0,78.57,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,5,Angelo Mathews,54,50,1,3,108.00,not_out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,6,Asela Gunaratne,3,5,0,0,60.00,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,7,Seekkuge Prasanna,2,5,0,0,40.00,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,8,Thikshila de Silva,3,6,0,0,50.00,out,T20I # 590
+South Africa Vs Sri Lanka,Sri Lanka,9,Nuwan Kulasekara,0,1,0,0,0.00,not_out,T20I # 590
+South Africa Vs Sri Lanka,South Africa,1,JJ Smuts,19,14,3,0,135.71,out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,2,Reeza Hendricks,41,34,4,0,120.58,out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,3,AB de Villiers,63,44,2,3,143.18,out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,4,David Miller,1,4,0,0,25.00,out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,5,Farhaan Behardien,6,6,0,0,100.00,out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,6,Mangaliso Mosehle,32,15,1,3,213.33,not_out,T20I # 591
+South Africa Vs Sri Lanka,South Africa,7,Wayne Parnell,3,3,0,0,100.00,not_out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,68,51,10,1,133.33,out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,20,11,4,0,181.81,out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,3,Dinesh Chandimal,5,5,0,0,100.00,out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,4,Dhananjaya de Silva,19,27,0,0,70.37,out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,5,Seekkuge Prasanna,37,16,3,3,231.25,not_out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,6,Kusal Mendis,2,3,0,0,66.66,out,T20I # 591
+South Africa Vs Sri Lanka,Sri Lanka,7,Asela Gunaratne,11,6,2,0,183.33,not_out,T20I # 591
+India Vs England,India,1,Virat Kohli,29,26,4,0,111.53,out,T20I # 592
+India Vs England,India,2,KL Rahul,8,9,1,0,88.88,out,T20I # 592
+India Vs England,India,3,Suresh Raina,34,23,4,1,147.82,out,T20I # 592
+India Vs England,India,4,Yuvraj Singh,12,13,1,0,92.30,out,T20I # 592
+India Vs England,India,5,MS Dhoni,36,27,3,0,133.33,not_out,T20I # 592
+India Vs England,India,6,Manish Pandey,3,5,0,0,60.00,out,T20I # 592
+India Vs England,India,7,Hardik Pandya,9,12,0,0,75.00,out,T20I # 592
+India Vs England,India,8,Parvez Rasool,5,6,0,0,83.33,out,T20I # 592
+India Vs England,India,9,Jasprit Bumrah,0,0,0,0,-,not_out,T20I # 592
+India Vs England,England,1,Jason Roy,19,11,0,2,172.72,out,T20I # 592
+India Vs England,England,2,Sam Billings,22,10,3,1,220.00,out,T20I # 592
+India Vs England,England,3,Joe Root,46,46,4,0,100.00,not_out,T20I # 592
+India Vs England,England,4,Eoin Morgan,51,38,1,4,134.21,out,T20I # 592
+India Vs England,England,5,Ben Stokes,2,5,0,0,40.00,not_out,T20I # 592
+India Vs England,India,1,Virat Kohli,21,15,2,1,140.00,out,T20I # 593
+India Vs England,India,2,KL Rahul,71,47,6,2,151.06,out,T20I # 593
+India Vs England,India,3,Suresh Raina,7,10,0,0,70.00,out,T20I # 593
+India Vs England,India,4,Yuvraj Singh,4,12,0,0,33.33,out,T20I # 593
+India Vs England,India,5,Manish Pandey,30,26,0,1,115.38,out,T20I # 593
+India Vs England,India,6,MS Dhoni,5,7,0,0,71.42,out,T20I # 593
+India Vs England,India,7,Hardik Pandya,2,3,0,0,66.66,out,T20I # 593
+India Vs England,India,8,Amit Mishra,0,0,0,0,-,out,T20I # 593
+India Vs England,India,9,Jasprit Bumrah,0,0,0,0,-,not_out,T20I # 593
+India Vs England,England,1,Jason Roy,10,11,0,1,90.90,out,T20I # 593
+India Vs England,England,2,Sam Billings,12,9,0,1,133.33,out,T20I # 593
+India Vs England,England,3,Joe Root,38,38,2,0,100.00,out,T20I # 593
+India Vs England,England,4,Eoin Morgan,17,23,1,0,73.91,out,T20I # 593
+India Vs England,England,5,Ben Stokes,38,27,2,2,140.74,out,T20I # 593
+India Vs England,England,6,Jos Buttler,15,10,1,1,150.00,out,T20I # 593
+India Vs England,England,7,Moeen Ali,1,2,0,0,50.00,not_out,T20I # 593
+India Vs England,England,8,Chris Jordan,0,1,0,0,0.00,not_out,T20I # 593
+India Vs England,India,1,Virat Kohli,2,4,0,0,50.00,out,T20I # 594
+India Vs England,India,2,KL Rahul,22,18,2,1,122.22,out,T20I # 594
+India Vs England,India,3,Suresh Raina,63,45,2,5,140.00,out,T20I # 594
+India Vs England,India,4,MS Dhoni,56,36,5,2,155.55,out,T20I # 594
+India Vs England,India,5,Yuvraj Singh,27,10,1,3,270.00,out,T20I # 594
+India Vs England,India,6,Rishabh Pant,5,3,1,0,166.66,not_out,T20I # 594
+India Vs England,India,7,Hardik Pandya,11,4,0,1,275.00,out,T20I # 594
+India Vs England,England,1,Jason Roy,32,23,4,1,139.13,out,T20I # 594
+India Vs England,England,2,Sam Billings,0,1,0,0,0.00,out,T20I # 594
+India Vs England,England,3,Joe Root,42,37,4,2,113.51,out,T20I # 594
+India Vs England,England,4,Eoin Morgan,40,21,2,3,190.47,out,T20I # 594
+India Vs England,England,5,Jos Buttler,0,2,0,0,0.00,out,T20I # 594
+India Vs England,England,6,Ben Stokes,6,7,1,0,85.71,out,T20I # 594
+India Vs England,England,7,Moeen Ali,2,3,0,0,66.66,out,T20I # 594
+India Vs England,England,8,Liam Plunkett,0,1,0,0,0.00,out,T20I # 594
+India Vs England,England,9,Chris Jordan,0,2,0,0,0.00,out,T20I # 594
+India Vs England,England,10,Adil Rashid,0,0,0,0,-,not_out,T20I # 594
+India Vs England,England,11,Tymal Mills,0,2,0,0,0.00,out,T20I # 594
+South Africa Vs New Zealand,South Africa,1,Hashim Amla,62,43,9,1,144.18,out,T20I # 595
+South Africa Vs New Zealand,South Africa,2,Quinton de Kock,0,4,0,0,0.00,out,T20I # 595
+South Africa Vs New Zealand,South Africa,3,Faf du Plessis,36,25,1,3,144.00,out,T20I # 595
+South Africa Vs New Zealand,South Africa,4,AB de Villiers,26,17,3,1,152.94,out,T20I # 595
+South Africa Vs New Zealand,South Africa,5,Jean-Paul Duminy,29,16,2,2,181.25,out,T20I # 595
+South Africa Vs New Zealand,South Africa,6,Farhaan Behardien,8,7,0,1,114.28,out,T20I # 595
+South Africa Vs New Zealand,South Africa,7,Chris Morris,9,7,0,1,128.57,not_out,T20I # 595
+South Africa Vs New Zealand,South Africa,8,Wayne Parnell,4,1,1,0,400.00,not_out,T20I # 595
+South Africa Vs New Zealand,New Zealand,1,Glenn Phillips,5,11,0,0,45.45,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,2,Kane Williamson,13,13,2,0,100.00,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,3,Colin Munro,0,1,0,0,0.00,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,4,Tom Bruce,33,27,3,2,122.22,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,5,Corey Anderson,6,10,0,0,60.00,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,6,Colin de Grandhomme,15,7,0,2,214.28,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,7,Luke Ronchi,0,1,0,0,0.00,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,8,Mitchell Santner,5,6,1,0,83.33,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,9,Ben Wheeler,6,6,1,0,100.00,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,10,Tim Southee,20,6,0,3,333.33,out,T20I # 595
+South Africa Vs New Zealand,New Zealand,11,Trent Boult,1,1,0,0,100.00,not_out,T20I # 595
+Australia Vs Sri Lanka,Australia,1,Aaron Finch,43,34,2,2,126.47,out,T20I # 596
+Australia Vs Sri Lanka,Australia,2,Michael Klinger,38,32,4,0,118.75,out,T20I # 596
+Australia Vs Sri Lanka,Australia,3,Travis Head,31,25,0,1,124.00,out,T20I # 596
+Australia Vs Sri Lanka,Australia,4,Moises Henriques,17,10,0,1,170.00,out,T20I # 596
+Australia Vs Sri Lanka,Australia,5,Ashton Turner,18,13,1,0,138.46,out,T20I # 596
+Australia Vs Sri Lanka,Australia,6,James Faulkner,14,7,2,0,200.00,not_out,T20I # 596
+Australia Vs Sri Lanka,Australia,7,Tim Paine,0,0,0,0,-,out,T20I # 596
+Australia Vs Sri Lanka,Australia,8,Pat Cummins,0,0,0,0,-,not_out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,30,25,4,1,120.00,out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,0,2,0,0,0.00,out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,3,Dilshan Munaweera,44,29,6,0,151.72,out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,4,Asela Gunaratne,52,37,7,0,140.54,out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,5,Milinda Siriwardana,15,11,1,0,136.36,out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,6,Chamara Kapugedera,10,7,1,0,142.85,not_out,T20I # 596
+Australia Vs Sri Lanka,Sri Lanka,7,Seekkuge Prasanna,8,9,1,0,88.88,not_out,T20I # 596
+Australia Vs Sri Lanka,Australia,1,Michael Klinger,43,37,2,1,116.21,out,T20I # 597
+Australia Vs Sri Lanka,Australia,2,Aaron Finch,12,10,2,0,120.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,3,Ben Dunk,32,14,3,3,228.57,out,T20I # 597
+Australia Vs Sri Lanka,Australia,4,Moises Henriques,56,37,2,2,151.35,not_out,T20I # 597
+Australia Vs Sri Lanka,Australia,5,Travis Head,4,4,0,0,100.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,6,Ashton Turner,7,6,0,0,116.66,out,T20I # 597
+Australia Vs Sri Lanka,Australia,7,James Faulkner,1,2,0,0,50.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,8,Tim Paine,7,4,1,0,175.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,9,Pat Cummins,3,3,0,0,100.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,10,Andrew Tye,0,2,0,0,0.00,out,T20I # 597
+Australia Vs Sri Lanka,Australia,11,Jhye Richardson,0,1,0,0,0.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,14,8,3,0,175.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,4,4,1,0,100.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,3,Dilshan Munaweera,10,4,1,1,250.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,4,Kusal Mendis,5,7,0,0,71.42,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,5,Asela Gunaratne,84,46,6,5,182.60,not_out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,6,Milinda Siriwardana,0,1,0,0,0.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,7,Chamara Kapugedera,32,32,4,0,100.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,8,Seekkuge Prasanna,7,9,1,0,77.77,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,9,Nuwan Kulasekara,12,8,2,0,150.00,out,T20I # 597
+Australia Vs Sri Lanka,Sri Lanka,10,Lasith Malinga,1,1,0,0,100.00,not_out,T20I # 597
+Australia Vs Sri Lanka,Australia,1,Aaron Finch,53,32,3,165.62,62,out,T20I # 598
+Australia Vs Sri Lanka,Australia,2,Michael Klinger,43,6,144.18,28,21,out,T20I # 598
+Australia Vs Sri Lanka,Australia,3,Ben Dunk,2,2,30,16,1,out,T20I # 598
+Australia Vs Sri Lanka,Australia,4,Travis Head,2,187.50,3,0,0,out,T20I # 598
+Australia Vs Sri Lanka,Australia,5,Moises Henriques,66.66,1,0,0,50.00,not_out,T20I # 598
+Australia Vs Sri Lanka,Australia,6,Ashton Turner,2,2,0,100.00,1,out,T20I # 598
+Australia Vs Sri Lanka,Australia,7,James Faulkner,2,0,50.00,4,0,out,T20I # 598
+Australia Vs Sri Lanka,Australia,8,Tim Paine,35,8.75,2,2,1,not_out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,1,Dilshan Munaweera,1,116.66,10,2,0,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,140.00,4,0,0,80.00,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,3,Kusal Mendis,35,27,2,129.62,7,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,4,Asela Gunaratne,6,1,116.66,0,2,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,5,Milinda Siriwardana,0,0,12,8,2,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,6,Chamara Kapugedera,0,150.00,7,1,0,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,7,Dasun Shanaka,114.28,1,0,0,33.33,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,8,Seekkuge Prasanna,5,3,0,166.66,2,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,9,Nuwan Kulasekara,0,15,6,2,0,not_out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,10,Lasith Malinga,1,0,0,38,12.66,out,T20I # 598
+Australia Vs Sri Lanka,Sri Lanka,11,Vikum Sanjaya,4,2,2,0,3,out,T20I # 598
+Ireland Vs Afghanistan,Ireland,1,Stuart Thompson,56,35,6,2,160.00,out,T20I # 599
+Ireland Vs Afghanistan,Ireland,2,Paul Stirling,0,2,0,0,0.00,out,T20I # 599
+Ireland Vs Afghanistan,Ireland,3,William Porterfield,39,30,5,0,130.00,out,T20I # 599
+Ireland Vs Afghanistan,Ireland,4,Kevin O'Brien,11,14,1,0,78.57,out,T20I # 599
+Ireland Vs Afghanistan,Ireland,5,Gary Wilson,41,27,3,1,151.85,not_out,T20I # 599
+Ireland Vs Afghanistan,Ireland,6,Lorcan Tucker,14,13,2,0,107.69,out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,1,Mohammad Shahzad,6,3,20,13,22,out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,2,Najeeb Tarakai,2,1,1,2,6,out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,3,Samiullah Shinwari,0,0,6,1,1,out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,4,Asghar Afghan,0,1,1,0,8,not_out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,5,Mohammad Nabi,8.00,0,4,0,35,out,T20I # 599
+Ireland Vs Afghanistan,Afghanistan,6,Shafiqullah,8.75,0,4,0,52,not_out,T20I # 599
+Afghanistan Vs Ireland,Afghanistan,1,Mohammad Shahzad,4,4,1,0,100.00,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,2,Najeeb Tarakai,90,58,7,5,155.17,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,3,Asghar Afghan,4,7,1,0,57.14,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,4,Samiullah Shinwari,17,16,1,1,106.25,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,5,Shafiqullah,0,1,0,0,0.00,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,6,Karim Janat,20,15,1,1,133.33,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,7,Mohammad Nabi,34,15,4,2,226.66,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,8,Najibullah Zadran,7,2,0,1,350.00,not_out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,9,Rashid Khan,1,2,0,0,50.00,out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,10,Amir Hamza,0,0,0,0,-,not_out,T20I # 600
+Afghanistan Vs Ireland,Ireland,1,Stuart Thompson,1,2,5,8,8,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,2,Paul Stirling,0,0,1,2,4,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,3,William Porterfield,0,0,1,2,5,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,4,Kevin O'Brien,0,0,9,6,9,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,5,Gary Wilson,2,0,1,4,7,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,6,Andy McBrine,0,0,5,2,8,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,7,Lorcan Tucker,1,0,0,1,1,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,8,Greg Thompson,0,0,5,5,4,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,9,George Dockrell,0,0,2,0,18,not_out,T20I # 600
+Afghanistan Vs Ireland,Ireland,10,Barry McCarthy,9.00,1,2,0,31,out,T20I # 600
+Afghanistan Vs Ireland,Ireland,11,Jacob Mulder,15.50,0,3,0,24,not_out,T20I # 600
+Afghanistan Vs Ireland,Afghanistan,1,Mohammad Shahzad,72,43,6,5,167.44,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,2,Najeeb Tarakai,3,5,0,0,60.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,3,Usman Ghani,23,20,3,0,115.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,4,Asghar Afghan,12,5,1,1,240.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,5,Najibullah Zadran,1,5,0,0,20.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,6,Samiullah Shinwari,13,10,1,0,130.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,7,Mohammad Nabi,89,30,6,9,296.66,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,8,Karim Janat,6,2,0,1,300.00,out,T20I # 601
+Afghanistan Vs Ireland,Afghanistan,9,Rashid Khan,1,1,0,0,100.00,not_out,T20I # 601
+Afghanistan Vs Ireland,Ireland,1,Paul Stirling,3,6,0,0,50.00,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,2,Stuart Thompson,59,34,5,2,173.52,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,3,William Porterfield,13,8,0,1,162.50,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,4,Kevin O'Brien,16,14,0,1,114.28,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,5,Gary Wilson,0,1,0,0,0.00,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,6,Andy McBrine,2,3,0,0,66.66,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,7,Lorcan Tucker,0,0,0,0,-,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,8,Greg Thompson,0,0,0,0,-,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,9,George Dockrell,4,0,15.00,1,2,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,10,Barry McCarthy,4,0,9.75,0,0,out,T20I # 601
+Afghanistan Vs Ireland,Ireland,11,Jacob Mulder,3.2,0,12.90,0,0,not_out,T20I # 601
+West Indies Vs Pakistan,West Indies,1,Evin Lewis,10,10,1,100.00,18,out,T20I # 602
+West Indies Vs Pakistan,West Indies,2,Chadwick Walton,18,1,100.00,7,14,out,T20I # 602
+West Indies Vs Pakistan,West Indies,3,Marlon Samuels,1,0,1,3,0,out,T20I # 602
+West Indies Vs Pakistan,West Indies,4,Lendl Simmons,0,33.33,27,1,0,out,T20I # 602
+West Indies Vs Pakistan,West Indies,5,Kieron Pollard,51.85,1,0,0,20.00,out,T20I # 602
+West Indies Vs Pakistan,West Indies,6,Sunil Narine,5,5,0,100.00,34,out,T20I # 602
+West Indies Vs Pakistan,West Indies,7,Rovman Powell,27,2,125.92,14,12,out,T20I # 602
+West Indies Vs Pakistan,West Indies,8,Carlos Brathwaite,2,0,3,0,12,not_out,T20I # 602
+West Indies Vs Pakistan,West Indies,9,Jason Holder,4.00,9,0,0,0,out,T20I # 602
+West Indies Vs Pakistan,Pakistan,1,Kamran Akmal,100.00,29,3,0,96.66,out,T20I # 602
+West Indies Vs Pakistan,Pakistan,2,Ahmed Shehzad,5,12,0,41.66,38,out,T20I # 602
+West Indies Vs Pakistan,Pakistan,3,Babar Azam,29,3,131.03,4,3,out,T20I # 602
+West Indies Vs Pakistan,Pakistan,4,Mohammad Hafeez,0,0,4,0,24,out,T20I # 602
+West Indies Vs Pakistan,Pakistan,5,Shoaib Malik,6.00,14,1,1,0,not_out,T20I # 602
+West Indies Vs Pakistan,Pakistan,6,Sarfaraz Ahmed,3.1,0,8.52,8,5,not_out,T20I # 602
+Pakistan Vs West Indies,Pakistan,1,Kamran Akmal,0,5,0,0.00,14,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,2,Ahmed Shehzad,15,1,93.33,27,28,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,3,Babar Azam,4,0,28,20,3,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,4,Shoaib Malik,1,140.00,8,0,0,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,5,Fakhar Zaman,62.50,12,1,0,70.58,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,6,Sarfaraz Ahmed,4,4,0,100.00,4,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,7,Imad Wasim,2,1,200.00,13,10,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,8,Sohail Tanvir,1,0,24,10,1,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,9,Shadab Khan,2,240.00,1,0,0,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,10,Wahab Riaz,0.00,4,14,3.50,13,out,T20I # 603
+Pakistan Vs West Indies,Pakistan,11,Hasan Ali,1,0,0,4,0,not_out,T20I # 603
+Pakistan Vs West Indies,West Indies,1,Evin Lewis,35,5,125.71,1,2,out,T20I # 603
+Pakistan Vs West Indies,West Indies,2,Chadwick Walton,0,0,3,4,0,out,T20I # 603
+Pakistan Vs West Indies,West Indies,3,Marlon Samuels,0,75.00,1,0,0,out,T20I # 603
+Pakistan Vs West Indies,West Indies,4,Lendl Simmons,0.00,15,1,0,65.21,out,T20I # 603
+Pakistan Vs West Indies,West Indies,5,Kieron Pollard,26,17,1,152.94,9,out,T20I # 603
+Pakistan Vs West Indies,West Indies,6,Rovman Powell,7,2,128.57,0,0,out,T20I # 603
+Pakistan Vs West Indies,West Indies,7,Carlos Brathwaite,0,0,4,0,28,out,T20I # 603
+Pakistan Vs West Indies,West Indies,8,Jason Holder,7.00,10,2,0,0,not_out,T20I # 603
+Pakistan Vs West Indies,West Indies,9,Sunil Narine,4,0,7.25,6,0,out,T20I # 603
+Pakistan Vs West Indies,West Indies,10,Samuel Badree,1,1,4,0,35,not_out,T20I # 603
+Pakistan Vs West Indies,Pakistan,1,Ahmed Shehzad,4,2,0,200.00,48,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,2,Kamran Akmal,37,4,129.72,0,2,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,3,Imad Wasim,0,0,43,38,3,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,4,Babar Azam,1,113.15,8,0,0,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,5,Shoaib Malik,25.00,21,0,1,100.00,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,6,Fakhar Zaman,3,4,0,75.00,1,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,7,Sarfaraz Ahmed,2,0,50.00,2,4,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,8,Wahab Riaz,0,0,3,2,0,out,T20I # 604
+Pakistan Vs West Indies,Pakistan,9,Sohail Tanvir,0,150.00,0,22,5.50,not_out,T20I # 604
+Pakistan Vs West Indies,Pakistan,10,Shadab Khan,12,3,0,0,4,not_out,T20I # 604
+Pakistan Vs West Indies,West Indies,1,Evin Lewis,18,19,0,94.73,17,out,T20I # 604
+Pakistan Vs West Indies,West Indies,2,Chadwick Walton,15,2,113.33,4,1,out,T20I # 604
+Pakistan Vs West Indies,West Indies,3,Marlon Samuels,1,0,3,0,20,out,T20I # 604
+Pakistan Vs West Indies,West Indies,4,Jason Mohammed,6.66,10,2,1,0,not_out,T20I # 604
+Pakistan Vs West Indies,West Indies,5,Lendl Simmons,3,0,13.33,8,4,not_out,T20I # 604
+West Indies Vs Pakistan,West Indies,1,Evin Lewis,7,8,1,87.50,40,out,T20I # 605
+West Indies Vs Pakistan,West Indies,2,Chadwick Walton,31,2,129.03,22,21,out,T20I # 605
+West Indies Vs Pakistan,West Indies,3,Marlon Samuels,1,2,1,10,0,out,T20I # 605
+West Indies Vs Pakistan,West Indies,4,Jason Mohammed,0,10.00,4,0,0,out,T20I # 605
+West Indies Vs Pakistan,West Indies,5,Lendl Simmons,25.00,3,0,0,50.00,out,T20I # 605
+West Indies Vs Pakistan,West Indies,6,Kieron Pollard,37,24,2,154.16,0,out,T20I # 605
+West Indies Vs Pakistan,West Indies,7,Carlos Brathwaite,4,0,0.00,9,9,not_out,T20I # 605
+West Indies Vs Pakistan,West Indies,8,Jason Holder,0,0,1,3,0,out,T20I # 605
+West Indies Vs Pakistan,West Indies,9,Sunil Narine,0,33.33,0,25,6.25,out,T20I # 605
+West Indies Vs Pakistan,West Indies,10,Samuel Badree,13,3,0,0,4,not_out,T20I # 605
+West Indies Vs Pakistan,Pakistan,1,Ahmed Shehzad,38,36,1,105.55,9,out,T20I # 605
+West Indies Vs Pakistan,Pakistan,2,Kamran Akmal,7,1,128.57,3,5,out,T20I # 605
+West Indies Vs Pakistan,Pakistan,3,Babar Azam,0,0,4,0,38,out,T20I # 605
+West Indies Vs Pakistan,Pakistan,4,Shoaib Malik,9.50,10,3,0,0,not_out,T20I # 605
+West Indies Vs Pakistan,Pakistan,5,Sarfaraz Ahmed,3,0,8.00,7,4,not_out,T20I # 605
+Bangladesh Vs Sri Lanka,Bangladesh,1,Tamim Iqbal,0,2,0,0.00,29,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,2,Soumya Sarkar,20,3,145.00,16,14,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,3,Sabbir Rahman,2,0,8,9,1,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,4,Mushfiqur Rahim,0,88.88,15,0,0,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,5,Shakib Al Hasan,73.33,34,3,0,113.33,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,6,Mosaddek Hossain,31,26,0,119.23,9,not_out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,7,Mahmudullah,5,1,180.00,4,0,out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,8,Mashrafe Mortaza,38,9.50,2,1,2,not_out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,1,Kusal Perera,0,104.34,6,1,0,out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,133.33,17,1,0,94.44,out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,3,Dilshan Munaweera,22,12,2,183.33,4,out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,4,Asela Gunaratne,1,1,400.00,2,0,out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,5,Seekkuge Prasanna,6,3.00,0,0,0,not_out,T20I # 606
+Bangladesh Vs Sri Lanka,Sri Lanka,6,Thisara Perera,0,2.5,33,11.64,6,not_out,T20I # 606
+Bangladesh Vs Sri Lanka,Bangladesh,1,Imrul Kayes,36,25,1,144.00,34,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,2,Soumya Sarkar,17,4,200.00,19,18,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,3,Sabbir Rahman,0,1,38,31,4,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,4,Shakib Al Hasan,0,122.58,11,1,1,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,5,Mosaddek Hossain,154.54,4,0,0,80.00,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,6,Mahmudullah,15,6,1,250.00,0,not_out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,7,Mushfiqur Rahim,1,0,0.00,0,1,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,8,Mashrafe Mortaza,0,0,6,5,1,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,9,Mehidy Hasan Miraz,0,120.00,0,34,8.50,out,T20I # 607
+Bangladesh Vs Sri Lanka,Bangladesh,10,Mohammad Saifuddin,10,4,1,0,4,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,1,Kusal Perera,23,21,0,109.52,50,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,2,Dilshan Munaweera,35,5,142.85,0,1,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,3,Upul Tharanga,0,0,0,1,0,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,4,Chamara Kapugedera,0,0.00,23,3,0,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,5,Asela Gunaratne,117.39,11,0,0,100.00,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,6,Milinda Siriwardana,2,5,0,40.00,0,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,7,Thisara Perera,3,0,0.00,6,3,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,8,Seekkuge Prasanna,1,0,4,0,24,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,9,Nuwan Kulasekara,6.00,9,0,1,0,not_out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,10,Lasith Malinga,4,0,7.50,8,3,out,T20I # 607
+Bangladesh Vs Sri Lanka,Sri Lanka,11,Vikum Sanjaya,0,0,2,0,15,out,T20I # 607
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,1,Tony Ura,7,14,0,50.00,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,2,Vani Morea,3,0,0.00,0,5,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,3,Lega Siaka,0,0,9,12,1,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,4,Assad Vala,0,75.00,23,1,1,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,5,Sese Bau,95.65,31,2,0,114.81,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,6,Mahuru Dai,5,8,0,62.50,6,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,7,Jack Vare,6,1,100.00,14,10,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,8,John Reva,1,0,0,0,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,9,Norman Vanua,0,-,2,0,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,10,Alei Nao,100.00,4,12,3.00,0,not_out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,11,Willie Gavera,0,4,12,3.00,1,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,1,Rohan Mustafa,72.22,9,0,1,128.57,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,2,Mohammad Naveed,4,0,4.75,0,1,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,3,Shaiman Anwar,3,0,10.00,1,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,4,Rameez Shahzad,3,0,6.33,0,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,5,Muhammad Usman,2,0,10.50,0,0,out,T20I # 608
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,6,Mohammed Qasim,3.1,0,5.68,0,0,not_out,T20I # 608
+United Arab Emirates Vs Papua New Guinea,United Arab Emirates,1,Rohan Mustafa,4,2,0,200.00,4,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,United Arab Emirates,2,Mohammad Naveed,2,1,200.00,117,68,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,United Arab Emirates,3,Shaiman Anwar,10,6,13,20,0,not_out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,United Arab Emirates,4,Mohammed Qasim,0,65.00,30,2,0,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,United Arab Emirates,5,Rameez Shahzad,96.66,3,41,13.66,3,not_out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,1,Tony Ura,36,2,105.55,1,4,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,2,Lega Siaka,0,0,7,12,0,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,3,Assad Vala,0,58.33,1,0,0,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,4,Mahuru Dai,0.00,7,1,0,175.00,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,5,Sese Bau,1,4,0,25.00,2,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,6,Jack Vare,0,26,0,0,4,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,7,John Reva,0,38,1,0,2,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,8,Chad Soper,0,11,0,0,4,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,9,Norman Vanua,0,25,1,0,4,out,T20I # 609
+United Arab Emirates Vs Papua New Guinea,Papua New Guinea,10,Alei Nao,0,22,2,0,4,not_out,T20I # 609
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,1,Tony Ura,29,22,0,131.81,31,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,2,Lega Siaka,36,4,86.11,13,15,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,3,Assad Vala,0,0,24,25,1,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,4,Mahuru Dai,0,96.00,15,1,0,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,5,Sese Bau,113.33,2,0,0,50.00,not_out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,6,Jack Vare,5,3,0,166.66,4,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,Papua New Guinea,7,Norman Vanua,0,25,0,0,4,not_out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,1,Rohan Mustafa,2,0,6,7,0,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,2,Laxman Sreekumar,0,85.71,5,0,1,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,3,Shaiman Anwar,200.00,4,35,8.75,2,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,4,Muhammad Usman,1,3,20,6.66,0,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,5,Rameez Shahzad,0,2,13,6.50,0,out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,6,Adnan Mufti,0,2,21,10.50,0,not_out,T20I # 610
+Papua New Guinea Vs United Arab Emirates,United Arab Emirates,7,Ghulam Shabber,0,4,16,4.00,0,not_out,T20I # 610
+Afghanistan Vs West Indies,Afghanistan,1,Usman Ghani,8,13,0,61.53,12,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,2,Gulbadin Naib,8,3,150.00,5,8,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,3,Asghar Afghan,1,0,8,11,1,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,4,Karim Janat,0,72.72,20,0,0,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,5,Samiullah Shinwari,35.00,2,0,0,33.33,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,6,Mohammad Nabi,33,27,2,122.22,0,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,7,Rashid Khan,3,0,0.00,4,5,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,8,Shafiqullah,0,0,21,17,1,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,9,Najibullah Zadran,1,123.52,2,0,0,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,10,Amir Hamza,50.00,4,38,9.50,12,out,T20I # 611
+Afghanistan Vs West Indies,Afghanistan,11,Shapoor Zadran,5,2,0,4,0,not_out,T20I # 611
+Afghanistan Vs West Indies,West Indies,1,Chadwick Walton,36,2,97.22,6,3,out,T20I # 611
+Afghanistan Vs West Indies,West Indies,2,Evin Lewis,0,1,18,25,2,out,T20I # 611
+Afghanistan Vs West Indies,West Indies,3,Marlon Samuels,0,72.00,4,0,0,out,T20I # 611
+Afghanistan Vs West Indies,West Indies,4,Lendl Simmons,50.00,3.3,30,8.57,11,out,T20I # 611
+Afghanistan Vs West Indies,West Indies,5,Jason Mohammed,4,1,0,3,0,not_out,T20I # 611
+Afghanistan Vs West Indies,West Indies,6,Rovman Powell,23,7.66,2,1,0,not_out,T20I # 611
+West Indies Vs Afghanistan,West Indies,1,Chadwick Walton,29,17,1,170.58,25,out,T20I # 612
+West Indies Vs Afghanistan,West Indies,2,Evin Lewis,28,1,89.28,22,26,out,T20I # 612
+West Indies Vs Afghanistan,West Indies,3,Marlon Samuels,0,2,17,14,1,out,T20I # 612
+West Indies Vs Afghanistan,West Indies,4,Lendl Simmons,0,121.42,5,0,1,not_out,T20I # 612
+West Indies Vs Afghanistan,West Indies,5,Carlos Brathwaite,160.00,3,33,11.00,7,not_out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,1,Gulbadin Naib,6,6,0,100.00,9,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,2,Noor Ali Zadran,12,0,75.00,0,1,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,3,Asghar Afghan,0,0,8,11,1,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,4,Samiullah Shinwari,0,72.72,15,1,2,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,5,Mohammad Nabi,133.33,1,0,0,100.00,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,6,Karim Janat,11,8,0,137.50,2,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,7,Shafiqullah,4,0,50.00,9,5,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,8,Najibullah Zadran,0,1,6,4,1,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,9,Rashid Khan,0,150.00,0,11,3.66,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,10,Dawlat Zadran,12,0,0,0,2,out,T20I # 612
+West Indies Vs Afghanistan,Afghanistan,11,Amir Hamza,0,13,5,1,0,not_out,T20I # 612
+Afghanistan Vs West Indies,Afghanistan,1,Noor Ali Zadran,35,19,2,184.21,0,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,2,Javed Ahmadi,2,0,0.00,13,23,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,3,Asghar Afghan,1,0,38,30,2,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,4,Mohammad Nabi,2,126.66,17,0,0,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,5,Karim Janat,47.05,25,3,1,166.66,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,6,Shafiqullah,10,9,0,111.11,7,out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,7,Najibullah Zadran,5,0,140.00,4,0,not_out,T20I # 613
+Afghanistan Vs West Indies,Afghanistan,8,Gulbadin Naib,33,8.25,5,1,1,not_out,T20I # 613
+Afghanistan Vs West Indies,West Indies,1,Chadwick Walton,1,86.36,66,9,3,out,T20I # 613
+Afghanistan Vs West Indies,West Indies,2,Evin Lewis,134.84,15,1,1,150.00,out,T20I # 613
+Afghanistan Vs West Indies,West Indies,3,Marlon Samuels,23,16,1,143.75,3.2,not_out,T20I # 613
+Afghanistan Vs West Indies,West Indies,4,Lendl Simmons,0,27,7,4,0,out,T20I # 613
+Afghanistan Vs West Indies,West Indies,5,Jason Mohammed,1,0,0,33,8.25,not_out,T20I # 613
+South Africa Vs England,South Africa,1,JJ Smuts,0,1,0,0,0.00,out,T20I # 614
+South Africa Vs England,South Africa,2,Reeza Hendricks,3,2,0,0,150.00,out,T20I # 614
+South Africa Vs England,South Africa,3,AB de Villiers,65,58,4,2,112.06,not_out,T20I # 614
+South Africa Vs England,South Africa,4,David Miller,9,7,0,1,128.57,out,T20I # 614
+South Africa Vs England,South Africa,5,Farhaan Behardien,64,52,4,2,123.07,not_out,T20I # 614
+South Africa Vs England,England,1,Jason Roy,28,14,3,2,200.00,out,T20I # 614
+South Africa Vs England,England,2,Alex Hales,47,38,3,2,123.68,not_out,T20I # 614
+South Africa Vs England,England,3,Jonny Bairstow,60,35,6,2,171.42,not_out,T20I # 614
+South Africa Vs England,South Africa,1,JJ Smuts,45,35,4,3,128.57,out,T20I # 615
+South Africa Vs England,South Africa,2,Reeza Hendricks,7,8,0,0,87.50,out,T20I # 615
+South Africa Vs England,South Africa,3,Mangaliso Mosehle,15,12,1,1,125.00,out,T20I # 615
+South Africa Vs England,South Africa,4,AB de Villiers,46,20,4,3,230.00,out,T20I # 615
+South Africa Vs England,South Africa,5,David Miller,8,10,0,0,80.00,out,T20I # 615
+South Africa Vs England,South Africa,6,Farhaan Behardien,32,21,2,2,152.38,out,T20I # 615
+South Africa Vs England,South Africa,7,Chris Morris,12,11,1,0,109.09,out,T20I # 615
+South Africa Vs England,South Africa,8,Andile Phehlukwayo,0,1,0,0,0.00,out,T20I # 615
+South Africa Vs England,South Africa,9,Morne Morkel,0,1,0,0,0.00,not_out,T20I # 615
+South Africa Vs England,South Africa,10,Dane Paterson,4,1,1,0,400.00,not_out,T20I # 615
+South Africa Vs England,England,1,Jason Roy,67,45,9,1,148.88,out,T20I # 615
+South Africa Vs England,England,2,Sam Billings,3,4,0,0,75.00,out,T20I # 615
+South Africa Vs England,England,3,Jonny Bairstow,47,37,8,1,127.02,out,T20I # 615
+South Africa Vs England,England,4,Liam Livingstone,16,18,1,0,88.88,out,T20I # 615
+South Africa Vs England,England,5,Jos Buttler,10,8,1,0,125.00,out,T20I # 615
+South Africa Vs England,England,6,Eoin Morgan,6,4,1,0,150.00,out,T20I # 615
+South Africa Vs England,England,7,Liam Dawson,7,5,1,0,140.00,not_out,T20I # 615
+South Africa Vs England,England,8,Liam Plunkett,0,0,0,0,-,not_out,T20I # 615
+England Vs South Africa,England,1,Jason Roy,8,8,1,0,100.00,out,T20I # 616
+England Vs South Africa,England,2,Alex Hales,36,28,2,2,128.57,out,T20I # 616
+England Vs South Africa,England,3,Dawid Malan,78,44,12,2,177.27,out,T20I # 616
+England Vs South Africa,England,4,Jos Buttler,31,22,1,2,140.90,out,T20I # 616
+England Vs South Africa,England,5,Sam Billings,12,11,0,1,109.09,out,T20I # 616
+England Vs South Africa,England,6,Liam Livingstone,0,1,0,0,0.00,out,T20I # 616
+England Vs South Africa,England,7,Liam Plunkett,0,2,0,0,0.00,out,T20I # 616
+England Vs South Africa,England,8,David Willey,1,2,0,0,50.00,out,T20I # 616
+England Vs South Africa,England,9,Chris Jordan,0,0,0,0,-,not_out,T20I # 616
+England Vs South Africa,England,10,Tom Curran,1,2,0,0,50.00,not_out,T20I # 616
+England Vs South Africa,South Africa,1,JJ Smuts,29,30,2,1,96.66,out,T20I # 616
+England Vs South Africa,South Africa,2,Reeza Hendricks,0,5,0,0,0.00,out,T20I # 616
+England Vs South Africa,South Africa,3,Chris Morris,8,9,1,0,88.88,out,T20I # 616
+England Vs South Africa,South Africa,4,AB de Villiers,35,19,2,2,184.21,out,T20I # 616
+England Vs South Africa,South Africa,5,David Miller,7,6,0,0,116.66,out,T20I # 616
+England Vs South Africa,South Africa,6,Farhaan Behardien,3,8,0,0,37.50,out,T20I # 616
+England Vs South Africa,South Africa,7,Mangaliso Mosehle,36,22,1,4,163.63,out,T20I # 616
+England Vs South Africa,South Africa,8,Andile Phehlukwayo,27,20,4,0,135.00,not_out,T20I # 616
+England Vs South Africa,South Africa,9,Morne Morkel,5,2,1,0,250.00,not_out,T20I # 616
+India Vs West Indies,India,1,Virat Kohli,39,22,1,177.27,23,out,T20I # 617
+India Vs West Indies,India,2,Shikhar Dhawan,12,5,191.66,38,35,out,T20I # 617
+India Vs West Indies,India,3,Rishabh Pant,2,1,48,29,5,out,T20I # 617
+India Vs West Indies,India,4,Dinesh Karthik,3,165.51,3,0,0,out,T20I # 617
+India Vs West Indies,India,5,MS Dhoni,66.66,4,0,0,100.00,out,T20I # 617
+India Vs West Indies,India,6,Kedar Jadhav,13,8,1,162.50,11,out,T20I # 617
+India Vs West Indies,India,7,Ravindra Jadeja,7,1,157.14,4,0,not_out,T20I # 617
+India Vs West Indies,India,8,Ravichandran Ashwin,31,7.75,5,0,1,not_out,T20I # 617
+India Vs West Indies,West Indies,1,Chris Gayle,12,201.61,29,5,1,out,T20I # 617
+India Vs West Indies,West Indies,2,Evin Lewis,124.13,4,27,6.75,10,not_out,T20I # 617
+India Vs West Indies,West Indies,3,Marlon Samuels,2,1,0,4,0,not_out,T20I # 617
+Sri Lanka Vs India,Sri Lanka,1,Niroshan Dickwella,17,14,0,121.42,5,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,2,Upul Tharanga,4,1,125.00,53,29,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,3,Dilshan Munaweera,5,4,7,5,1,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,4,Angelo Mathews,0,140.00,40,1,2,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,5,Ashan Priyanjan,100.00,11,0,1,157.14,not_out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,6,Thisara Perera,0,3,0,0.00,11,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,7,Dasun Shanaka,8,1,137.50,19,10,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,8,Seekkuge Prasanna,2,1,4,0,36,out,T20I # 618
+Sri Lanka Vs India,Sri Lanka,9,Isuru Udana,9.00,11,2,0,0,not_out,T20I # 618
+Sri Lanka Vs India,India,1,Rohit Sharma,133.33,82,7,1,151.85,out,T20I # 618
+Sri Lanka Vs India,India,2,KL Rahul,51,36,1,141.66,1,out,T20I # 618
+Sri Lanka Vs India,India,3,Virat Kohli,1,0,100.00,3,0,out,T20I # 618
+Sri Lanka Vs India,India,4,Manish Pandey,33,11.00,4,1,0,not_out,T20I # 618
+Sri Lanka Vs India,India,5,MS Dhoni,0,4,36,9.00,5,not_out,T20I # 618
+Pakistan Vs World-XI,Pakistan,1,Fakhar Zaman,8,4,0,200.00,39,out,T20I # 619
+Pakistan Vs World-XI,Pakistan,2,Ahmed Shehzad,34,3,114.70,86,52,out,T20I # 619
+Pakistan Vs World-XI,Pakistan,3,Babar Azam,10,2,38,20,4,out,T20I # 619
+Pakistan Vs World-XI,Pakistan,4,Shoaib Malik,2,190.00,5,0,0,out,T20I # 619
+Pakistan Vs World-XI,Pakistan,5,Sarfaraz Ahmed,80.00,15,0,2,375.00,out,T20I # 619
+Pakistan Vs World-XI,Pakistan,6,Imad Wasim,0,1,0,0.00,4,not_out,T20I # 619
+Pakistan Vs World-XI,Pakistan,7,Faheem Ashraf,0,32,7,4,0,not_out,T20I # 619
+Pakistan Vs World-XI,World-XI,1,Tamim Iqbal,4,1,25,25,2,out,T20I # 619
+Pakistan Vs World-XI,World-XI,2,Hashim Amla,1,100.00,18,4,1,out,T20I # 619
+Pakistan Vs World-XI,World-XI,3,Tim Paine,161.11,9,0,1,128.57,out,T20I # 619
+Pakistan Vs World-XI,World-XI,4,Faf du Plessis,14,8,0,175.00,17,out,T20I # 619
+Pakistan Vs World-XI,World-XI,5,David Miller,11,3,154.54,29,16,out,T20I # 619
+Pakistan Vs World-XI,World-XI,6,Grant Elliott,1,3,0,0,0,out,T20I # 619
+Pakistan Vs World-XI,World-XI,7,Thisara Perera,0,-,0,22,5.50,out,T20I # 619
+Pakistan Vs World-XI,World-XI,8,Daren Sammy,11,1,1,0,4,not_out,T20I # 619
+Pakistan Vs World-XI,World-XI,9,Ben Cutting,0,28,10,4,0,not_out,T20I # 619
+Pakistan Vs World-XI,Pakistan,1,Fakhar Zaman,21,13,0,161.53,43,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,2,Ahmed Shehzad,34,5,126.47,45,38,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,3,Babar Azam,5,0,39,23,1,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,4,Shoaib Malik,3,169.56,11,2,0,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,5,Imad Wasim,136.36,0,0,0,0.00,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,6,Sarfaraz Ahmed,1,1,0,100.00,4,out,T20I # 620
+Pakistan Vs World-XI,Pakistan,7,Sohail Khan,0,20,14,2,0,not_out,T20I # 620
+Pakistan Vs World-XI,World-XI,1,Tamim Iqbal,5,2,10,12,1,out,T20I # 620
+Pakistan Vs World-XI,World-XI,2,Hashim Amla,0,83.33,14,0,2,not_out,T20I # 620
+Pakistan Vs World-XI,World-XI,3,Tim Paine,142.85,47,0,5,247.36,out,T20I # 620
+Pakistan Vs World-XI,World-XI,4,Faf du Plessis,4,0,6.75,10,2,out,T20I # 620
+Pakistan Vs World-XI,World-XI,5,Thisara Perera,1,0,4,0,44,not_out,T20I # 620
+Pakistan Vs World-XI,Pakistan,1,Fakhar Zaman,27,25,1,108.00,89,out,T20I # 621
+Pakistan Vs World-XI,Pakistan,2,Ahmed Shehzad,55,8,161.81,48,31,out,T20I # 621
+Pakistan Vs World-XI,Pakistan,3,Babar Azam,5,0,17,7,0,out,T20I # 621
+Pakistan Vs World-XI,Pakistan,4,Shoaib Malik,2,242.85,2,0,0,not_out,T20I # 621
+Pakistan Vs World-XI,Pakistan,5,Imad Wasim,0.00,0,0,0,-,out,T20I # 621
+Pakistan Vs World-XI,Pakistan,6,Sarfaraz Ahmed,3,0,9.33,4,4,not_out,T20I # 621
+Pakistan Vs World-XI,World-XI,1,Tamim Iqbal,12,4,175.00,5,4,out,T20I # 621
+Pakistan Vs World-XI,World-XI,2,Hashim Amla,1,0,13,13,1,out,T20I # 621
+Pakistan Vs World-XI,World-XI,3,Ben Cutting,0,100.00,12,0,0,out,T20I # 621
+Pakistan Vs World-XI,World-XI,4,Faf du Plessis,25.00,32,2,1,110.34,out,T20I # 621
+Pakistan Vs World-XI,World-XI,5,George Bailey,32,13,3,246.15,24,out,T20I # 621
+Pakistan Vs World-XI,World-XI,6,David Miller,23,2,104.34,1,2,out,T20I # 621
+Pakistan Vs World-XI,World-XI,7,Thisara Perera,0,0,0,2,0,out,T20I # 621
+Pakistan Vs World-XI,World-XI,8,Daren Sammy,0,0.00,0,34,8.50,not_out,T20I # 621
+Pakistan Vs World-XI,World-XI,9,Morne Morkel,10,4,2,0,4,out,T20I # 621
+Pakistan Vs World-XI,World-XI,10,Samuel Badree,0,26,10,3,0,not_out,T20I # 621
+West Indies Vs England,West Indies,1,Chris Gayle,40,21,3,4,190.47,out,T20I # 622
+West Indies Vs England,West Indies,2,Evin Lewis,51,28,6,3,182.14,out,T20I # 622
+West Indies Vs England,West Indies,3,Marlon Samuels,10,13,1,0,76.92,out,T20I # 622
+West Indies Vs England,West Indies,4,Chadwick Walton,13,8,0,1,162.50,out,T20I # 622
+West Indies Vs England,West Indies,5,Kieron Pollard,6,7,1,0,85.71,out,T20I # 622
+West Indies Vs England,West Indies,6,Rovman Powell,28,19,1,2,147.36,out,T20I # 622
+West Indies Vs England,West Indies,7,Carlos Brathwaite,2,4,0,0,50.00,out,T20I # 622
+West Indies Vs England,West Indies,8,Sunil Narine,2,3,0,0,66.66,out,T20I # 622
+West Indies Vs England,West Indies,9,Ashley Nurse,13,12,0,1,108.33,not_out,T20I # 622
+West Indies Vs England,West Indies,10,Jerome Taylor,1,3,0,0,33.33,out,T20I # 622
+West Indies Vs England,West Indies,11,Kesrick Williams,2,2,0,0,100.00,not_out,T20I # 622
+West Indies Vs England,England,1,Jason Roy,0,1,0,0,0.00,out,T20I # 622
+West Indies Vs England,England,2,Alex Hales,43,17,8,1,252.94,out,T20I # 622
+West Indies Vs England,England,3,Joe Root,17,19,2,0,89.47,out,T20I # 622
+West Indies Vs England,England,4,Eoin Morgan,2,7,0,0,28.57,out,T20I # 622
+West Indies Vs England,England,5,Jos Buttler,30,27,2,0,111.11,out,T20I # 622
+West Indies Vs England,England,6,Jonny Bairstow,27,21,1,1,128.57,out,T20I # 622
+West Indies Vs England,England,7,Adil Rashid,1,2,0,0,50.00,out,T20I # 622
+West Indies Vs England,England,8,David Willey,1,3,0,0,33.33,out,T20I # 622
+West Indies Vs England,England,9,Liam Plunkett,18,11,2,0,163.63,out,T20I # 622
+West Indies Vs England,England,10,Chris Jordan,6,7,0,0,85.71,out,T20I # 622
+West Indies Vs England,England,11,Tom Curran,1,2,0,0,50.00,not_out,T20I # 622
+Australia Vs India,Australia,1,David Warner,8,5,2,0,160.00,out,T20I # 623
+Australia Vs India,Australia,2,Aaron Finch,42,30,4,1,140.00,out,T20I # 623
+Australia Vs India,Australia,3,Glenn Maxwell,17,16,2,0,106.25,out,T20I # 623
+Australia Vs India,Australia,4,Travis Head,9,16,0,0,56.25,out,T20I # 623
+Australia Vs India,Australia,5,Moises Henriques,8,9,1,0,88.88,out,T20I # 623
+Australia Vs India,Australia,6,Dan Christian,9,13,0,0,69.23,out,T20I # 623
+Australia Vs India,Australia,7,Tim Paine,17,16,1,1,106.25,out,T20I # 623
+Australia Vs India,Australia,8,Nathan Coulter-Nile,1,2,0,0,50.00,out,T20I # 623
+Australia Vs India,Australia,9,Andrew Tye,0,2,0,0,0.00,not_out,T20I # 623
+Australia Vs India,Australia,10,Adam Zampa,4,3,1,0,133.33,not_out,T20I # 623
+Australia Vs India,India,1,Rohit Sharma,11,7,1,1,157.14,out,T20I # 623
+Australia Vs India,India,2,Shikhar Dhawan,15,12,3,0,125.00,not_out,T20I # 623
+Australia Vs India,India,3,Virat Kohli,22,14,3,0,157.14,not_out,T20I # 623
+India Vs Australia,India,1,Rohit Sharma,8,4,2,0,200.00,out,T20I # 624
+India Vs Australia,India,2,Shikhar Dhawan,2,6,0,0,33.33,out,T20I # 624
+India Vs Australia,India,3,Virat Kohli,0,2,0,0,0.00,out,T20I # 624
+India Vs Australia,India,4,Manish Pandey,6,7,1,0,85.71,out,T20I # 624
+India Vs Australia,India,5,Kedar Jadhav,27,27,3,1,100.00,out,T20I # 624
+India Vs Australia,India,6,MS Dhoni,13,16,1,0,81.25,out,T20I # 624
+India Vs Australia,India,7,Hardik Pandya,25,23,0,1,108.69,out,T20I # 624
+India Vs Australia,India,8,Bhuvneshwar Kumar,1,6,0,0,16.66,out,T20I # 624
+India Vs Australia,India,9,Kuldeep Yadav,16,19,1,0,84.21,out,T20I # 624
+India Vs Australia,India,10,Jasprit Bumrah,7,9,1,0,77.77,out,T20I # 624
+India Vs Australia,India,11,Yuzvendra Chahal,3,2,0,0,150.00,not_out,T20I # 624
+India Vs Australia,Australia,1,Aaron Finch,8,8,1,0,100.00,out,T20I # 624
+India Vs Australia,Australia,2,David Warner,2,5,0,0,40.00,out,T20I # 624
+India Vs Australia,Australia,3,Moises Henriques,62,46,4,4,134.78,not_out,T20I # 624
+India Vs Australia,Australia,4,Travis Head,48,34,5,1,141.17,not_out,T20I # 624
+Sri Lanka Vs Pakistan,Sri Lanka,1,Danushka Gunathilaka,18,11,0,163.63,0,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,2,Dilshan Munaweera,2,0,0.00,23,23,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,3,Sadeera Samarawickrama,2,0,12,20,0,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,4,Ashan Priyanjan,0,60.00,9,1,0,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,5,Mahela Udawatte,88.88,4,0,0,80.00,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,6,Sachith Pathirana,0,3,0,0.00,23,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,7,Dasun Shanaka,23,0,100.00,6,7,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,8,Seekkuge Prasanna,1,0,0,1,0,not_out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,9,Thisara Perera,0,0.00,7,0,0,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,10,Isuru Udana,57.14,4,26,6.50,6,out,T20I # 625
+Sri Lanka Vs Pakistan,Sri Lanka,11,Vikum Sanjaya,2,0,0,4,0,out,T20I # 625
+Sri Lanka Vs Pakistan,Pakistan,1,Fakhar Zaman,8,0,12.50,42,31,out,T20I # 625
+Sri Lanka Vs Pakistan,Pakistan,2,Ahmed Shehzad,4,0,25,23,3,out,T20I # 625
+Sri Lanka Vs Pakistan,Pakistan,3,Babar Azam,0,108.69,0,20,5.00,out,T20I # 625
+Sri Lanka Vs Pakistan,Pakistan,4,Shoaib Malik,11,1,1,0,1,not_out,T20I # 625
+Sri Lanka Vs Pakistan,Pakistan,5,Mohammad Hafeez,0,5,1,0,0,not_out,T20I # 625
+South Africa Vs Bangladesh,South Africa,1,Quinton de Kock,59,44,5,1,134.09,out,T20I # 626
+South Africa Vs Bangladesh,South Africa,2,Hashim Amla,3,4,0,0,75.00,out,T20I # 626
+South Africa Vs Bangladesh,South Africa,3,AB de Villiers,49,27,8,0,181.48,out,T20I # 626
+South Africa Vs Bangladesh,South Africa,4,Jean-Paul Duminy,13,10,0,1,130.00,out,T20I # 626
+South Africa Vs Bangladesh,South Africa,5,David Miller,25,19,1,0,131.57,not_out,T20I # 626
+South Africa Vs Bangladesh,South Africa,6,Farhaan Behardien,36,17,2,2,211.76,not_out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,1,Imrul Kayes,10,11,1,0,90.90,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,47,31,5,2,151.61,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,3,Shakib Al Hasan,13,8,3,0,162.50,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,4,Mushfiqur Rahim,13,8,1,1,162.50,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,5,Sabbir Rahman,19,16,0,2,118.75,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,6,Mahmudullah,3,4,0,0,75.00,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,7,Mohammad Saifuddin,39,27,3,1,144.44,not_out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,8,Mehidy Hasan Miraz,14,8,1,1,175.00,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,9,Taskin Ahmed,0,1,0,0,0.00,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,10,Shafiul Islam,1,3,0,0,33.33,out,T20I # 626
+South Africa Vs Bangladesh,Bangladesh,11,Rubel Hossain,2,3,0,0,66.66,not_out,T20I # 626
+Sri Lanka Vs Pakistan,Sri Lanka,1,Danushka Gunathilaka,51,48,1,106.25,19,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,2,Dilshan Munaweera,20,3,95.00,32,31,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,3,Sadeera Samarawickrama,2,0,1,3,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,4,Seekkuge Prasanna,0,33.33,4,0,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,5,Thisara Perera,75.00,1,0,0,33.33,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,6,Dasun Shanaka,6,4,0,150.00,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,7,Isuru Udana,1,0,0.00,1,2,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,8,Mahela Udawatte,0,0,2,2,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,9,Sachith Pathirana,0,100.00,2,1,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,10,Ashan Priyanjan,200.00,4,23,5.75,12,not_out,T20I # 627
+Sri Lanka Vs Pakistan,Sri Lanka,11,Vikum Sanjaya,2,0,0,2,0,not_out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,1,Ahmed Shehzad,2,0,50.00,9,20,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,2,Fakhar Zaman,0,0,14,19,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,3,Babar Azam,0,73.68,26,1,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,4,Shoaib Malik,107.69,2,0,0,66.66,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,5,Mohammad Hafeez,4,6,0,66.66,16,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,6,Sarfaraz Ahmed,8,1,200.00,3,1,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,7,Imad Wasim,0,0,3.5,0,32,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,8,Faheem Ashraf,8.34,7,1,1,0,out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,9,Shadab Khan,2,0,8.50,3,2,not_out,T20I # 627
+Sri Lanka Vs Pakistan,Pakistan,10,Hasan Ali,0,1,4,0,17,not_out,T20I # 627
+South Africa Vs Bangladesh,South Africa,1,Hashim Amla,85,51,11,1,166.66,out,T20I # 628
+South Africa Vs Bangladesh,South Africa,2,Mangaliso Mosehle,5,5,1,0,100.00,out,T20I # 628
+South Africa Vs Bangladesh,South Africa,3,Jean-Paul Duminy,4,8,0,0,50.00,out,T20I # 628
+South Africa Vs Bangladesh,South Africa,4,AB de Villiers,20,15,1,1,133.33,out,T20I # 628
+South Africa Vs Bangladesh,South Africa,5,David Miller,101,36,7,9,280.55,not_out,T20I # 628
+South Africa Vs Bangladesh,South Africa,6,Farhaan Behardien,6,5,0,0,120.00,not_out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,1,Imrul Kayes,6,4,1,0,150.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,44,27,6,1,162.96,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,3,Shakib Al Hasan,2,4,0,0,50.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,4,Mushfiqur Rahim,2,5,0,0,40.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,5,Sabbir Rahman,5,5,1,0,100.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,6,Mahmudullah,24,20,2,0,120.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,7,Litton Das,9,7,0,1,128.57,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,8,Mohammad Saifuddin,23,26,1,1,88.46,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,9,Mehidy Hasan Miraz,13,10,0,1,130.00,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,10,Taskin Ahmed,4,3,1,0,133.33,out,T20I # 628
+South Africa Vs Bangladesh,Bangladesh,11,Rubel Hossain,1,2,0,0,50.00,not_out,T20I # 628
+Pakistan Vs Sri Lanka,Pakistan,1,Fakhar Zaman,31,27,0,114.81,45,out,T20I # 629
+Pakistan Vs Sri Lanka,Pakistan,2,Umar Amin,37,3,121.62,34,31,out,T20I # 629
+Pakistan Vs Sri Lanka,Pakistan,3,Babar Azam,2,0,51,24,5,not_out,T20I # 629
+Pakistan Vs Sri Lanka,Pakistan,4,Shoaib Malik,2,212.50,3,0,2,out,T20I # 629
+Pakistan Vs Sri Lanka,Pakistan,5,Faheem Ashraf,433.33,4,41,10.25,8,not_out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,1,Danushka Gunathilaka,1,4,0,25.00,4,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,2,Dilshan Munaweera,7,0,57.14,11,13,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,3,Sadeera Samarawickrama,1,0,54,36,5,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,4,Mahela Udawatte,3,150.00,20,1,0,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,5,Dasun Shanaka,105.00,10,1,0,83.33,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,6,Chaturanga de Silva,16,8,2,200.00,14,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,7,Thisara Perera,10,2,140.00,0,0,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,8,Seekkuge Prasanna,0,0,1,3,0,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,9,Sachith Pathirana,0,33.33,0,30,7.50,out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,10,Isuru Udana,9,4,0,0,4,not_out,T20I # 629
+Pakistan Vs Sri Lanka,Sri Lanka,11,Vikum Sanjaya,0,13,16,1,0,not_out,T20I # 629
+India Vs New Zealand,India,1,Rohit Sharma,80,55,6,4,145.45,out,T20I # 630
+India Vs New Zealand,India,2,Shikhar Dhawan,80,52,10,2,153.84,out,T20I # 630
+India Vs New Zealand,India,3,Hardik Pandya,0,2,0,0,0.00,out,T20I # 630
+India Vs New Zealand,India,4,Virat Kohli,26,11,0,3,236.36,not_out,T20I # 630
+India Vs New Zealand,India,5,MS Dhoni,7,2,0,1,350.00,not_out,T20I # 630
+India Vs New Zealand,New Zealand,1,Martin Guptill,4,8,1,0,50.00,out,T20I # 630
+India Vs New Zealand,New Zealand,2,Colin Munro,7,8,0,0,87.50,out,T20I # 630
+India Vs New Zealand,New Zealand,3,Kane Williamson,28,24,1,1,116.66,out,T20I # 630
+India Vs New Zealand,New Zealand,4,Tom Latham,39,36,3,1,108.33,out,T20I # 630
+India Vs New Zealand,New Zealand,5,Tom Bruce,10,10,1,0,100.00,out,T20I # 630
+India Vs New Zealand,New Zealand,6,Colin de Grandhomme,0,1,0,0,0.00,out,T20I # 630
+India Vs New Zealand,New Zealand,7,Henry Nicholls,6,7,1,0,85.71,out,T20I # 630
+India Vs New Zealand,New Zealand,8,Mitchell Santner,27,14,2,2,192.85,not_out,T20I # 630
+India Vs New Zealand,New Zealand,9,Tim Southee,8,4,2,0,200.00,out,T20I # 630
+India Vs New Zealand,New Zealand,10,Ish Sodhi,11,9,2,0,122.22,not_out,T20I # 630
+New Zealand Vs India,New Zealand,1,Martin Guptill,45,41,3,3,109.75,out,T20I # 631
+New Zealand Vs India,New Zealand,2,Colin Munro,109,58,7,7,187.93,not_out,T20I # 631
+New Zealand Vs India,New Zealand,3,Kane Williamson,12,9,2,0,133.33,out,T20I # 631
+New Zealand Vs India,New Zealand,4,Tom Bruce,18,12,2,0,150.00,not_out,T20I # 631
+New Zealand Vs India,India,1,Rohit Sharma,5,6,1,0,83.33,out,T20I # 631
+New Zealand Vs India,India,2,Shikhar Dhawan,1,4,0,0,25.00,out,T20I # 631
+New Zealand Vs India,India,3,Shreyas Iyer,23,21,4,0,109.52,out,T20I # 631
+New Zealand Vs India,India,4,Virat Kohli,65,42,8,1,154.76,out,T20I # 631
+New Zealand Vs India,India,5,Hardik Pandya,1,2,0,0,50.00,out,T20I # 631
+New Zealand Vs India,India,6,MS Dhoni,49,37,2,3,132.43,out,T20I # 631
+New Zealand Vs India,India,7,Axar Patel,5,3,1,0,166.66,out,T20I # 631
+New Zealand Vs India,India,8,Bhuvneshwar Kumar,2,3,0,0,66.66,not_out,T20I # 631
+New Zealand Vs India,India,9,Jasprit Bumrah,1,2,0,0,50.00,not_out,T20I # 631
+India Vs New Zealand,India,1,Rohit Sharma,8,9,1,0,88.88,out,T20I # 632
+India Vs New Zealand,India,2,Shikhar Dhawan,6,6,1,0,100.00,out,T20I # 632
+India Vs New Zealand,India,3,Virat Kohli,13,6,1,1,216.66,out,T20I # 632
+India Vs New Zealand,India,4,Shreyas Iyer,6,6,0,0,100.00,out,T20I # 632
+India Vs New Zealand,India,5,Manish Pandey,17,11,1,1,154.54,out,T20I # 632
+India Vs New Zealand,India,6,Hardik Pandya,14,10,0,1,140.00,not_out,T20I # 632
+India Vs New Zealand,India,7,MS Dhoni,0,0,0,0,-,not_out,T20I # 632
+India Vs New Zealand,New Zealand,1,Martin Guptill,1,3,0,0,33.33,out,T20I # 632
+India Vs New Zealand,New Zealand,2,Colin Munro,7,6,0,1,116.66,out,T20I # 632
+India Vs New Zealand,New Zealand,3,Kane Williamson,8,10,0,0,80.00,out,T20I # 632
+India Vs New Zealand,New Zealand,4,Glenn Phillips,11,9,2,0,122.22,out,T20I # 632
+India Vs New Zealand,New Zealand,5,Colin de Grandhomme,17,10,0,2,170.00,not_out,T20I # 632
+India Vs New Zealand,New Zealand,6,Henry Nicholls,2,4,0,0,50.00,out,T20I # 632
+India Vs New Zealand,New Zealand,7,Tom Bruce,4,2,1,0,200.00,out,T20I # 632
+India Vs New Zealand,New Zealand,8,Mitchell Santner,3,4,0,0,75.00,not_out,T20I # 632
+India Vs Sri Lanka,India,1,Rohit Sharma,17,13,2,0,130.76,out,T20I # 633
+India Vs Sri Lanka,India,2,KL Rahul,61,48,7,1,127.08,out,T20I # 633
+India Vs Sri Lanka,India,3,Shreyas Iyer,24,20,3,0,120.00,out,T20I # 633
+India Vs Sri Lanka,India,4,MS Dhoni,39,22,4,1,177.27,not_out,T20I # 633
+India Vs Sri Lanka,India,5,Manish Pandey,32,18,2,2,177.77,not_out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,13,8,1,0,162.50,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,23,16,1,2,143.75,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,3,Kusal Perera,19,28,0,0,67.85,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,4,Angelo Mathews,1,7,0,0,14.28,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,5,Asela Gunaratne,4,4,0,0,100.00,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka,1,6,0,0,16.66,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,7,Thisara Perera,3,4,0,0,75.00,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,8,Akila Dananjaya,7,7,0,0,100.00,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,9,Dushmantha Chameera,12,14,2,0,85.71,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,10,Vishwa Fernando,2,2,0,0,100.00,out,T20I # 633
+India Vs Sri Lanka,Sri Lanka,11,Nuwan Pradeep,0,0,0,0,-,not_out,T20I # 633
+India Vs Sri Lanka,India,1,Rohit Sharma,118,43,12,10,274.41,out,T20I # 634
+India Vs Sri Lanka,India,2,KL Rahul,89,49,5,8,181.63,out,T20I # 634
+India Vs Sri Lanka,India,3,MS Dhoni,28,21,2,2,133.33,out,T20I # 634
+India Vs Sri Lanka,India,4,Hardik Pandya,10,3,1,1,333.33,out,T20I # 634
+India Vs Sri Lanka,India,5,Shreyas Iyer,0,1,0,0,0.00,out,T20I # 634
+India Vs Sri Lanka,India,6,Manish Pandey,1,1,0,0,100.00,not_out,T20I # 634
+India Vs Sri Lanka,India,7,Dinesh Karthik,5,2,1,0,250.00,not_out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,1,Niroshan Dickwella,25,19,2,1,131.57,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,2,Upul Tharanga,47,29,3,2,162.06,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,3,Kusal Perera,77,37,4,7,208.10,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,4,Thisara Perera,0,1,0,0,0.00,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,5,Asela Gunaratne,0,1,0,0,0.00,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,6,Sadeera Samarawickrama,5,2,1,0,250.00,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,7,Chaturanga de Silva,1,2,0,0,50.00,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,8,Akila Dananjaya,5,3,1,0,166.66,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,9,Dushmantha Chameera,3,5,0,0,60.00,out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,10,Nuwan Pradeep,0,5,0,0,0.00,not_out,T20I # 634
+India Vs Sri Lanka,Sri Lanka,11,Angelo Mathews,-,-,-,-,-,out,T20I # 634
+Sri Lanka Vs India,Sri Lanka,1,Niroshan Dickwella,1,6,0,0,16.66,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,2,Upul Tharanga,11,11,2,0,100.00,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,3,Kusal Perera,4,4,1,0,100.00,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,4,Sadeera Samarawickrama,21,17,3,0,123.52,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,5,Asela Gunaratne,36,37,3,0,97.29,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,6,Danushka Gunathilaka,3,8,0,0,37.50,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,7,Thisara Perera,11,6,2,0,183.33,out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,8,Dasun Shanaka,29,24,0,2,120.83,not_out,T20I # 635
+Sri Lanka Vs India,Sri Lanka,9,Akila Dananjaya,11,7,2,0,157.14,not_out,T20I # 635
+Sri Lanka Vs India,India,1,Rohit Sharma,27,20,4,1,135.00,out,T20I # 635
+Sri Lanka Vs India,India,2,KL Rahul,4,9,0,0,44.44,out,T20I # 635
+Sri Lanka Vs India,India,3,Shreyas Iyer,30,32,1,1,93.75,out,T20I # 635
+Sri Lanka Vs India,India,4,Manish Pandey,32,29,4,0,110.34,out,T20I # 635
+Sri Lanka Vs India,India,5,Hardik Pandya,4,4,0,0,100.00,out,T20I # 635
+Sri Lanka Vs India,India,6,Dinesh Karthik,18,12,0,1,150.00,not_out,T20I # 635
+Sri Lanka Vs India,India,7,MS Dhoni,16,10,2,0,160.00,not_out,T20I # 635
+New Zealand Vs West Indies,New Zealand,1,Martin Guptill,5,4,1,0,125.00,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,2,Colin Munro,53,37,6,2,143.24,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,3,Glenn Phillips,56,40,4,2,140.00,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,4,Tom Bruce,2,4,0,0,50.00,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,5,Ross Taylor,20,13,1,1,153.84,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,6,Anaru Kitchen,12,9,1,0,133.33,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,7,Mitchell Santner,23,11,2,1,209.09,not_out,T20I # 636
+New Zealand Vs West Indies,New Zealand,8,Doug Bracewell,0,1,0,0,0.00,out,T20I # 636
+New Zealand Vs West Indies,New Zealand,9,Tim Southee,10,5,2,0,200.00,not_out,T20I # 636
+New Zealand Vs West Indies,West Indies,1,Chadwick Walton,7,9,1,0,77.77,out,T20I # 636
+New Zealand Vs West Indies,West Indies,2,Chris Gayle,12,8,2,0,150.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,3,Andre Fletcher,27,25,3,1,108.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,4,Shai Hope,15,17,1,0,88.23,out,T20I # 636
+New Zealand Vs West Indies,West Indies,5,Jason Mohammed,3,5,0,0,60.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,6,Rovman Powell,6,9,0,0,66.66,out,T20I # 636
+New Zealand Vs West Indies,West Indies,7,Carlos Brathwaite,21,14,0,2,150.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,8,Ashley Nurse,20,9,2,1,222.22,not_out,T20I # 636
+New Zealand Vs West Indies,West Indies,9,Kesrick Williams,3,5,0,0,60.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,10,Jerome Taylor,20,10,3,1,200.00,out,T20I # 636
+New Zealand Vs West Indies,West Indies,11,Samuel Badree,2,3,0,0,66.66,out,T20I # 636

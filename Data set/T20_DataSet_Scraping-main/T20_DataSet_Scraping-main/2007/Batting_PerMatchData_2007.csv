@@ -1,0 +1,613 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out,match_id
+Australia Vs England,Australia,1,Adam Gilchrist,48,29,2,5,165.51,out,T20I # 13
+Australia Vs England,Australia,2,Matthew Hayden,20,8,3,1,250.00,out,T20I # 13
+Australia Vs England,Australia,3,Ricky Ponting,47,26,3,2,180.76,out,T20I # 13
+Australia Vs England,Australia,4,Michael Hussey,18,9,2,1,200.00,out,T20I # 13
+Australia Vs England,Australia,5,Andrew Symonds,39,22,3,1,177.27,not_out,T20I # 13
+Australia Vs England,Australia,6,Michael Clarke,5,6,0,0,83.33,out,T20I # 13
+Australia Vs England,Australia,7,Cameron White,40,20,1,4,200.00,not_out,T20I # 13
+Australia Vs England,England,1,Ed Joyce,1,3,0,0,33.33,out,T20I # 13
+Australia Vs England,England,2,Michael Vaughan,27,21,4,0,128.57,out,T20I # 13
+Australia Vs England,England,3,Andrew Flintoff,0,2,0,0,0.00,out,T20I # 13
+Australia Vs England,England,4,Kevin Pietersen,11,6,2,0,183.33,out,T20I # 13
+Australia Vs England,England,5,Ian Bell,22,22,1,0,100.00,out,T20I # 13
+Australia Vs England,England,6,Paul Collingwood,5,11,0,0,45.45,out,T20I # 13
+Australia Vs England,England,7,Paul Nixon,31,22,2,1,140.90,not_out,T20I # 13
+Australia Vs England,England,8,Jamie Dalrymple,32,27,4,0,118.51,out,T20I # 13
+Australia Vs England,England,9,Jon Lewis,1,4,0,0,25.00,out,T20I # 13
+Australia Vs England,England,10,Monty Panesar,1,2,0,0,50.00,out,T20I # 13
+Australia Vs England,England,11,James Anderson,1,1,0,0,100.00,not_out,T20I # 13
+Pakistan Vs South Africa,Pakistan,1,Imran Nazir,5,7,1,0,71.42,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,2,Kamran Akmal,21,18,3,0,116.66,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,3,Mohammad Hafeez,25,21,2,1,119.04,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,4,Shoaib Malik,15,17,1,0,88.23,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,5,Younis Khan,1,4,0,0,25.00,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,6,Shahid Afridi,7,17,0,0,41.17,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,7,Abdul Razzaq,10,15,1,0,66.66,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,8,Zulqarnain Haider,5,9,0,0,55.55,out,T20I # 14
+Pakistan Vs South Africa,Pakistan,9,Naved-ul-Hasan,17,7,0,2,242.85,not_out,T20I # 14
+Pakistan Vs South Africa,Pakistan,10,Abdur Rehman,4,5,0,0,80.00,not_out,T20I # 14
+Pakistan Vs South Africa,South Africa,1,Graeme Smith,2,0,9.50,2,1,not_out,T20I # 14
+Pakistan Vs South Africa,South Africa,2,Loots Bosman,2,0,14.00,0,1,not_out,T20I # 14
+West Indies Vs England,West Indies,1,Chris Gayle,5,8,1,0,62.50,out,T20I # 15
+West Indies Vs England,West Indies,2,Devon Smith,61,34,7,3,179.41,out,T20I # 15
+West Indies Vs England,West Indies,3,Shivnarine Chanderpaul,41,26,6,0,157.69,out,T20I # 15
+West Indies Vs England,West Indies,4,Marlon Samuels,51,26,3,4,196.15,out,T20I # 15
+West Indies Vs England,West Indies,5,Dwayne Bravo,1,2,0,0,50.00,out,T20I # 15
+West Indies Vs England,West Indies,6,Denesh Ramdin,24,13,2,1,184.61,out,T20I # 15
+West Indies Vs England,West Indies,7,Dwayne Smith,6,5,1,0,120.00,out,T20I # 15
+West Indies Vs England,West Indies,8,Runako Morton,2,4,0,0,50.00,not_out,T20I # 15
+West Indies Vs England,West Indies,9,Daren Sammy,1,2,0,0,50.00,out,T20I # 15
+West Indies Vs England,West Indies,10,Ravi Rampaul,0,1,0,0,0.00,not_out,T20I # 15
+West Indies Vs England,England,1,Alastair Cook,15,16,2,0,93.75,out,T20I # 15
+West Indies Vs England,England,2,Matt Prior,25,14,2,2,178.57,out,T20I # 15
+West Indies Vs England,England,3,Jonathan Trott,9,9,0,0,100.00,out,T20I # 15
+West Indies Vs England,England,4,Kevin Pietersen,16,11,2,0,145.45,out,T20I # 15
+West Indies Vs England,England,5,Paul Collingwood,79,41,5,4,192.68,out,T20I # 15
+West Indies Vs England,England,6,Owais Shah,7,6,1,0,116.66,out,T20I # 15
+West Indies Vs England,England,7,Dimitri Mascarenhas,2,4,0,0,50.00,out,T20I # 15
+West Indies Vs England,England,8,Michael Yardy,23,18,2,0,127.77,not_out,T20I # 15
+West Indies Vs England,England,9,Stuart Broad,1,1,0,0,100.00,not_out,T20I # 15
+West Indies Vs England,West Indies,1,Chris Gayle,61,37,8,1,164.86,out,T20I # 16
+West Indies Vs England,West Indies,2,Lendl Simmons,9,12,2,0,75.00,out,T20I # 16
+West Indies Vs England,West Indies,3,Austin Richards,10,15,1,0,66.66,out,T20I # 16
+West Indies Vs England,West Indies,4,Marlon Samuels,42,20,3,3,210.00,out,T20I # 16
+West Indies Vs England,West Indies,5,Denesh Ramdin,10,8,1,0,125.00,out,T20I # 16
+West Indies Vs England,West Indies,6,Runako Morton,18,16,0,1,112.50,out,T20I # 16
+West Indies Vs England,West Indies,7,Dwayne Smith,5,4,0,0,125.00,out,T20I # 16
+West Indies Vs England,West Indies,8,Dwayne Bravo,0,1,0,0,0.00,not_out,T20I # 16
+West Indies Vs England,West Indies,9,Daren Sammy,7,7,0,0,100.00,not_out,T20I # 16
+West Indies Vs England,England,1,Alastair Cook,9,9,2,0,100.00,out,T20I # 16
+West Indies Vs England,England,2,Matt Prior,22,14,4,0,157.14,out,T20I # 16
+West Indies Vs England,England,3,Jonathan Trott,2,5,0,0,40.00,out,T20I # 16
+West Indies Vs England,England,4,Kevin Pietersen,19,15,3,0,126.66,out,T20I # 16
+West Indies Vs England,England,5,Paul Collingwood,27,24,1,1,112.50,out,T20I # 16
+West Indies Vs England,England,6,Owais Shah,55,35,7,0,157.14,not_out,T20I # 16
+West Indies Vs England,England,7,Dimitri Mascarenhas,18,16,1,0,112.50,not_out,T20I # 16
+Kenya Vs Bangladesh,Kenya,1,David Obuya,23,19,0,121.05,1,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,2,Jadavji Jesani,5,0,20.00,38,41,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,3,Tanmay Mishra,2,1,24,21,2,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,4,Steve Tikolo,0,114.28,13,2,1,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,5,Thomas Odoyo,169.23,14,1,0,140.00,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,6,Collins Obuya,6,6,0,100.00,0,not_out,T20I # 17
+Kenya Vs Bangladesh,Kenya,7,Jimmy Kamande,2,0,0.00,4,4,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,8,Rajesh Bhudia,0,0,4,0,29,out,T20I # 17
+Kenya Vs Bangladesh,Kenya,9,Lameck Onyango,7.25,2,4,0,20,not_out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,1,Tamim Iqbal,89.47,2,0,0,25.00,out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,2,Nazimuddin,7,6,1,116.66,4,out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,3,Aftab Ahmed,0,28,1,0,4,out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,4,Mohammad Ashraful,0,21,0,1,2,out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,5,Alok Kapali,0,21,0,0,2.4,not_out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,6,Mahmudullah,0,32,2,0,3,out,T20I # 17
+Kenya Vs Bangladesh,Bangladesh,7,Mashrafe Mortaza,0,21,1,0,2,not_out,T20I # 17
+Pakistan Vs Bangladesh,Pakistan,1,Salman Butt,33,27,0,122.22,49,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,2,Imran Nazir,29,4,168.96,48,25,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,3,Younis Khan,1,4,10,6,0,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,4,Shoaib Malik,1,166.66,18,0,3,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,5,Shahid Afridi,177.77,2,0,0,40.00,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,6,Misbah-ul-Haq,11,8,1,137.50,2,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,7,Kamran Akmal,2,0,100.00,1,1,out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,8,Yasir Arafat,0,0,4,0,53,not_out,T20I # 18
+Pakistan Vs Bangladesh,Pakistan,9,Shoaib Akhtar,13.25,0,4,0,23,not_out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,1,Tamim Iqbal,172.72,9,1,0,60.00,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,2,Nazimuddin,10,14,0,71.42,18,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,3,Aftab Ahmed,14,2,128.57,1,2,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,4,Mohammad Ashraful,0,0,4,0,30,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,5,Alok Kapali,7.50,2,4,0,36,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,6,Mahmudullah,9.00,1,4,0,33,out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,7,Mashrafe Mortaza,8.25,0,4,0,26,not_out,T20I # 18
+Pakistan Vs Bangladesh,Bangladesh,8,Farhad Reza,6.50,0,4,0,31,out,T20I # 18
+Kenya Vs Pakistan,Kenya,1,David Obuya,4,3,0,133.33,0,out,T20I # 19
+Kenya Vs Pakistan,Kenya,2,Jimmy Kamande,8,0,0.00,13,26,out,T20I # 19
+Kenya Vs Pakistan,Kenya,3,Tanmay Mishra,2,0,17,23,0,out,T20I # 19
+Kenya Vs Pakistan,Kenya,4,Collins Obuya,0,73.91,7,0,0,out,T20I # 19
+Kenya Vs Pakistan,Kenya,5,Thomas Odoyo,71.42,4,0,0,50.00,out,T20I # 19
+Kenya Vs Pakistan,Kenya,6,Tony Suji,5,17,0,29.41,9,out,T20I # 19
+Kenya Vs Pakistan,Kenya,7,Alex Obanda,9,0,100.00,4,8,out,T20I # 19
+Kenya Vs Pakistan,Kenya,8,Rajesh Bhudia,0,0,16,7,1,out,T20I # 19
+Kenya Vs Pakistan,Kenya,9,Lameck Onyango,1,228.57,8,0,0,out,T20I # 19
+Kenya Vs Pakistan,Kenya,10,Peter Ongondo,62.50,3,22,7.33,0,out,T20I # 19
+Kenya Vs Pakistan,Kenya,11,Hiren Varaiya,5,3,7,2.33,1,not_out,T20I # 19
+Kenya Vs Pakistan,Pakistan,1,Shoaib Malik,7.25,0,4,0,33,out,T20I # 19
+Kenya Vs Pakistan,Pakistan,2,Mohammad Hafeez,8.25,1,3,0,19,out,T20I # 19
+West Indies Vs South Africa,West Indies,1,Chris Gayle,117,57,7,10,205.26,out,T20I # 20
+West Indies Vs South Africa,West Indies,2,Devon Smith,35,34,3,0,102.94,out,T20I # 20
+West Indies Vs South Africa,West Indies,3,Marlon Samuels,6,4,0,1,150.00,out,T20I # 20
+West Indies Vs South Africa,West Indies,4,Shivnarine Chanderpaul,11,10,1,0,110.00,out,T20I # 20
+West Indies Vs South Africa,West Indies,5,Dwayne Smith,1,4,0,0,25.00,out,T20I # 20
+West Indies Vs South Africa,West Indies,6,Ramnaresh Sarwan,12,8,0,1,150.00,out,T20I # 20
+West Indies Vs South Africa,West Indies,7,Denesh Ramdin,6,4,1,0,150.00,not_out,T20I # 20
+West Indies Vs South Africa,West Indies,8,Dwayne Bravo,0,0,0,0,-,not_out,T20I # 20
+West Indies Vs South Africa,South Africa,1,Graeme Smith,28,21,4,1,133.33,out,T20I # 20
+West Indies Vs South Africa,South Africa,2,Herschelle Gibbs,90,55,14,2,163.63,not_out,T20I # 20
+West Indies Vs South Africa,South Africa,3,AB de Villiers,16,9,1,1,177.77,out,T20I # 20
+West Indies Vs South Africa,South Africa,4,Justin Kemp,46,22,5,2,209.09,not_out,T20I # 20
+Kenya Vs New Zealand,Kenya,1,Morris Ouma,0,2,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,2,David Obuya,0,1,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,3,Tanmay Mishra,0,3,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,4,Steve Tikolo,0,2,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,5,Collins Obuya,18,25,2,0,72.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,6,Thomas Odoyo,18,26,3,0,69.23,out,T20I # 21
+Kenya Vs New Zealand,Kenya,7,Nehemiah Odhiambo,0,6,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,Kenya,8,Alex Obanda,4,12,0,0,33.33,out,T20I # 21
+Kenya Vs New Zealand,Kenya,9,Jimmy Kamande,14,13,1,0,107.69,out,T20I # 21
+Kenya Vs New Zealand,Kenya,10,Rajesh Bhudia,11,9,0,1,122.22,not_out,T20I # 21
+Kenya Vs New Zealand,Kenya,11,Peter Ongondo,0,2,0,0,0.00,out,T20I # 21
+Kenya Vs New Zealand,New Zealand,1,Lou Vincent,27,20,4,1,135.00,out,T20I # 21
+Kenya Vs New Zealand,New Zealand,2,Brendon McCullum,16,13,1,1,123.07,not_out,T20I # 21
+Kenya Vs New Zealand,New Zealand,3,Peter Fulton,21,14,1,2,150.00,not_out,T20I # 21
+Pakistan Vs Scotland,Pakistan,1,Salman Butt,13,23,2,0,56.52,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,2,Imran Nazir,4,3,1,0,133.33,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,3,Mohammad Hafeez,18,11,3,0,163.63,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,4,Younis Khan,41,29,3,2,141.37,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,5,Shoaib Malik,11,13,1,0,84.61,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,6,Shahid Afridi,22,7,1,2,314.28,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,7,Misbah-ul-Haq,23,16,4,0,143.75,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,8,Kamran Akmal,16,10,1,1,160.00,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,9,Yasir Arafat,17,8,1,1,212.50,out,T20I # 22
+Pakistan Vs Scotland,Pakistan,10,Umar Gul,0,0,0,0,-,not_out,T20I # 22
+Pakistan Vs Scotland,Scotland,1,Fraser Watts,46,35,9,0,131.42,out,T20I # 22
+Pakistan Vs Scotland,Scotland,2,Ryan Watson,2,4,0,0,50.00,out,T20I # 22
+Pakistan Vs Scotland,Scotland,3,Navdeep Poonia,4,6,0,0,66.66,out,T20I # 22
+Pakistan Vs Scotland,Scotland,4,Gavin Hamilton,2,4,0,0,50.00,out,T20I # 22
+Pakistan Vs Scotland,Scotland,5,Neil McCallum,0,2,0,0,0.00,out,T20I # 22
+Pakistan Vs Scotland,Scotland,6,Dougie Brown,1,5,0,0,20.00,out,T20I # 22
+Pakistan Vs Scotland,Scotland,7,Colin Smith,11,7,2,0,157.14,out,T20I # 22
+Pakistan Vs Scotland,Scotland,8,Majid Haq,14,31,0,0,45.16,out,T20I # 22
+Pakistan Vs Scotland,Scotland,9,Craig Wright,14,18,0,0,77.77,out,T20I # 22
+Pakistan Vs Scotland,Scotland,10,John Blain,0,1,0,0,0.00,out,T20I # 22
+Pakistan Vs Scotland,Scotland,11,Dewald Nel,13,7,2,0,185.71,not_out,T20I # 22
+Australia Vs Zimbabwe,Australia,1,Adam Gilchrist,4,6,0,0,66.66,out,T20I # 23
+Australia Vs Zimbabwe,Australia,2,Matthew Hayden,4,2,1,0,200.00,out,T20I # 23
+Australia Vs Zimbabwe,Australia,3,Ricky Ponting,8,15,1,0,53.33,out,T20I # 23
+Australia Vs Zimbabwe,Australia,4,Andrew Symonds,33,25,4,0,132.00,out,T20I # 23
+Australia Vs Zimbabwe,Australia,5,Michael Hussey,15,23,1,0,65.21,out,T20I # 23
+Australia Vs Zimbabwe,Australia,6,Brad Hodge,35,22,2,2,159.09,not_out,T20I # 23
+Australia Vs Zimbabwe,Australia,7,Brad Haddin,6,12,0,0,50.00,out,T20I # 23
+Australia Vs Zimbabwe,Australia,8,Brett Lee,13,7,1,1,185.71,out,T20I # 23
+Australia Vs Zimbabwe,Australia,9,Mitchell Johnson,9,5,1,0,180.00,out,T20I # 23
+Australia Vs Zimbabwe,Australia,10,Nathan Bracken,4,3,0,0,133.33,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,1,Vusi Sibanda,23,15,5,0,153.33,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,2,Brendan Taylor,60,45,4,2,133.33,not_out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,3,Chamu Chibhabha,15,14,3,0,107.14,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,4,Tatenda Taibu,0,6,0,0,0.00,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,5,Stuart Matsikenyeri,3,8,0,0,37.50,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,6,Hamilton Masakadza,27,28,2,0,96.42,out,T20I # 23
+Australia Vs Zimbabwe,Zimbabwe,7,Elton Chigumbura,4,3,0,0,133.33,not_out,T20I # 23
+West Indies Vs Bangladesh,West Indies,1,Chris Gayle,0,3,0,0,0.00,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,2,Devon Smith,51,52,6,0,98.07,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,3,Shivnarine Chanderpaul,37,31,3,2,119.35,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,4,Marlon Samuels,27,14,2,2,192.85,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,5,Ramnaresh Sarwan,5,7,0,0,71.42,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,6,Denesh Ramdin,2,3,0,0,66.66,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,7,Dwayne Smith,29,7,1,4,414.28,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,8,Dwayne Bravo,2,2,0,0,100.00,out,T20I # 24
+West Indies Vs Bangladesh,West Indies,9,Daren Powell,1,1,0,0,100.00,not_out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,1,Tamim Iqbal,10,13,2,0,76.92,out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,2,Nazimuddin,1,4,0,0,25.00,out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,3,Aftab Ahmed,62,49,8,1,126.53,not_out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,4,Mohammad Ashraful,61,27,7,3,225.92,out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,5,Shakib Al Hasan,13,9,1,0,144.44,out,T20I # 24
+West Indies Vs Bangladesh,Bangladesh,6,Alok Kapali,5,7,0,0,71.42,not_out,T20I # 24
+England Vs Zimbabwe,England,1,Darren Maddy,14,9,2,0,155.55,out,T20I # 25
+England Vs Zimbabwe,England,2,Matt Prior,20,14,2,1,142.85,out,T20I # 25
+England Vs Zimbabwe,England,3,Luke Wright,0,1,0,0,0.00,out,T20I # 25
+England Vs Zimbabwe,England,4,Kevin Pietersen,79,37,7,4,213.51,out,T20I # 25
+England Vs Zimbabwe,England,5,Paul Collingwood,37,28,1,2,132.14,out,T20I # 25
+England Vs Zimbabwe,England,6,Andrew Flintoff,13,13,0,1,100.00,out,T20I # 25
+England Vs Zimbabwe,England,7,Owais Shah,11,8,0,1,137.50,out,T20I # 25
+England Vs Zimbabwe,England,8,Dimitri Mascarenhas,0,1,0,0,0.00,out,T20I # 25
+England Vs Zimbabwe,England,9,Chris Schofield,9,7,1,0,128.57,not_out,T20I # 25
+England Vs Zimbabwe,England,10,Stuart Broad,1,2,0,0,50.00,out,T20I # 25
+England Vs Zimbabwe,England,11,James Anderson,0,0,0,0,-,not_out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,1,Vusi Sibanda,29,25,5,0,116.00,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,2,Brendan Taylor,47,39,4,2,120.51,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,3,Tatenda Taibu,2,4,0,0,50.00,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,4,Chamu Chibhabha,5,8,0,0,62.50,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,5,Stuart Matsikenyeri,2,6,0,0,33.33,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,6,Elton Chigumbura,8,5,0,1,160.00,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,7,Hamilton Masakadza,27,23,1,0,117.39,out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,8,Prosper Utseya,13,10,1,0,130.00,not_out,T20I # 25
+England Vs Zimbabwe,Zimbabwe,9,Keith Dabengwa,0,0,0,0,-,not_out,T20I # 25
+Sri Lanka Vs Kenya,Sri Lanka,1,Upul Tharanga,10,11,1,0,90.90,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,2,Sanath Jayasuriya,88,44,11,4,200.00,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,3,Kumar Sangakkara,30,18,5,0,166.66,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,4,Mahela Jayawardene,65,27,9,2,240.74,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,5,Chamara Silva,5,4,1,0,125.00,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,6,Tillakaratne Dilshan,3,4,0,0,75.00,out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,7,Jehan Mubarak,46,13,3,5,353.84,not_out,T20I # 27
+Sri Lanka Vs Kenya,Sri Lanka,8,Gayan Wijekoon,1,1,0,0,100.00,not_out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,1,Morris Ouma,0,3,0,0,0.00,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,2,David Obuya,18,33,1,0,54.54,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,3,Nehemiah Odhiambo,5,8,1,0,62.50,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,4,Tanmay Mishra,16,22,0,1,72.72,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,5,Steve Tikolo,4,4,0,0,100.00,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,6,Collins Obuya,2,3,0,0,66.66,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,7,Alex Obanda,21,25,2,0,84.00,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,8,Jimmy Kamande,4,10,0,0,40.00,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,9,Lameck Onyango,4,4,0,0,100.00,not_out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,10,Peter Ongondo,3,5,0,0,60.00,out,T20I # 27
+Sri Lanka Vs Kenya,Kenya,11,Thomas Odoyo,-,-,-,-,-,out,T20I # 27
+England Vs Australia,England,1,Darren Maddy,20,20,3,0,100.00,out,T20I # 28
+England Vs Australia,England,2,Matt Prior,17,17,1,1,100.00,out,T20I # 28
+England Vs Australia,England,3,Luke Wright,3,6,0,0,50.00,out,T20I # 28
+England Vs Australia,England,4,Kevin Pietersen,21,20,2,0,105.00,out,T20I # 28
+England Vs Australia,England,5,Paul Collingwood,18,11,2,1,163.63,out,T20I # 28
+England Vs Australia,England,6,Andrew Flintoff,31,19,4,1,163.15,out,T20I # 28
+England Vs Australia,England,7,Owais Shah,14,13,0,1,107.69,out,T20I # 28
+England Vs Australia,England,8,Dimitri Mascarenhas,4,6,0,0,66.66,out,T20I # 28
+England Vs Australia,England,9,Chris Schofield,1,4,0,0,25.00,out,T20I # 28
+England Vs Australia,England,10,Stuart Broad,1,3,0,0,33.33,out,T20I # 28
+England Vs Australia,England,11,James Kirtley,2,4,0,0,50.00,not_out,T20I # 28
+England Vs Australia,Australia,1,Adam Gilchrist,45,28,5,1,160.71,out,T20I # 28
+England Vs Australia,Australia,2,Matthew Hayden,67,43,11,1,155.81,not_out,T20I # 28
+England Vs Australia,Australia,3,Ricky Ponting,20,16,1,1,125.00,out,T20I # 28
+England Vs Australia,Australia,4,Andrew Symonds,2,2,0,0,100.00,not_out,T20I # 28
+India Vs Pakistan,India,1,Gautam Gambhir,0,3,0,0,0.00,out,T20I # 29
+India Vs Pakistan,India,2,Virender Sehwag,5,3,1,0,166.66,out,T20I # 29
+India Vs Pakistan,India,3,Robin Uthappa,50,39,4,2,128.20,out,T20I # 29
+India Vs Pakistan,India,4,Yuvraj Singh,1,4,0,0,25.00,out,T20I # 29
+India Vs Pakistan,India,5,Dinesh Karthik,11,9,2,0,122.22,out,T20I # 29
+India Vs Pakistan,India,6,MS Dhoni,33,31,3,1,106.45,out,T20I # 29
+India Vs Pakistan,India,7,Irfan Pathan,20,15,0,2,133.33,out,T20I # 29
+India Vs Pakistan,India,8,Harbhajan Singh,1,4,0,0,25.00,out,T20I # 29
+India Vs Pakistan,India,9,Ajit Agarkar,14,9,2,0,155.55,out,T20I # 29
+India Vs Pakistan,India,10,Sreesanth,1,3,0,0,33.33,not_out,T20I # 29
+India Vs Pakistan,Pakistan,1,Salman Butt,17,25,2,0,68.00,out,T20I # 29
+India Vs Pakistan,Pakistan,2,Imran Nazir,7,8,1,0,87.50,out,T20I # 29
+India Vs Pakistan,Pakistan,3,Kamran Akmal,15,13,1,1,115.38,out,T20I # 29
+India Vs Pakistan,Pakistan,4,Younis Khan,2,8,0,0,25.00,out,T20I # 29
+India Vs Pakistan,Pakistan,5,Shoaib Malik,20,18,3,0,111.11,out,T20I # 29
+India Vs Pakistan,Pakistan,6,Misbah-ul-Haq,53,35,7,1,151.42,out,T20I # 29
+India Vs Pakistan,Pakistan,7,Shahid Afridi,7,9,0,0,77.77,out,T20I # 29
+India Vs Pakistan,Pakistan,8,Yasir Arafat,12,5,2,0,240.00,not_out,T20I # 29
+New Zealand Vs Sri Lanka,New Zealand,1,Lou Vincent,14,16,1,0,87.50,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,2,Brendon McCullum,10,12,0,0,83.33,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,3,Peter Fulton,25,19,1,2,131.57,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,4,Ross Taylor,62,43,3,3,144.18,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,5,Scott Styris,2,3,0,0,66.66,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,6,Craig McMillan,2,5,0,0,40.00,out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,7,Jacob Oram,33,19,2,2,173.68,not_out,T20I # 30
+New Zealand Vs Sri Lanka,New Zealand,8,Daniel Vettori,3,3,0,0,100.00,out,T20I # 30
+New Zealand Vs Sri Lanka,Sri Lanka,1,Upul Tharanga,37,25,2,2,148.00,out,T20I # 30
+New Zealand Vs Sri Lanka,Sri Lanka,2,Sanath Jayasuriya,61,44,6,3,138.63,out,T20I # 30
+New Zealand Vs Sri Lanka,Sri Lanka,3,Kumar Sangakkara,14,19,1,0,73.68,out,T20I # 30
+New Zealand Vs Sri Lanka,Sri Lanka,4,Mahela Jayawardene,35,18,4,1,194.44,not_out,T20I # 30
+New Zealand Vs Sri Lanka,Sri Lanka,5,Chamara Silva,9,7,1,0,128.57,not_out,T20I # 30
+Bangladesh Vs South Africa,Bangladesh,1,Tamim Iqbal,8,7,2,0,114.28,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,2,Nazimuddin,0,1,0,0,0.00,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,3,Aftab Ahmed,36,14,5,2,257.14,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,4,Mohammad Ashraful,10,3,1,1,333.33,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,5,Shakib Al Hasan,19,14,3,0,135.71,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,6,Alok Kapali,14,35,0,0,40.00,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,7,Mashrafe Mortaza,12,8,0,2,150.00,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,8,Farhad Reza,19,21,0,2,90.47,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,9,Mushfiqur Rahim,4,6,0,0,66.66,out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,10,Abdur Razzak,2,6,0,0,33.33,not_out,T20I # 31
+Bangladesh Vs South Africa,Bangladesh,11,Syed Rasel,6,3,1,0,200.00,out,T20I # 31
+Bangladesh Vs South Africa,South Africa,1,Graeme Smith,41,34,6,0,120.58,out,T20I # 31
+Bangladesh Vs South Africa,South Africa,2,Jean-Paul Duminy,36,28,4,1,128.57,out,T20I # 31
+Bangladesh Vs South Africa,South Africa,3,Albie Morkel,41,29,3,2,141.37,out,T20I # 31
+Bangladesh Vs South Africa,South Africa,4,AB de Villiers,14,15,1,0,93.33,not_out,T20I # 31
+Bangladesh Vs South Africa,South Africa,5,Justin Kemp,12,7,1,1,171.42,not_out,T20I # 31
+New Zealand Vs India,New Zealand,1,Lou Vincent,3,6,0,0,50.00,out,T20I # 32
+New Zealand Vs India,New Zealand,2,Brendon McCullum,45,31,9,0,145.16,out,T20I # 32
+New Zealand Vs India,New Zealand,3,Peter Fulton,21,23,1,1,91.30,out,T20I # 32
+New Zealand Vs India,New Zealand,4,Ross Taylor,11,9,0,1,122.22,out,T20I # 32
+New Zealand Vs India,New Zealand,5,Scott Styris,2,4,0,0,50.00,out,T20I # 32
+New Zealand Vs India,New Zealand,6,Craig McMillan,44,23,1,4,191.30,out,T20I # 32
+New Zealand Vs India,New Zealand,7,Jacob Oram,35,15,2,3,233.33,out,T20I # 32
+New Zealand Vs India,New Zealand,8,Daniel Vettori,15,5,3,0,300.00,out,T20I # 32
+New Zealand Vs India,New Zealand,9,Shane Bond,4,2,1,0,200.00,out,T20I # 32
+New Zealand Vs India,New Zealand,10,Mark Gillespie,0,1,0,0,0.00,not_out,T20I # 32
+New Zealand Vs India,New Zealand,11,Jeetan Patel,0,1,0,0,0.00,out,T20I # 32
+New Zealand Vs India,India,1,Gautam Gambhir,51,33,5,2,154.54,out,T20I # 32
+New Zealand Vs India,India,2,Virender Sehwag,40,17,6,2,235.29,out,T20I # 32
+New Zealand Vs India,India,3,Robin Uthappa,0,2,0,0,0.00,out,T20I # 32
+New Zealand Vs India,India,4,MS Dhoni,24,20,2,0,120.00,out,T20I # 32
+New Zealand Vs India,India,5,Yuvraj Singh,5,7,0,0,71.42,out,T20I # 32
+New Zealand Vs India,India,6,Dinesh Karthik,17,12,3,0,141.66,out,T20I # 32
+New Zealand Vs India,India,7,Irfan Pathan,11,10,2,0,110.00,out,T20I # 32
+New Zealand Vs India,India,8,Ajit Agarkar,1,2,0,0,50.00,out,T20I # 32
+New Zealand Vs India,India,9,Harbhajan Singh,7,6,1,0,116.66,out,T20I # 32
+New Zealand Vs India,India,10,Sreesanth,19,10,4,0,190.00,not_out,T20I # 32
+New Zealand Vs India,India,11,RP Singh,1,1,0,0,100.00,not_out,T20I # 32
+Bangladesh Vs Australia,Bangladesh,1,Tamim Iqbal,32,40,3,0,80.00,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,2,Nazimuddin,11,17,2,0,64.70,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,3,Aftab Ahmed,31,34,2,0,91.17,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,4,Mohammad Ashraful,7,6,1,0,116.66,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,5,Shakib Al Hasan,16,11,1,1,145.45,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,6,Mashrafe Mortaza,0,1,0,0,0.00,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,7,Alok Kapali,0,1,0,0,0.00,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,8,Farhad Reza,4,13,0,0,30.76,out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,9,Mushfiqur Rahim,3,2,0,0,150.00,not_out,T20I # 33
+Bangladesh Vs Australia,Bangladesh,10,Abdur Razzak,0,0,0,0,-,not_out,T20I # 33
+Bangladesh Vs Australia,Australia,1,Adam Gilchrist,43,28,1,4,153.57,out,T20I # 33
+Bangladesh Vs Australia,Australia,2,Matthew Hayden,73,48,9,3,152.08,not_out,T20I # 33
+Bangladesh Vs Australia,Australia,3,Ricky Ponting,6,8,0,0,75.00,not_out,T20I # 33
+South Africa Vs England,South Africa,1,Graeme Smith,19,13,4,0,146.15,out,T20I # 34
+South Africa Vs England,South Africa,2,Jean-Paul Duminy,0,4,0,0,0.00,out,T20I # 34
+South Africa Vs England,South Africa,3,AB de Villiers,18,14,4,0,128.57,out,T20I # 34
+South Africa Vs England,South Africa,4,Justin Kemp,21,27,0,1,77.77,out,T20I # 34
+South Africa Vs England,South Africa,5,Mark Boucher,29,29,3,0,100.00,out,T20I # 34
+South Africa Vs England,South Africa,6,Shaun Pollock,0,1,0,0,0.00,out,T20I # 34
+South Africa Vs England,South Africa,7,Albie Morkel,43,20,3,4,215.00,out,T20I # 34
+South Africa Vs England,South Africa,8,Vernon Philander,6,7,0,0,85.71,out,T20I # 34
+South Africa Vs England,South Africa,9,Johan van der Wath,9,5,1,0,180.00,not_out,T20I # 34
+South Africa Vs England,England,1,Luke Wright,0,4,0,0,0.00,out,T20I # 34
+South Africa Vs England,England,2,Matt Prior,32,31,1,1,103.22,out,T20I # 34
+South Africa Vs England,England,3,Kevin Pietersen,15,14,3,0,107.14,out,T20I # 34
+South Africa Vs England,England,4,Paul Collingwood,0,1,0,0,0.00,out,T20I # 34
+South Africa Vs England,England,5,Owais Shah,36,31,1,2,116.12,out,T20I # 34
+South Africa Vs England,England,6,Andrew Flintoff,17,16,2,0,106.25,out,T20I # 34
+South Africa Vs England,England,7,Jeremy Snape,7,11,0,0,63.63,out,T20I # 34
+South Africa Vs England,England,8,Dimitri Mascarenhas,15,9,2,0,166.66,not_out,T20I # 34
+South Africa Vs England,England,9,Chris Schofield,6,3,1,0,200.00,not_out,T20I # 34
+Pakistan Vs Sri Lanka,Pakistan,1,Salman Butt,12,17,1,0,70.58,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,2,Imran Nazir,7,4,0,1,175.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,3,Mohammad Hafeez,10,11,2,0,90.90,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,4,Younis Khan,51,35,2,3,145.71,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,5,Shoaib Malik,57,31,4,2,183.87,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,6,Shahid Afridi,17,9,2,0,188.88,out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,7,Kamran Akmal,10,9,1,0,111.11,not_out,T20I # 35
+Pakistan Vs Sri Lanka,Pakistan,8,Misbah-ul-Haq,16,6,0,2,266.66,not_out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,1,Upul Tharanga,0,2,0,0,0.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,2,Sanath Jayasuriya,5,5,0,0,100.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,3,Kumar Sangakkara,18,10,2,1,180.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,4,Mahela Jayawardene,28,27,2,1,103.70,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,5,Chamara Silva,38,27,5,1,140.74,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,6,Tillakaratne Dilshan,38,28,0,4,135.71,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,7,Jehan Mubarak,0,4,0,0,0.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,8,Gayan Wijekoon,0,4,0,0,0.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,9,Chaminda Vaas,12,13,0,0,92.30,not_out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,10,Lasith Malinga,1,2,0,0,50.00,out,T20I # 35
+Pakistan Vs Sri Lanka,Sri Lanka,11,Dilhara Fernando,0,0,0,0,-,not_out,T20I # 35
+New Zealand Vs England,New Zealand,1,Lou Vincent,13,17,1,0,76.47,out,T20I # 36
+New Zealand Vs England,New Zealand,2,Brendon McCullum,4,5,1,0,80.00,out,T20I # 36
+New Zealand Vs England,New Zealand,3,Peter Fulton,0,2,0,0,0.00,out,T20I # 36
+New Zealand Vs England,New Zealand,4,Ross Taylor,7,8,0,1,87.50,out,T20I # 36
+New Zealand Vs England,New Zealand,5,Scott Styris,42,31,1,4,135.48,out,T20I # 36
+New Zealand Vs England,New Zealand,6,Craig McMillan,57,31,3,4,183.87,out,T20I # 36
+New Zealand Vs England,New Zealand,7,Jacob Oram,8,6,1,0,133.33,out,T20I # 36
+New Zealand Vs England,New Zealand,8,Daniel Vettori,17,9,2,0,188.88,not_out,T20I # 36
+New Zealand Vs England,New Zealand,9,Shane Bond,2,3,0,0,66.66,out,T20I # 36
+New Zealand Vs England,New Zealand,10,Mark Gillespie,7,8,0,0,87.50,out,T20I # 36
+New Zealand Vs England,England,1,Darren Maddy,50,31,4,2,161.29,out,T20I # 36
+New Zealand Vs England,England,2,Vikram Solanki,24,25,4,0,96.00,out,T20I # 36
+New Zealand Vs England,England,3,Kevin Pietersen,24,16,2,1,150.00,out,T20I # 36
+New Zealand Vs England,England,4,Paul Collingwood,3,5,0,0,60.00,out,T20I # 36
+New Zealand Vs England,England,5,Owais Shah,21,16,0,1,131.25,out,T20I # 36
+New Zealand Vs England,England,6,Andrew Flintoff,1,1,0,0,100.00,out,T20I # 36
+New Zealand Vs England,England,7,Luke Wright,24,17,1,1,141.17,out,T20I # 36
+New Zealand Vs England,England,8,Dimitri Mascarenhas,0,1,0,0,0.00,out,T20I # 36
+New Zealand Vs England,England,9,Chris Schofield,8,6,0,0,133.33,not_out,T20I # 36
+New Zealand Vs England,England,10,Stuart Broad,3,2,0,0,150.00,not_out,T20I # 36
+Australia Vs Pakistan,Australia,1,Adam Gilchrist,24,12,5,0,200.00,out,T20I # 37
+Australia Vs Pakistan,Australia,2,Matthew Hayden,1,5,0,0,20.00,out,T20I # 37
+Australia Vs Pakistan,Australia,3,Ricky Ponting,27,26,3,0,103.84,out,T20I # 37
+Australia Vs Pakistan,Australia,4,Andrew Symonds,29,18,5,0,161.11,out,T20I # 37
+Australia Vs Pakistan,Australia,5,Michael Hussey,37,25,3,1,148.00,out,T20I # 37
+Australia Vs Pakistan,Australia,6,Brad Hodge,36,29,3,0,124.13,out,T20I # 37
+Australia Vs Pakistan,Australia,7,Michael Clarke,0,1,0,0,0.00,out,T20I # 37
+Australia Vs Pakistan,Australia,8,Brett Lee,2,3,0,0,66.66,not_out,T20I # 37
+Australia Vs Pakistan,Australia,9,Mitchell Johnson,1,1,0,0,100.00,not_out,T20I # 37
+Australia Vs Pakistan,Pakistan,1,Imran Nazir,10,10,1,1,100.00,out,T20I # 37
+Australia Vs Pakistan,Pakistan,2,Mohammad Hafeez,15,11,2,1,136.36,out,T20I # 37
+Australia Vs Pakistan,Pakistan,3,Salman Butt,11,12,2,0,91.66,out,T20I # 37
+Australia Vs Pakistan,Pakistan,4,Younis Khan,4,3,1,0,133.33,out,T20I # 37
+Australia Vs Pakistan,Pakistan,5,Shoaib Malik,52,38,4,2,136.84,not_out,T20I # 37
+Australia Vs Pakistan,Pakistan,6,Misbah-ul-Haq,66,42,7,1,157.14,not_out,T20I # 37
+Sri Lanka Vs Bangladesh,Sri Lanka,1,Upul Tharanga,23,14,3,0,164.28,out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,2,Sanath Jayasuriya,0,1,0,0,0.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,3,Kumar Sangakkara,20,29,2,0,68.96,out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,4,Mahela Jayawardene,30,30,1,0,100.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,5,Chamara Silva,12,12,0,1,100.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,6,Tillakaratne Dilshan,21,16,2,0,131.25,not_out,T20I # 38
+Sri Lanka Vs Bangladesh,Sri Lanka,7,Jehan Mubarak,31,19,2,1,163.15,not_out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,1,Tamim Iqbal,3,10,0,0,30.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,2,Nazimuddin,0,1,0,0,0.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,3,Aftab Ahmed,18,11,3,0,163.63,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,4,Mohammad Ashraful,4,8,0,0,50.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,5,Shakib Al Hasan,18,19,2,0,94.73,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,6,Nadif Chowdhury,5,6,0,0,83.33,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,7,Mahmudullah,16,16,0,1,100.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,8,Mashrafe Mortaza,12,12,2,0,100.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,9,Mushfiqur Rahim,1,1,0,0,100.00,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,10,Abdur Razzak,5,12,0,0,41.66,out,T20I # 38
+Sri Lanka Vs Bangladesh,Bangladesh,11,Syed Rasel,0,0,0,0,-,not_out,T20I # 38
+New Zealand Vs South Africa,New Zealand,1,Lou Vincent,32,29,4,0,110.34,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,2,Brendon McCullum,38,26,3,2,146.15,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,3,Ross Taylor,1,3,0,0,33.33,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,4,Scott Styris,6,9,0,0,66.66,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,5,Craig McMillan,48,25,2,4,192.00,not_out,T20I # 39
+New Zealand Vs South Africa,New Zealand,6,Jacob Oram,15,15,2,0,100.00,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,7,Nathan McCullum,1,4,0,0,25.00,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,8,Daniel Vettori,1,3,0,0,33.33,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,9,Shane Bond,0,1,0,0,0.00,out,T20I # 39
+New Zealand Vs South Africa,New Zealand,10,Mark Gillespie,3,7,0,0,42.85,not_out,T20I # 39
+New Zealand Vs South Africa,South Africa,1,Graeme Smith,2,4,0,0,50.00,out,T20I # 39
+New Zealand Vs South Africa,South Africa,2,Herschelle Gibbs,19,19,4,0,100.00,out,T20I # 39
+New Zealand Vs South Africa,South Africa,3,AB de Villiers,1,5,0,0,20.00,out,T20I # 39
+New Zealand Vs South Africa,South Africa,4,Justin Kemp,89,56,6,6,158.92,not_out,T20I # 39
+New Zealand Vs South Africa,South Africa,5,Mark Boucher,23,23,2,0,100.00,out,T20I # 39
+New Zealand Vs South Africa,South Africa,6,Shaun Pollock,16,11,0,1,145.45,not_out,T20I # 39
+India Vs England,India,1,Gautam Gambhir,58,41,7,1,141.46,out,T20I # 40
+India Vs England,India,2,Virender Sehwag,68,52,4,3,130.76,out,T20I # 40
+India Vs England,India,3,Robin Uthappa,6,4,1,0,150.00,out,T20I # 40
+India Vs England,India,4,MS Dhoni,10,8,0,0,125.00,not_out,T20I # 40
+India Vs England,India,5,Yuvraj Singh,58,16,3,7,362.50,out,T20I # 40
+India Vs England,India,6,Irfan Pathan,0,0,0,0,-,not_out,T20I # 40
+India Vs England,England,1,Darren Maddy,29,20,3,1,145.00,out,T20I # 40
+India Vs England,England,2,Vikram Solanki,43,31,5,1,138.70,out,T20I # 40
+India Vs England,England,3,Kevin Pietersen,39,23,3,1,169.56,out,T20I # 40
+India Vs England,England,4,Paul Collingwood,28,20,2,1,140.00,out,T20I # 40
+India Vs England,England,5,Owais Shah,21,13,3,1,161.53,out,T20I # 40
+India Vs England,England,6,Andrew Flintoff,8,4,1,0,200.00,not_out,T20I # 40
+India Vs England,England,7,Luke Wright,16,9,1,1,177.77,out,T20I # 40
+India Vs England,England,8,Dimitri Mascarenhas,0,0,0,0,-,not_out,T20I # 40
+Sri Lanka Vs Australia,Sri Lanka,1,Upul Tharanga,4,8,0,0,50.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,2,Sanath Jayasuriya,0,2,0,0,0.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,3,Kumar Sangakkara,22,23,3,0,95.65,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,4,Mahela Jayawardene,1,2,0,0,50.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,5,Chamara Silva,6,11,1,0,54.54,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,6,Tillakaratne Dilshan,3,5,0,0,60.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,7,Jehan Mubarak,28,26,3,0,107.69,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,8,Farveez Maharoof,0,2,0,0,0.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,9,Chaminda Vaas,21,28,1,0,75.00,out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,10,Lasith Malinga,12,10,0,1,120.00,not_out,T20I # 41
+Sri Lanka Vs Australia,Sri Lanka,11,Dilhara Fernando,0,2,0,0,0.00,out,T20I # 41
+Sri Lanka Vs Australia,Australia,1,Adam Gilchrist,31,25,4,0,124.00,not_out,T20I # 41
+Sri Lanka Vs Australia,Australia,2,Matthew Hayden,58,38,7,2,152.63,not_out,T20I # 41
+Bangladesh Vs Pakistan,Bangladesh,1,Tamim Iqbal,3,8,0,0,37.50,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,2,Junaid Siddique,71,49,6,3,144.89,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,3,Aftab Ahmed,15,17,0,0,88.23,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,4,Mohammad Ashraful,5,4,0,0,125.00,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,5,Shakib Al Hasan,1,3,0,0,33.33,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,6,Nadif Chowdhury,12,10,1,0,120.00,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,7,Mahmudullah,1,1,0,0,100.00,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,8,Mashrafe Mortaza,11,14,0,0,78.57,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,9,Mushfiqur Rahim,6,9,0,0,66.66,not_out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,10,Abdur Razzak,0,1,0,0,0.00,out,T20I # 42
+Bangladesh Vs Pakistan,Bangladesh,11,Syed Rasel,1,6,0,0,16.66,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,1,Imran Nazir,27,18,3,1,150.00,not_out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,2,Shahid Afridi,39,15,5,2,260.00,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,3,Mohammad Hafeez,23,21,4,0,109.52,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,4,Salman Butt,21,28,0,0,75.00,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,5,Younis Khan,1,4,0,0,25.00,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,6,Shoaib Malik,21,23,2,0,91.30,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,7,Misbah-ul-Haq,1,2,0,0,50.00,out,T20I # 42
+Bangladesh Vs Pakistan,Pakistan,8,Kamran Akmal,3,4,0,0,75.00,not_out,T20I # 42
+India Vs South Africa,India,1,Gautam Gambhir,19,19,3,0,100.00,out,T20I # 43
+India Vs South Africa,India,2,Virender Sehwag,11,11,1,0,100.00,out,T20I # 43
+India Vs South Africa,India,3,Dinesh Karthik,0,1,0,0,0.00,out,T20I # 43
+India Vs South Africa,India,4,Robin Uthappa,15,16,1,1,93.75,out,T20I # 43
+India Vs South Africa,India,5,Rohit Sharma,50,40,7,2,125.00,not_out,T20I # 43
+India Vs South Africa,India,6,MS Dhoni,45,33,4,1,136.36,out,T20I # 43
+India Vs South Africa,India,7,Irfan Pathan,0,1,0,0,0.00,not_out,T20I # 43
+India Vs South Africa,South Africa,1,Herschelle Gibbs,1,3,0,0,33.33,out,T20I # 43
+India Vs South Africa,South Africa,2,Graeme Smith,4,6,1,0,66.66,out,T20I # 43
+India Vs South Africa,South Africa,3,AB de Villiers,1,4,0,0,25.00,out,T20I # 43
+India Vs South Africa,South Africa,4,Justin Kemp,5,12,1,0,41.66,out,T20I # 43
+India Vs South Africa,South Africa,5,Mark Boucher,36,41,4,0,87.80,out,T20I # 43
+India Vs South Africa,South Africa,6,Shaun Pollock,0,1,0,0,0.00,out,T20I # 43
+India Vs South Africa,South Africa,7,Albie Morkel,36,37,2,1,97.29,out,T20I # 43
+India Vs South Africa,South Africa,8,Vernon Philander,2,5,0,0,40.00,out,T20I # 43
+India Vs South Africa,South Africa,9,Johan van der Wath,2,6,0,0,33.33,out,T20I # 43
+India Vs South Africa,South Africa,10,Morne Morkel,1,3,0,0,33.33,not_out,T20I # 43
+India Vs South Africa,South Africa,11,Makhaya Ntini,4,2,1,0,200.00,not_out,T20I # 43
+New Zealand Vs Pakistan,New Zealand,1,Lou Vincent,28,28,1,1,100.00,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,2,Brendon McCullum,26,27,2,0,96.29,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,3,Scott Styris,18,12,1,1,150.00,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,4,Peter Fulton,10,15,0,0,66.66,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,5,Ross Taylor,37,23,2,2,160.86,not_out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,6,Craig McMillan,12,6,1,1,200.00,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,7,Jacob Oram,1,4,0,0,25.00,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,8,Daniel Vettori,0,0,0,0,-,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,9,Shane Bond,5,7,0,0,71.42,out,T20I # 44
+New Zealand Vs Pakistan,New Zealand,10,Jeetan Patel,0,0,0,0,-,not_out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,1,Mohammad Hafeez,32,21,3,2,152.38,out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,2,Imran Nazir,59,41,3,5,143.90,out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,3,Younis Khan,4,15,0,0,26.66,out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,4,Shoaib Malik,26,14,1,1,185.71,not_out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,5,Shahid Afridi,6,5,1,0,120.00,out,T20I # 44
+New Zealand Vs Pakistan,Pakistan,6,Misbah-ul-Haq,16,17,0,1,94.11,not_out,T20I # 44
+India Vs Australia,India,1,Gautam Gambhir,24,25,4,0,96.00,out,T20I # 45
+India Vs Australia,India,2,Virender Sehwag,9,13,1,0,69.23,out,T20I # 45
+India Vs Australia,India,3,Robin Uthappa,34,28,1,3,121.42,out,T20I # 45
+India Vs Australia,India,4,Yuvraj Singh,70,30,5,5,233.33,out,T20I # 45
+India Vs Australia,India,5,MS Dhoni,36,18,4,1,200.00,out,T20I # 45
+India Vs Australia,India,6,Rohit Sharma,8,5,0,1,160.00,not_out,T20I # 45
+India Vs Australia,India,7,Irfan Pathan,0,1,0,0,0.00,not_out,T20I # 45
+India Vs Australia,Australia,1,Adam Gilchrist,22,13,2,2,169.23,out,T20I # 45
+India Vs Australia,Australia,2,Matthew Hayden,62,47,4,4,131.91,out,T20I # 45
+India Vs Australia,Australia,3,Brad Hodge,11,10,0,1,110.00,out,T20I # 45
+India Vs Australia,Australia,4,Andrew Symonds,43,26,3,2,165.38,out,T20I # 45
+India Vs Australia,Australia,5,Michael Hussey,13,12,0,1,108.33,out,T20I # 45
+India Vs Australia,Australia,6,Michael Clarke,3,3,0,0,100.00,out,T20I # 45
+India Vs Australia,Australia,7,Brad Haddin,5,8,0,0,62.50,not_out,T20I # 45
+India Vs Australia,Australia,8,Brett Lee,2,2,0,0,100.00,out,T20I # 45
+India Vs Australia,Australia,9,Mitchell Johnson,4,1,1,0,400.00,not_out,T20I # 45
+India Vs Pakistan,India,1,Gautam Gambhir,75,54,8,2,138.88,out,T20I # 46
+India Vs Pakistan,India,2,Yusuf Pathan,15,8,1,1,187.50,out,T20I # 46
+India Vs Pakistan,India,3,Robin Uthappa,8,11,1,0,72.72,out,T20I # 46
+India Vs Pakistan,India,4,Yuvraj Singh,14,19,1,0,73.68,out,T20I # 46
+India Vs Pakistan,India,5,MS Dhoni,6,10,0,0,60.00,out,T20I # 46
+India Vs Pakistan,India,6,Rohit Sharma,30,16,2,1,187.50,not_out,T20I # 46
+India Vs Pakistan,India,7,Irfan Pathan,3,3,0,0,100.00,not_out,T20I # 46
+India Vs Pakistan,Pakistan,1,Mohammad Hafeez,1,3,0,0,33.33,out,T20I # 46
+India Vs Pakistan,Pakistan,2,Imran Nazir,33,14,4,2,235.71,out,T20I # 46
+India Vs Pakistan,Pakistan,3,Kamran Akmal,0,3,0,0,0.00,out,T20I # 46
+India Vs Pakistan,Pakistan,4,Younis Khan,24,24,4,0,100.00,out,T20I # 46
+India Vs Pakistan,Pakistan,5,Shoaib Malik,8,17,0,0,47.05,out,T20I # 46
+India Vs Pakistan,Pakistan,6,Misbah-ul-Haq,43,38,0,4,113.15,out,T20I # 46
+India Vs Pakistan,Pakistan,7,Shahid Afridi,0,1,0,0,0.00,out,T20I # 46
+India Vs Pakistan,Pakistan,8,Yasir Arafat,15,11,2,0,136.36,out,T20I # 46
+India Vs Pakistan,Pakistan,9,Sohail Tanvir,12,4,0,2,300.00,out,T20I # 46
+India Vs Pakistan,Pakistan,10,Umar Gul,0,2,0,0,0.00,out,T20I # 46
+India Vs Pakistan,Pakistan,11,Mohammad Asif,4,1,1,0,400.00,not_out,T20I # 46
+Australia Vs India,Australia,1,Adam Gilchrist,12,5,3,0,240.00,out,T20I # 47
+Australia Vs India,Australia,2,Matthew Hayden,17,19,1,2,89.47,out,T20I # 47
+Australia Vs India,Australia,3,Ricky Ponting,76,53,13,0,143.39,out,T20I # 47
+Australia Vs India,Australia,4,Andrew Symonds,20,18,1,0,111.11,out,T20I # 47
+Australia Vs India,Australia,5,Brad Hodge,2,6,0,0,33.33,out,T20I # 47
+Australia Vs India,Australia,6,Michael Clarke,25,15,2,0,166.66,not_out,T20I # 47
+Australia Vs India,Australia,7,Brad Haddin,5,4,0,0,125.00,not_out,T20I # 47
+Australia Vs India,India,1,Gautam Gambhir,63,52,6,1,121.15,out,T20I # 47
+Australia Vs India,India,2,Virender Sehwag,5,4,1,0,125.00,out,T20I # 47
+Australia Vs India,India,3,Robin Uthappa,35,26,6,0,134.61,out,T20I # 47
+Australia Vs India,India,4,Yuvraj Singh,31,25,1,3,124.00,not_out,T20I # 47
+Australia Vs India,India,5,MS Dhoni,9,5,0,1,180.00,not_out,T20I # 47
+New Zealand Vs South Africa,New Zealand,1,Lou Vincent,15,20,1,0,75.00,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,2,Brendon McCullum,9,8,0,1,112.50,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,3,Jamie How,14,11,1,1,127.27,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,4,Ross Taylor,7,8,0,1,87.50,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,5,Scott Styris,30,27,3,0,111.11,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,6,Gareth Hopkins,6,10,0,0,60.00,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,7,Daniel Vettori,2,7,0,0,28.57,out,T20I # 48
+New Zealand Vs South Africa,New Zealand,8,Kyle Mills,33,24,1,2,137.50,not_out,T20I # 48
+New Zealand Vs South Africa,New Zealand,9,Mark Gillespie,4,5,0,0,80.00,not_out,T20I # 48
+New Zealand Vs South Africa,South Africa,1,Graeme Smith,7,16,1,0,43.75,out,T20I # 48
+New Zealand Vs South Africa,South Africa,2,Jacques Kallis,4,5,1,0,80.00,out,T20I # 48
+New Zealand Vs South Africa,South Africa,3,Jean-Paul Duminy,33,19,3,2,173.68,out,T20I # 48
+New Zealand Vs South Africa,South Africa,4,AB de Villiers,52,45,4,1,115.55,not_out,T20I # 48
+New Zealand Vs South Africa,South Africa,5,Mark Boucher,7,10,0,0,70.00,out,T20I # 48
+New Zealand Vs South Africa,South Africa,6,Shaun Pollock,6,5,0,0,120.00,out,T20I # 48
+New Zealand Vs South Africa,South Africa,7,Albie Morkel,9,11,0,1,81.81,out,T20I # 48
+New Zealand Vs South Africa,South Africa,8,Vernon Philander,2,7,0,0,28.57,out,T20I # 48
+New Zealand Vs South Africa,South Africa,9,Johan Botha,6,2,1,0,300.00,not_out,T20I # 48
+Australia Vs New Zealand,Australia,1,Adam Gilchrist,1,5,0,0,20.00,out,T20I # 49
+Australia Vs New Zealand,Australia,2,Michael Clarke,33,26,3,1,126.92,out,T20I # 49
+Australia Vs New Zealand,Australia,3,Michael Hussey,22,16,4,0,137.50,out,T20I # 49
+Australia Vs New Zealand,Australia,4,Andrew Symonds,85,46,7,3,184.78,not_out,T20I # 49
+Australia Vs New Zealand,Australia,5,Adam Voges,26,20,3,0,130.00,out,T20I # 49
+Australia Vs New Zealand,Australia,6,Luke Pomersbach,15,7,1,1,214.28,out,T20I # 49
+Australia Vs New Zealand,Australia,7,Ashley Noffke,0,0,0,0,-,out,T20I # 49
+Australia Vs New Zealand,Australia,8,Brett Lee,0,1,0,0,0.00,not_out,T20I # 49
+Australia Vs New Zealand,New Zealand,1,Lou Vincent,0,1,0,0,0.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,2,Brendon McCullum,13,15,0,1,86.66,out,T20I # 49
+Australia Vs New Zealand,New Zealand,3,Jamie How,4,18,0,0,22.22,out,T20I # 49
+Australia Vs New Zealand,New Zealand,4,Scott Styris,18,15,4,0,120.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,5,Ross Taylor,0,2,0,0,0.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,6,Mathew Sinclair,0,4,0,0,0.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,7,Jacob Oram,66,31,5,6,212.90,not_out,T20I # 49
+Australia Vs New Zealand,New Zealand,8,Daniel Vettori,3,4,0,0,75.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,9,Kyle Mills,4,8,1,0,50.00,out,T20I # 49
+Australia Vs New Zealand,New Zealand,10,Mark Gillespie,4,6,0,0,66.66,out,T20I # 49
+Australia Vs New Zealand,New Zealand,11,Jeetan Patel,4,8,1,0,50.00,out,T20I # 49
+South Africa Vs West Indies,South Africa,1,Morne van Wyk,1,4,0,0,25.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,2,Herschelle Gibbs,0,4,0,0,0.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,3,Jean-Paul Duminy,0,1,0,0,0.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,4,AB de Villiers,0,4,0,0,0.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,5,Gulam Bodi,8,25,0,0,32.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,6,Shaun Pollock,2,5,0,0,40.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,7,Albie Morkel,1,4,0,0,25.00,out,T20I # 50
+South Africa Vs West Indies,South Africa,8,Vernon Philander,4,9,0,0,44.44,out,T20I # 50
+South Africa Vs West Indies,South Africa,9,Johan Botha,28,22,2,2,127.27,not_out,T20I # 50
+South Africa Vs West Indies,South Africa,10,Dale Steyn,1,1,0,0,100.00,not_out,T20I # 50
+South Africa Vs West Indies,West Indies,1,Brenton Parchment,10,6,1,1,166.66,out,T20I # 50
+South Africa Vs West Indies,West Indies,2,Devon Smith,7,7,1,0,100.00,out,T20I # 50
+South Africa Vs West Indies,West Indies,3,Runako Morton,20,14,3,1,142.85,out,T20I # 50
+South Africa Vs West Indies,West Indies,4,Shivnarine Chanderpaul,8,16,0,0,50.00,not_out,T20I # 50
+South Africa Vs West Indies,West Indies,5,Marlon Samuels,1,3,0,0,33.33,out,T20I # 50
+South Africa Vs West Indies,West Indies,6,Dwayne Bravo,0,1,0,0,0.00,out,T20I # 50
+South Africa Vs West Indies,West Indies,7,Denesh Ramdin,12,12,2,0,100.00,not_out,T20I # 50

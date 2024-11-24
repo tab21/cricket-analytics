@@ -1,10 +1,11 @@
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar";
 import axios from "axios";
+import "./App.css"; // Import the CSS file
 
 const formatDate = (dateString) => {
   const date = new Date(dateString);
-  return date.toLocaleDateString(); // Format date in a more user-friendly way
+  return date.toLocaleDateString(); // Format date in a user-friendly way
 };
 
 const PORT = 8000;
@@ -31,15 +32,20 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="app-container">
       <Navbar onSearch={searchPlayer} />
       {playerDetails ? (
-        <div>
+        <div className="player-details">
           <h2>{playerDetails.PlayerName}</h2>
-          <img src={playerDetails.image_path} alt={playerDetails.PlayerName} />
-          <div>
+          <img
+            className="player-image"
+            src={playerDetails.image_path}
+            alt={playerDetails.PlayerName}
+          />
+          <div className="player-info">
             <p>Country: {playerDetails.country_name}</p>
             <img
+              className="country-flag"
               src={playerDetails.country_image_path}
               alt={playerDetails.country_name}
             />
@@ -51,14 +57,19 @@ const App = () => {
           <p>Position: {playerDetails.position}</p>
         </div>
       ) : suggestions.length > 0 ? (
-        <div>
+        <div className="suggestions-container">
           <h2>Suggestions:</h2>
           {suggestions.map((suggestion, index) => (
             <div
               key={index}
+              className="suggestion-item"
               onClick={() => searchPlayer(suggestion.player.name)}
             >
-              <img src={suggestion.player.image} alt={suggestion.player.name} />
+              <img
+                className="suggestion-image"
+                src={suggestion.player.image}
+                alt={suggestion.player.name}
+              />
               <p>
                 {suggestion.player.name} ({suggestion.player.country})
               </p>
@@ -66,7 +77,7 @@ const App = () => {
           ))}
         </div>
       ) : (
-        <p>Search for a player to see results</p>
+        <p className="no-results">Search for a player to see results</p>
       )}
     </div>
   );

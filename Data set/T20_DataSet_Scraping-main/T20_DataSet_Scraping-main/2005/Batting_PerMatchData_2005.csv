@@ -1,0 +1,57 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out,match_id
+Australia Vs New Zealand,Australia,1,Adam Gilchrist,1,3,0,0,33.33,out,T20I # 1
+Australia Vs New Zealand,Australia,2,Michael Clarke,7,4,0,1,175.00,out,T20I # 1
+Australia Vs New Zealand,Australia,3,Andrew Symonds,32,13,4,2,246.15,out,T20I # 1
+Australia Vs New Zealand,Australia,4,Ricky Ponting,98,55,8,5,178.18,not_out,T20I # 1
+Australia Vs New Zealand,Australia,5,Damien Martyn,3,5,0,0,60.00,out,T20I # 1
+Australia Vs New Zealand,Australia,6,Simon Katich,30,25,2,1,120.00,out,T20I # 1
+Australia Vs New Zealand,Australia,7,Michael Hussey,31,15,1,3,206.66,not_out,T20I # 1
+Australia Vs New Zealand,New Zealand,1,Brendon McCullum,36,24,5,1,150.00,out,T20I # 1
+Australia Vs New Zealand,New Zealand,2,Stephen Fleming,18,13,3,0,138.46,out,T20I # 1
+Australia Vs New Zealand,New Zealand,3,Mathew Sinclair,0,1,0,0,0.00,out,T20I # 1
+Australia Vs New Zealand,New Zealand,4,Scott Styris,66,39,5,3,169.23,out,T20I # 1
+Australia Vs New Zealand,New Zealand,5,Craig McMillan,9,8,0,1,112.50,out,T20I # 1
+Australia Vs New Zealand,New Zealand,6,Chris Cairns,1,4,0,0,25.00,out,T20I # 1
+Australia Vs New Zealand,New Zealand,7,Hamish Marshall,8,7,0,0,114.28,out,T20I # 1
+Australia Vs New Zealand,New Zealand,8,Andre Adams,7,7,1,0,100.00,out,T20I # 1
+Australia Vs New Zealand,New Zealand,9,Jeff Wilson,18,14,2,0,128.57,out,T20I # 1
+Australia Vs New Zealand,New Zealand,10,Kyle Mills,0,1,0,0,0.00,out,T20I # 1
+Australia Vs New Zealand,New Zealand,11,Daryl Tuffey,5,2,1,0,250.00,not_out,T20I # 1
+England Vs Australia,England,1,Marcus Trescothick,41,37,5,0,110.81,out,T20I # 2
+England Vs Australia,England,2,Geraint Jones,19,14,4,0,135.71,out,T20I # 2
+England Vs Australia,England,3,Andrew Flintoff,6,5,0,0,120.00,out,T20I # 2
+England Vs Australia,England,4,Kevin Pietersen,34,18,3,1,188.88,out,T20I # 2
+England Vs Australia,England,5,Michael Vaughan,0,1,0,0,0.00,out,T20I # 2
+England Vs Australia,England,6,Paul Collingwood,46,26,5,2,176.92,out,T20I # 2
+England Vs Australia,England,7,Andrew Strauss,18,16,1,0,112.50,out,T20I # 2
+England Vs Australia,England,8,Vikram Solanki,9,5,1,0,180.00,out,T20I # 2
+England Vs Australia,England,9,Jon Lewis,0,0,0,0,-,not_out,T20I # 2
+England Vs Australia,Australia,1,Adam Gilchrist,15,14,3,0,107.14,out,T20I # 2
+England Vs Australia,Australia,2,Matthew Hayden,6,4,1,0,150.00,out,T20I # 2
+England Vs Australia,Australia,3,Andrew Symonds,0,2,0,0,0.00,out,T20I # 2
+England Vs Australia,Australia,4,Michael Clarke,0,1,0,0,0.00,out,T20I # 2
+England Vs Australia,Australia,5,Michael Hussey,1,6,0,0,16.66,out,T20I # 2
+England Vs Australia,Australia,6,Ricky Ponting,0,3,0,0,0.00,out,T20I # 2
+England Vs Australia,Australia,7,Damien Martyn,4,4,1,0,100.00,out,T20I # 2
+England Vs Australia,Australia,8,Brett Lee,15,20,1,0,75.00,out,T20I # 2
+England Vs Australia,Australia,9,Jason Gillespie,24,18,4,0,133.33,out,T20I # 2
+England Vs Australia,Australia,10,Michael Kasprowicz,3,5,0,0,60.00,not_out,T20I # 2
+England Vs Australia,Australia,11,Glenn McGrath,5,12,0,0,41.66,out,T20I # 2
+South Africa Vs New Zealand,South Africa,1,Graeme Smith,61,43,10,1,141.86,out,T20I # 3
+South Africa Vs New Zealand,South Africa,2,Jacques Kallis,20,18,1,1,111.11,out,T20I # 3
+South Africa Vs New Zealand,South Africa,3,Herschelle Gibbs,9,7,1,0,128.57,out,T20I # 3
+South Africa Vs New Zealand,South Africa,4,Justin Kemp,8,11,1,0,72.72,out,T20I # 3
+South Africa Vs New Zealand,South Africa,5,Mark Boucher,4,8,0,0,50.00,out,T20I # 3
+South Africa Vs New Zealand,South Africa,6,Shaun Pollock,0,2,0,0,0.00,out,T20I # 3
+South Africa Vs New Zealand,South Africa,7,Ashwell Prince,5,6,0,0,83.33,out,T20I # 3
+South Africa Vs New Zealand,South Africa,8,Albie Morkel,11,12,0,1,91.66,out,T20I # 3
+South Africa Vs New Zealand,South Africa,9,Charl Langeveldt,2,4,0,0,50.00,out,T20I # 3
+South Africa Vs New Zealand,South Africa,10,Makhaya Ntini,5,6,1,0,83.33,out,T20I # 3
+South Africa Vs New Zealand,South Africa,11,Andre Nel,0,2,0,0,0.00,not_out,T20I # 3
+South Africa Vs New Zealand,New Zealand,1,Stephen Fleming,0,0,15,19,26,out,T20I # 3
+South Africa Vs New Zealand,New Zealand,2,Nathan Astle,1,0,24,28,39,out,T20I # 3
+South Africa Vs New Zealand,New Zealand,3,Hamish Marshall,2,0,23,16,28,out,T20I # 3
+South Africa Vs New Zealand,New Zealand,4,Craig McMillan,1,2,17,9,10,out,T20I # 3
+South Africa Vs New Zealand,New Zealand,5,Scott Styris,1,1,3,0,16,out,T20I # 3
+South Africa Vs New Zealand,New Zealand,6,Jacob Oram,5.33,1,2,0,21,not_out,T20I # 3
+South Africa Vs New Zealand,New Zealand,7,Brendon McCullum,10.50,0,4,0,19,not_out,T20I # 3

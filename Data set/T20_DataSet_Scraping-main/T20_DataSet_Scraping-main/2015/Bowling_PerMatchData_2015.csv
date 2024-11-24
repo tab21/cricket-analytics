@@ -1,0 +1,605 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+South Africa Vs West Indies,West Indies,Sheldon Cottrell,4,0,33,2,8.25,11,3,1,2,0,T20I # 413
+South Africa Vs West Indies,West Indies,Jason Holder,4,0,20,1,5.00,14,3,0,0,0,T20I # 413
+South Africa Vs West Indies,West Indies,Andre Russell,4,0,43,1,10.75,6,3,2,1,0,T20I # 413
+South Africa Vs West Indies,West Indies,Ashley Nurse,3,0,24,0,8.00,5,2,1,0,0,T20I # 413
+South Africa Vs West Indies,West Indies,Dwayne Bravo,3,0,26,0,8.66,2,2,0,0,0,T20I # 413
+South Africa Vs West Indies,West Indies,Daren Sammy,2,0,17,0,8.50,2,1,0,0,0,T20I # 413
+South Africa Vs West Indies,South Africa,Kyle Abbott,4,0,30,0,7.50,9,1,2,0,0,T20I # 413
+South Africa Vs West Indies,South Africa,Kagiso Rabada,4,0,38,0,9.50,11,3,3,0,0,T20I # 413
+South Africa Vs West Indies,South Africa,David Wiese,2.2,0,20,1,8.57,6,4,0,0,0,T20I # 413
+South Africa Vs West Indies,South Africa,Wayne Parnell,4,0,39,2,9.75,8,6,1,0,0,T20I # 413
+South Africa Vs West Indies,South Africa,Imran Tahir,4,0,28,3,7.00,13,0,3,1,0,T20I # 413
+South Africa Vs West Indies,South Africa,Farhaan Behardien,1,0,8,0,8.00,1,1,0,0,0,T20I # 413
+South Africa Vs West Indies,West Indies,Sulieman Benn,3,0,42,1,14.00,6,4,3,0,0,T20I # 414
+South Africa Vs West Indies,West Indies,Sheldon Cottrell,3,0,47,0,15.66,5,4,3,0,1,T20I # 414
+South Africa Vs West Indies,West Indies,Jason Holder,4,0,40,2,10.00,5,4,1,2,0,T20I # 414
+South Africa Vs West Indies,West Indies,Andre Russell,4,0,39,0,9.75,10,4,1,4,1,T20I # 414
+South Africa Vs West Indies,West Indies,Dwayne Bravo,4,0,32,2,8.00,8,1,2,1,0,T20I # 414
+South Africa Vs West Indies,West Indies,Daren Sammy,1,0,17,0,17.00,0,0,2,0,0,T20I # 414
+South Africa Vs West Indies,West Indies,Kieron Pollard,1,0,12,0,12.00,0,1,0,0,0,T20I # 414
+South Africa Vs West Indies,South Africa,Kyle Abbott,4,0,68,1,17.00,6,12,2,1,0,T20I # 414
+South Africa Vs West Indies,South Africa,Marchant de Lange,3.2,0,42,1,12.60,6,5,2,2,0,T20I # 414
+South Africa Vs West Indies,South Africa,David Wiese,4,0,43,3,10.75,10,5,2,3,0,T20I # 414
+South Africa Vs West Indies,South Africa,Aaron Phangiso,3,0,33,1,11.00,6,2,3,0,0,T20I # 414
+South Africa Vs West Indies,South Africa,Imran Tahir,4,0,29,0,7.25,8,0,2,1,0,T20I # 414
+South Africa Vs West Indies,South Africa,Justin Ontong,1,0,17,0,17.00,0,2,1,0,0,T20I # 414
+South Africa Vs West Indies,West Indies,Sheldon Cottrell,4,0,33,1,8.25,9,2,1,0,0,T20I # 415
+South Africa Vs West Indies,West Indies,Carlos Brathwaite,3,0,42,0,14.00,7,3,3,3,0,T20I # 415
+South Africa Vs West Indies,West Indies,Andre Russell,2,0,24,0,12.00,4,2,2,0,0,T20I # 415
+South Africa Vs West Indies,West Indies,Ashley Nurse,2,0,22,0,11.00,5,5,0,0,0,T20I # 415
+South Africa Vs West Indies,West Indies,Dwayne Bravo,4,0,38,1,9.50,7,1,3,1,1,T20I # 415
+South Africa Vs West Indies,West Indies,Marlon Samuels,3,0,22,0,7.33,3,2,0,0,0,T20I # 415
+South Africa Vs West Indies,West Indies,Kieron Pollard,2,0,13,1,6.50,3,1,0,1,0,T20I # 415
+South Africa Vs West Indies,South Africa,Kyle Abbott,3,0,14,0,4.66,8,0,0,1,0,T20I # 415
+South Africa Vs West Indies,South Africa,Marchant de Lange,4,0,26,2,6.50,9,1,1,2,0,T20I # 415
+South Africa Vs West Indies,South Africa,Wayne Parnell,3,0,33,2,11.00,7,5,1,2,0,T20I # 415
+South Africa Vs West Indies,South Africa,Aaron Phangiso,4,0,23,1,5.75,8,2,0,0,0,T20I # 415
+South Africa Vs West Indies,South Africa,David Wiese,4,0,23,5,5.75,10,0,1,2,0,T20I # 415
+South Africa Vs West Indies,South Africa,Jean-Paul Duminy,1,0,6,0,6.00,2,0,0,0,0,T20I # 415
+Pakistan Vs Bangladesh,Bangladesh,Mustafizur Rahman,4,0,20,2,5.00,16,0,1,2,0,T20I # 416
+Pakistan Vs Bangladesh,Bangladesh,Shakib Al Hasan,4,0,17,0,4.25,13,1,0,0,0,T20I # 416
+Pakistan Vs Bangladesh,Bangladesh,Mashrafe Mortaza,4,0,29,0,7.25,9,4,0,0,0,T20I # 416
+Pakistan Vs Bangladesh,Bangladesh,Arafat Sunny,2,0,23,1,11.50,4,4,0,1,0,T20I # 416
+Pakistan Vs Bangladesh,Bangladesh,Taskin Ahmed,4,0,29,1,7.25,9,1,2,0,0,T20I # 416
+Pakistan Vs Bangladesh,Bangladesh,Nasir Hossain,2,0,16,0,8.00,1,1,0,1,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Mohammad Hafeez,1,0,14,0,14.00,3,2,1,0,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Sohail Tanvir,3,0,16,0,5.33,10,2,0,1,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Umar Gul,2,0,23,1,11.50,6,4,1,0,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Saeed Ajmal,3.2,0,25,0,7.50,6,3,0,0,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Wahab Riaz,4,0,39,1,9.75,8,7,0,0,0,T20I # 416
+Pakistan Vs Bangladesh,Pakistan,Shahid Afridi,3,0,25,0,8.33,7,4,0,0,0,T20I # 416
+Zimbabwe Vs Pakistan,Pakistan,Anwar Ali,3,0,18,0,6.00,9,3,0,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Mohammad Sami,4,0,36,3,9.00,9,3,2,1,0,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Bilawal Bhatti,3,0,37,0,12.33,2,5,1,0,1,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Wahab Riaz,4,0,38,2,9.50,9,6,0,4,0,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Shahid Afridi,3,0,28,0,9.33,4,4,0,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Shoaib Malik,3,0,12,1,4.00,7,0,0,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Tinashe Panyangara,2.3,0,28,1,11.20,4,5,0,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Brian Vitori,4,0,24,1,6.00,13,4,0,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Chris Mpofu,3,0,32,0,10.66,7,5,1,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Sean Williams,4,0,33,1,8.25,11,3,2,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Graeme Cremer,4,0,28,2,7.00,10,2,1,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Zimbabwe,Sikandar Raza,2,0,23,0,11.50,0,2,1,0,0,T20I # 417
+Zimbabwe Vs Pakistan,Pakistan,Anwar Ali,3,0,31,0,10.33,5,4,0,0,1,T20I # 418
+Zimbabwe Vs Pakistan,Pakistan,Mohammad Sami,4,0,38,1,9.50,12,1,4,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Pakistan,Bilawal Bhatti,3,0,31,0,10.33,4,4,0,2,1,T20I # 418
+Zimbabwe Vs Pakistan,Pakistan,Imad Wasim,2,0,14,0,7.00,6,1,1,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Pakistan,Shahid Afridi,4,0,36,1,9.00,5,2,1,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Pakistan,Shoaib Malik,4,0,23,1,5.75,5,1,0,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Chris Mpofu,4,0,25,2,6.25,12,2,1,1,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Brian Vitori,3.4,0,36,1,9.81,9,5,1,1,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Sean Williams,4,0,32,2,8.00,7,1,2,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Prosper Utseya,4,0,31,1,7.75,5,2,0,1,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Graeme Cremer,2,0,27,0,13.50,3,2,2,0,0,T20I # 418
+Zimbabwe Vs Pakistan,Zimbabwe,Sikandar Raza,2,0,19,1,9.50,2,2,0,0,0,T20I # 418
+Ireland Vs Scotland,Scotland,Safyaan Sharif,0,33,8.25,2,1,0,4,0,22,5.50,T20I # 419
+Ireland Vs Scotland,Scotland,Alasdair Evans,0,0,4,0,1,28,7.00,0,0,4,T20I # 419
+Ireland Vs Scotland,Scotland,Josh Davey,0,23,5.75,1,0,0,12,10,2,0,T20I # 419
+Ireland Vs Scotland,Scotland,Mark Watt,120.00,19,20,0,2,0,95.00,60,34,10,T20I # 419
+Ireland Vs Scotland,Scotland,Michael Leask,1,176.47,0,2,1,0,0,0.00,24,15,T20I # 419
+Ireland Vs Scotland,Ireland,Graeme McCarter,0,0,3.1,0,0,27,8.52,1,0,1,T20I # 419
+Ireland Vs Scotland,Scotland,Safyaan Sharif,21,7.00,2,2,0,4,0,35,8.75,1,T20I # 421
+Ireland Vs Scotland,Scotland,Gavin Main,0,4,0,1,31,7.75,0,0,3,0,T20I # 421
+Ireland Vs Scotland,Scotland,Josh Davey,31,10.33,1,0,0,2,0,19,9.50,0,T20I # 421
+Ireland Vs Scotland,Scotland,Mark Watt,0,0,2,0,0,0,0.00,34,22,5,T20I # 421
+Ireland Vs Scotland,Scotland,Richie Berrington,0,154.54,48,1,30,6,1,160.00,13,11,T20I # 421
+Ireland Vs Scotland,Scotland,Michael Leask,2,0,118.18,1,20,15,2,0,133.33,47,T20I # 421
+Ireland Vs Scotland,Ireland,Tyrone Kane,24,12.00,2,1,0,1,0,9,9.00,0,T20I # 421
+England Vs New Zealand,New Zealand,Mitchell Santner,4,0,28,2,7.00,9,2,1,0,0,T20I # 423
+England Vs New Zealand,New Zealand,Mitchell McClenaghan,4,0,37,2,9.25,11,2,3,1,0,T20I # 423
+England Vs New Zealand,New Zealand,Tim Southee,4,0,45,1,11.25,4,5,1,1,0,T20I # 423
+England Vs New Zealand,New Zealand,Nathan McCullum,4,0,46,0,11.50,2,4,1,1,0,T20I # 423
+England Vs New Zealand,New Zealand,Matt Henry,4,0,32,1,8.00,7,5,0,0,0,T20I # 423
+England Vs New Zealand,England,David Willey,2.2,0,22,3,9.42,6,2,1,1,0,T20I # 423
+England Vs New Zealand,England,Steven Finn,4,0,29,0,7.25,9,2,1,0,0,T20I # 423
+England Vs New Zealand,England,Mark Wood,3,0,26,3,8.66,6,1,2,0,0,T20I # 423
+England Vs New Zealand,England,Adil Rashid,4,0,33,1,8.25,5,4,0,0,0,T20I # 423
+England Vs New Zealand,England,Ben Stokes,3,0,24,2,8.00,9,5,0,0,0,T20I # 423
+Netherlands Vs Nepal,Nepal,Sompal Kami,0,32,8.00,0,0,0,4,0,18,4.50,T20I # 424
+Netherlands Vs Nepal,Nepal,Karan KC,0,0,4,1,0,24,6.00,0,0,4,T20I # 424
+Netherlands Vs Nepal,Nepal,Avinash Karn,0,21,5.25,0,1,0,2,7,0,0,T20I # 424
+Netherlands Vs Nepal,Nepal,Basant Regmi,28.57,24,22,2,4,0,109.09,5,9,1,T20I # 424
+Netherlands Vs Nepal,Nepal,Paras Khadka,0,55.55,45,0,42,1,1,107.14,13,13,T20I # 424
+Netherlands Vs Nepal,Netherlands,Michael Swart,0,11,5.50,0,0,0,2,0,15,7.50,T20I # 424
+Netherlands Vs Nepal,Nepal,Sompal Kami,0,4,0,2,41,10.25,2,0,4,0,T20I # 425
+Netherlands Vs Nepal,Nepal,Karan KC,31,7.75,0,1,0,4,0,39,9.75,1,T20I # 425
+Netherlands Vs Nepal,Nepal,Avinash Karn,0,4,0,1,27,6.75,0,0,12,6,T20I # 425
+Netherlands Vs Nepal,Nepal,Paras Khadka,3,0,200.00,0,6,12,0,0,50.00,2,T20I # 425
+Netherlands Vs Nepal,Nepal,Basant Regmi,4,0,0,0,50.00,2,6,0,0,33.33,T20I # 425
+Netherlands Vs Nepal,Nepal,Sompal Kami,24,6.00,0,0,0,3,0,24,8.00,0,T20I # 426
+Netherlands Vs Nepal,Nepal,Sagar Pun,0,4,0,1,29,7.25,0,0,4,0,T20I # 426
+Netherlands Vs Nepal,Nepal,Karan KC,30,7.50,0,2,0,1,0,9,9.00,0,T20I # 426
+Netherlands Vs Nepal,Nepal,Basant Regmi,0,5,9,1,0,0,55.55,14,27,0,T20I # 426
+Netherlands Vs Nepal,Nepal,Shakti Gauchan,0,51.85,17,1,19,3,0,89.47,36,28,T20I # 426
+Netherlands Vs Nepal,Nepal,Paras Khadka,2,0,128.57,0,1,7,0,0,14.28,24,T20I # 426
+Netherlands Vs Nepal,Nepal,Sompal Kami,4.50,0,0,1,4,0,26,6.50,0,0,T20I # 427
+Netherlands Vs Nepal,Nepal,Shakti Gauchan,3,0,25,0,8.33,0,0,4,0,31,T20I # 427
+Netherlands Vs Nepal,Nepal,Sagar Pun,7.75,1,0,3,1,0,7,7.00,0,0,T20I # 427
+Netherlands Vs Nepal,Nepal,Karan KC,4,2,1,0,0,200.00,9,16,0,0,T20I # 427
+Netherlands Vs Nepal,Nepal,Basant Regmi,56.25,18,22,2,3,0,81.81,54,41,6,T20I # 427
+Netherlands Vs Nepal,Nepal,Paras Khadka,0,131.70,13,0,14,0,0,92.85,12,15,T20I # 427
+South Africa Vs Bangladesh,Bangladesh,Arafat Sunny,3,0,19,2,6.33,9,3,0,0,0,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Nasir Hossain,4,0,37,1,9.25,8,2,2,2,0,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Shakib Al Hasan,4,0,24,1,6.00,7,2,0,0,0,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Mustafizur Rahman,4,0,30,0,7.50,8,1,1,0,1,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Sohag Gazi,2,0,16,0,8.00,2,2,0,0,0,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Mashrafe Mortaza,3,0,20,0,6.66,5,1,0,0,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,Kyle Abbott,2,0,10,1,5.00,6,1,0,1,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,Kagiso Rabada,3,0,28,2,9.33,6,3,1,0,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,Wayne Parnell,2.5,0,12,1,4.23,9,1,0,0,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,David Wiese,3,0,12,2,4.00,9,0,0,1,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,Aaron Phangiso,4,0,21,1,5.25,13,1,1,0,0,T20I # 428
+South Africa Vs Bangladesh,South Africa,Jean-Paul Duminy,4,0,11,2,2.75,14,0,0,0,0,T20I # 428
+South Africa Vs Bangladesh,Bangladesh,Arafat Sunny,4,0,31,1,7.75,10,5,0,1,0,T20I # 429
+South Africa Vs Bangladesh,Bangladesh,Nasir Hossain,4,0,26,2,6.50,12,1,0,2,0,T20I # 429
+South Africa Vs Bangladesh,Bangladesh,Mustafizur Rahman,4,0,34,1,8.50,9,4,1,1,0,T20I # 429
+South Africa Vs Bangladesh,Bangladesh,Shakib Al Hasan,4,0,37,0,9.25,9,1,3,0,0,T20I # 429
+South Africa Vs Bangladesh,Bangladesh,Mashrafe Mortaza,3,0,25,0,8.33,4,2,1,0,0,T20I # 429
+South Africa Vs Bangladesh,Bangladesh,Soumya Sarkar,1,0,11,0,11.00,1,2,0,0,0,T20I # 429
+South Africa Vs Bangladesh,South Africa,Kyle Abbott,3.2,0,20,3,6.00,9,2,0,3,0,T20I # 429
+South Africa Vs Bangladesh,South Africa,Jean-Paul Duminy,4,0,26,0,6.50,8,2,0,1,1,T20I # 429
+South Africa Vs Bangladesh,South Africa,Wayne Parnell,3,0,29,1,9.66,5,2,1,2,0,T20I # 429
+South Africa Vs Bangladesh,South Africa,David Wiese,2,0,17,0,8.50,3,2,0,0,0,T20I # 429
+South Africa Vs Bangladesh,South Africa,Eddie Leie,3,0,16,3,5.33,8,0,1,0,0,T20I # 429
+South Africa Vs Bangladesh,South Africa,Aaron Phangiso,4,0,30,3,7.50,12,1,3,0,0,T20I # 429
+United Arab Emirates Vs Scotland,Scotland,Alasdair Evans,22,6.94,9,1,0,1,3,0,3,0,T20I # 430
+United Arab Emirates Vs Scotland,Scotland,Safyaan Sharif,15,5.00,8,1,1,0,0,0,4,0,T20I # 430
+United Arab Emirates Vs Scotland,Scotland,Josh Davey,28,7.00,12,0,2,2,0,0,4,0,T20I # 430
+United Arab Emirates Vs Scotland,Scotland,Mark Watt,20,5.00,13,3,1,1,1,0,62,36,T20I # 430
+United Arab Emirates Vs Scotland,Scotland,Michael Leask,11,1,172.22,3,39,16,9,0,243.75,7,T20I # 430
+United Arab Emirates Vs Scotland,United Arab Emirates,Mohammad Naveed,6,0,0,1,0,2,0,24,12.00,5,T20I # 430
+United Arab Emirates Vs Scotland,United Arab Emirates,Manjula Guruge,4,1,0,0,0,1,0,17,17.00,1,T20I # 430
+United Arab Emirates Vs Scotland,United Arab Emirates,Amjad Javed,4,0,0,0,0,1,0,13,13.00,2,T20I # 430
+Afghanistan Vs Netherlands,Netherlands,Michael Swart,1,0,1,0,1.00,5,0,0,0,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Mudassar Bukhari,4,0,25,2,6.25,8,2,0,0,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Timm van der Gugten,4,0,32,0,8.00,8,2,1,1,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Roelof van der Merwe,4,0,47,2,11.75,4,0,5,0,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Michael Rippon,2,0,8,0,4.00,7,1,0,0,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Pieter Seelaar,1,0,8,0,8.00,3,0,1,0,0,T20I # 431
+Afghanistan Vs Netherlands,Netherlands,Ahsan Malik,4,0,36,3,9.00,9,1,3,0,0,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Dawlat Zadran,3.4,0,17,3,4.63,13,2,0,0,1,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Mohammad Nabi,4,0,26,2,6.50,14,0,3,0,0,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Hamid Hassan,3,0,26,1,8.66,6,3,0,0,0,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Mirwais Ashraf,4,0,27,0,6.75,9,1,1,0,1,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Sharafuddin Ashraf,4,0,27,3,6.75,10,1,1,0,2,T20I # 431
+Afghanistan Vs Netherlands,Afghanistan,Samiullah Shinwari,1,0,5,0,5.00,2,0,0,0,0,T20I # 431
+United Arab Emirates Vs Afghanistan,Afghanistan,Dawlat Zadran,4,1,46,1,11.50,13,5,4,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,Afghanistan,Mohammad Nabi,4,0,36,0,9.00,7,3,2,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,Afghanistan,Hamid Hassan,4,0,29,2,7.25,10,4,0,1,0,T20I # 432
+United Arab Emirates Vs Afghanistan,Afghanistan,Mirwais Ashraf,4,0,21,2,5.25,11,0,1,1,0,T20I # 432
+United Arab Emirates Vs Afghanistan,Afghanistan,Sharafuddin Ashraf,4,0,30,0,7.50,6,2,1,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Mohammad Naveed,3,0,40,0,13.33,5,6,1,0,2,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Amjad Javed,3.2,0,37,1,11.10,9,3,3,2,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Rohan Mustafa,2,0,23,0,11.50,3,1,2,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Ahmed Raza,4,0,31,0,7.75,6,2,1,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Mohammad Shahzad,1,0,4,0,4.00,2,0,0,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Umair Ali,2,0,13,1,6.50,4,1,0,0,0,T20I # 432
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Mohammad Tauqir,2,0,20,0,10.00,4,0,2,1,0,T20I # 432
+Netherlands Vs Scotland,Scotland,Alasdair Evans,4,0,24,5,6.00,10,2,0,1,0,T20I # 433
+Netherlands Vs Scotland,Scotland,Safyaan Sharif,4,0,39,0,9.75,9,3,3,0,0,T20I # 433
+Netherlands Vs Scotland,Scotland,Josh Davey,4,0,39,0,9.75,6,4,1,0,0,T20I # 433
+Netherlands Vs Scotland,Scotland,Mark Watt,4,0,41,1,10.25,5,3,2,1,0,T20I # 433
+Netherlands Vs Scotland,Scotland,Michael Leask,3,0,33,0,11.00,3,0,3,1,0,T20I # 433
+Netherlands Vs Scotland,Scotland,Richie Berrington,1,0,14,0,14.00,1,1,1,0,0,T20I # 433
+Netherlands Vs Scotland,Netherlands,Timm van der Gugten,3,0,23,0,7.66,8,2,1,1,0,T20I # 433
+Netherlands Vs Scotland,Netherlands,Mudassar Bukhari,2.5,0,22,3,7.76,9,4,0,2,0,T20I # 433
+Netherlands Vs Scotland,Netherlands,Ahsan Malik,3,0,41,0,13.66,5,6,1,0,2,T20I # 433
+Netherlands Vs Scotland,Netherlands,Roelof van der Merwe,4,0,22,2,5.50,10,2,0,0,0,T20I # 433
+Netherlands Vs Scotland,Netherlands,Pieter Seelaar,3,0,19,2,6.33,6,2,0,0,0,T20I # 433
+Netherlands Vs Scotland,Netherlands,Michael Rippon,4,0,28,1,7.00,8,1,1,0,0,T20I # 433
+United Arab Emirates Vs Netherlands,Netherlands,Mudassar Bukhari,2,0,27,0,13.50,2,5,0,1,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Timm van der Gugten,3,0,21,1,7.00,9,2,1,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Ahsan Malik,4,1,17,2,4.25,13,2,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Paul van Meekeren,2,0,17,0,8.50,5,3,0,1,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Roelof van der Merwe,4,0,10,2,2.50,15,0,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Michael Rippon,3,0,14,2,4.66,9,0,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,Netherlands,Peter Borren,2,0,10,0,5.00,3,0,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Nasir Aziz,4,0,21,0,5.25,12,3,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Manjula Guruge,2,0,18,1,9.00,6,4,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Mohammad Naveed,2,0,10,1,5.00,6,1,0,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Mohammad Tauqir,4,1,22,0,5.50,11,1,1,1,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Umair Ali,2,0,15,0,7.50,3,0,1,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Fayyaz Ahmed,3,0,29,1,9.66,5,3,1,0,0,T20I # 434
+United Arab Emirates Vs Netherlands,United Arab Emirates,Mohammad Shahzad,0.1,0,6,0,36.00,0,0,1,0,0,T20I # 434
+Afghanistan Vs Scotland,Scotland,Michael Leask,4,0,24,2,6.00,11,0,2,1,0,T20I # 435
+Afghanistan Vs Scotland,Scotland,Alasdair Evans,4,0,36,0,9.00,10,5,1,0,0,T20I # 435
+Afghanistan Vs Scotland,Scotland,Mark Watt,2,0,41,0,20.50,2,2,5,0,0,T20I # 435
+Afghanistan Vs Scotland,Scotland,Safyaan Sharif,4,0,44,0,11.00,4,1,3,0,0,T20I # 435
+Afghanistan Vs Scotland,Scotland,Con de Lange,4,0,44,1,11.00,7,0,5,1,0,T20I # 435
+Afghanistan Vs Scotland,Scotland,Richie Berrington,2,0,20,0,10.00,4,1,1,2,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Dawlat Zadran,3.2,0,35,1,10.50,11,3,3,1,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Mohammad Nabi,4,0,25,3,6.25,9,3,0,0,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Hamid Hassan,4,0,29,3,7.25,9,1,2,0,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Mirwais Ashraf,4,0,26,2,6.50,9,2,1,0,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Sharafuddin Ashraf,2,0,34,0,17.00,0,2,3,0,0,T20I # 435
+Afghanistan Vs Scotland,Afghanistan,Samiullah Shinwari,2,0,18,0,9.00,4,3,0,1,0,T20I # 435
+Nepal Vs Ireland,Ireland,Alex Cusack,2,1,7,1,3.50,8,1,0,0,0,T20I # 436
+Nepal Vs Ireland,Ireland,Craig Young,3,0,19,1,6.33,7,2,0,0,1,T20I # 436
+Nepal Vs Ireland,Ireland,John Mooney,2,0,7,2,3.50,7,0,0,1,0,T20I # 436
+Nepal Vs Ireland,Ireland,Stuart Thompson,3.3,0,10,3,2.85,15,1,0,1,0,T20I # 436
+Nepal Vs Ireland,Ireland,Kevin O'Brien,4,0,8,3,2.00,17,0,0,0,0,T20I # 436
+Nepal Vs Ireland,Nepal,Paras Khadka,2,0,8,0,4.00,9,1,0,2,0,T20I # 436
+Nepal Vs Ireland,Nepal,Sompal Kami,3,0,28,2,9.33,9,4,1,1,0,T20I # 436
+Nepal Vs Ireland,Nepal,Sagar Pun,2,0,12,0,6.00,3,1,0,0,0,T20I # 436
+Nepal Vs Ireland,Nepal,Basant Regmi,1,0,6,0,6.00,3,1,0,0,0,T20I # 436
+Ireland Vs Papua New Guinea,Papua New Guinea,Loa Nou,4,0,24,1,6.00,12,3,0,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,Norman Vanua,4,0,22,1,5.50,12,1,0,1,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,Willie Gavera,4,1,17,3,4.25,13,1,0,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,John Reva,4,0,26,1,6.50,11,2,1,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,Charles Amini,1,0,7,0,7.00,3,1,0,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,Assad Vala,2,0,13,1,6.50,3,1,0,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Papua New Guinea,Mahuru Dai,1,0,13,0,13.00,1,1,1,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,Tyrone Kane,3,0,19,3,6.33,7,1,1,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,Alex Cusack,4,0,27,1,6.75,13,3,1,1,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,John Mooney,3.5,0,38,2,9.91,9,3,3,0,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,Stuart Thompson,3,0,15,0,5.00,9,1,0,3,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,Kevin O'Brien,4,0,11,2,2.75,15,0,0,1,0,T20I # 437
+Ireland Vs Papua New Guinea,Ireland,George Dockrell,1,0,9,0,9.00,3,2,0,0,0,T20I # 437
+Nepal Vs Hong Kong,Hong Kong,Tanwir Afzal,4,0,35,1,8.75,11,2,2,1,1,T20I # 438
+Nepal Vs Hong Kong,Hong Kong,Haseeb Amjad,4,0,16,4,4.00,13,1,0,0,0,T20I # 438
+Nepal Vs Hong Kong,Hong Kong,Aizaz Khan,4,0,7,1,1.75,18,0,0,1,0,T20I # 438
+Nepal Vs Hong Kong,Hong Kong,Irfan Ahmed,4,0,30,2,7.50,11,2,2,1,0,T20I # 438
+Nepal Vs Hong Kong,Hong Kong,Nadeem Ahmed,1,0,7,0,7.00,4,0,0,1,0,T20I # 438
+Nepal Vs Hong Kong,Hong Kong,Nizakat Khan,3,0,10,1,3.33,10,0,0,1,0,T20I # 438
+Nepal Vs Hong Kong,Nepal,Paras Khadka,3.1,1,10,0,3.15,14,0,0,1,0,T20I # 438
+Nepal Vs Hong Kong,Nepal,Sompal Kami,3,0,27,1,9.00,6,2,1,0,1,T20I # 438
+Nepal Vs Hong Kong,Nepal,Shakti Gauchan,4,0,21,0,5.25,12,2,0,0,0,T20I # 438
+Nepal Vs Hong Kong,Nepal,Jitendra Mukhiya,2,0,10,0,5.00,4,0,0,0,0,T20I # 438
+Nepal Vs Hong Kong,Nepal,Sagar Pun,3,0,19,0,6.33,7,0,1,0,0,T20I # 438
+Nepal Vs Hong Kong,Nepal,Basant Regmi,4,0,16,4,4.00,11,1,0,0,0,T20I # 438
+Nepal Vs Papua New Guinea,Papua New Guinea,Loa Nou,3,0,15,0,5.00,7,1,0,0,0,T20I # 439
+Nepal Vs Papua New Guinea,Papua New Guinea,Norman Vanua,3,0,17,1,5.66,12,3,0,2,0,T20I # 439
+Nepal Vs Papua New Guinea,Papua New Guinea,Willie Gavera,3,0,23,0,7.66,9,4,0,0,0,T20I # 439
+Nepal Vs Papua New Guinea,Papua New Guinea,John Reva,4,0,11,2,2.75,14,0,0,0,0,T20I # 439
+Nepal Vs Papua New Guinea,Papua New Guinea,Mahuru Dai,4,0,13,2,3.25,11,0,0,0,0,T20I # 439
+Nepal Vs Papua New Guinea,Papua New Guinea,Assad Vala,2.4,0,7,2,2.62,10,0,0,0,0,T20I # 439
+Nepal Vs Papua New Guinea,Nepal,Shakti Gauchan,3,0,16,0,5.33,12,1,1,1,0,T20I # 439
+Nepal Vs Papua New Guinea,Nepal,Sompal Kami,3,0,14,1,4.66,10,1,0,1,0,T20I # 439
+Nepal Vs Papua New Guinea,Nepal,Karan KC,1,0,16,0,16.00,2,3,0,2,0,T20I # 439
+Nepal Vs Papua New Guinea,Nepal,Paras Khadka,4,0,29,0,7.25,11,1,2,1,0,T20I # 439
+Nepal Vs Papua New Guinea,Nepal,Basant Regmi,3.1,0,22,1,6.94,10,1,1,3,0,T20I # 439
+India Vs Zimbabwe,Zimbabwe,Prosper Utseya,4,0,30,0,7.50,5,1,0,1,0,T20I # 440
+India Vs Zimbabwe,Zimbabwe,Chris Mpofu,4,0,33,3,8.25,7,2,0,3,0,T20I # 440
+India Vs Zimbabwe,Zimbabwe,Taurai Muzarabani,3,0,36,0,12.00,5,5,1,1,0,T20I # 440
+India Vs Zimbabwe,Zimbabwe,Neville Madziva,4,0,46,0,11.50,5,4,1,3,1,T20I # 440
+India Vs Zimbabwe,Zimbabwe,Graeme Cremer,4,1,20,1,5.00,11,0,1,1,0,T20I # 440
+India Vs Zimbabwe,Zimbabwe,Sikandar Raza,1,0,2,0,2.00,4,0,0,0,0,T20I # 440
+India Vs Zimbabwe,India,Bhuvneshwar Kumar,4,0,22,0,5.50,12,1,1,1,0,T20I # 440
+India Vs Zimbabwe,India,Sandeep Sharma,3,0,34,0,11.33,8,2,3,2,0,T20I # 440
+India Vs Zimbabwe,India,Mohit Sharma,3,0,8,1,2.66,13,1,0,0,0,T20I # 440
+India Vs Zimbabwe,India,Axar Patel,4,0,17,3,4.25,11,1,0,0,0,T20I # 440
+India Vs Zimbabwe,India,Harbhajan Singh,4,0,29,2,7.25,11,0,2,1,0,T20I # 440
+India Vs Zimbabwe,India,Stuart Binny,2,0,8,0,4.00,5,0,0,0,0,T20I # 440
+Hong Kong Vs Ireland,Ireland,Alex Cusack,4,0,26,0,6.50,7,2,0,2,0,T20I # 441
+Hong Kong Vs Ireland,Ireland,Craig Young,3,1,17,1,5.66,12,0,2,1,0,T20I # 441
+Hong Kong Vs Ireland,Ireland,Stuart Thompson,2,0,13,0,6.50,6,2,0,1,0,T20I # 441
+Hong Kong Vs Ireland,Ireland,John Mooney,3,0,18,2,6.00,11,3,0,1,0,T20I # 441
+Hong Kong Vs Ireland,Ireland,George Dockrell,4,0,21,2,5.25,15,2,1,1,0,T20I # 441
+Hong Kong Vs Ireland,Ireland,Kevin O'Brien,4,0,32,3,8.00,10,3,1,1,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Tanwir Afzal,4,1,9,0,2.25,18,1,0,0,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Haseeb Amjad,4,0,40,2,10.00,11,6,1,2,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Aizaz Khan,2,0,29,1,14.50,2,3,1,1,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Nizakat Khan,4,0,17,0,4.25,9,0,0,1,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Irfan Ahmed,4,0,11,3,2.75,16,1,0,0,0,T20I # 441
+Hong Kong Vs Ireland,Hong Kong,Nadeem Ahmed,2,0,15,0,7.50,4,2,0,0,0,T20I # 441
+Zimbabwe Vs India,India,Bhuvneshwar Kumar,4,0,39,2,9.75,7,4,1,2,1,T20I # 442
+Zimbabwe Vs India,India,Sandeep Sharma,2,0,14,1,7.00,5,2,0,0,0,T20I # 442
+Zimbabwe Vs India,India,Stuart Binny,4,0,28,1,7.00,10,4,0,0,0,T20I # 442
+Zimbabwe Vs India,India,Mohit Sharma,2,0,9,2,4.50,4,0,0,0,0,T20I # 442
+Zimbabwe Vs India,India,Murali Vijay,4,0,23,0,5.75,9,2,0,0,0,T20I # 442
+Zimbabwe Vs India,India,Axar Patel,4,3,1,1,0,133.33,13,11,0,1,T20I # 442
+Zimbabwe Vs India,Zimbabwe,Prosper Utseya,26,8.66,8,0,4,0,0,0,1,0,T20I # 442
+Zimbabwe Vs India,Zimbabwe,Taurai Muzarabani,9,9.00,3,1,2,0,0,0,4,0,T20I # 442
+Zimbabwe Vs India,Zimbabwe,Chris Mpofu,31,7.75,8,1,3,1,0,0,4,0,T20I # 442
+Zimbabwe Vs India,Zimbabwe,Chamu Chibhabha,18,4.50,8,0,0,0,0,0,2,0,T20I # 442
+Afghanistan Vs Hong Kong,Hong Kong,Tanwir Afzal,4,0,32,0,8.00,10,5,0,1,1,T20I # 443
+Afghanistan Vs Hong Kong,Hong Kong,Haseeb Amjad,4,1,28,3,7.00,13,3,1,2,0,T20I # 443
+Afghanistan Vs Hong Kong,Hong Kong,Nadeem Ahmed,4,0,25,1,6.25,9,1,1,0,0,T20I # 443
+Afghanistan Vs Hong Kong,Hong Kong,Irfan Ahmed,3,0,33,1,11.00,5,1,3,0,0,T20I # 443
+Afghanistan Vs Hong Kong,Hong Kong,Aizaz Khan,4,0,30,1,7.50,9,5,0,0,0,T20I # 443
+Afghanistan Vs Hong Kong,Hong Kong,Anshy Rath,1,0,12,0,12.00,2,1,1,0,0,T20I # 443
+Afghanistan Vs Hong Kong,Afghanistan,Dawlat Zadran,0,1,4,0,0,31,7.75,11,2,2,T20I # 443
+Afghanistan Vs Hong Kong,Afghanistan,Shapoor Zadran,1,0,4,2,0,22,5.50,10,0,1,T20I # 443
+Afghanistan Vs Hong Kong,Afghanistan,Mirwais Ashraf,0,0,4,1,0,28,7.00,10,2,1,T20I # 443
+Afghanistan Vs Hong Kong,Afghanistan,Sharafuddin Ashraf,1,0,4,0,0,42,10.50,7,3,2,T20I # 443
+Papua New Guinea Vs Afghanistan,Afghanistan,Mohammad Nabi,4,0,12,1,3.00,14,0,0,0,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Afghanistan,Dawlat Zadran,4,0,24,1,6.00,11,1,1,0,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Afghanistan,Shapoor Zadran,4,0,9,2,2.25,19,1,0,1,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Afghanistan,Mirwais Ashraf,4,0,30,1,7.50,5,2,0,1,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Afghanistan,Hamid Hassan,4,0,36,1,9.00,5,3,1,0,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Norman Vanua,3.2,0,19,2,5.70,11,1,1,1,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Loa Nou,3,0,26,0,8.66,7,2,1,0,2,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Chad Soper,4,0,22,0,5.50,7,1,0,0,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Willie Gavera,2,0,10,0,5.00,3,0,0,0,1,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Mahuru Dai,2,0,23,0,11.50,6,0,3,1,0,T20I # 444
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Charles Amini,4,0,23,2,5.75,7,1,0,0,0,T20I # 444
+Hong Kong Vs Scotland,Scotland,Alasdair Evans,4,1,17,3,4.25,17,0,1,3,0,T20I # 445
+Hong Kong Vs Scotland,Scotland,Josh Davey,3.4,0,40,1,10.90,6,3,2,0,0,T20I # 445
+Hong Kong Vs Scotland,Scotland,Safyaan Sharif,4,0,29,3,7.25,11,3,1,0,0,T20I # 445
+Hong Kong Vs Scotland,Scotland,Rob Taylor,4,0,17,3,4.25,13,1,0,0,0,T20I # 445
+Hong Kong Vs Scotland,Scotland,Con de Lange,3,0,9,0,3.00,11,0,0,0,0,T20I # 445
+Hong Kong Vs Scotland,Scotland,Richie Berrington,1,0,3,0,3.00,3,0,0,0,0,T20I # 445
+Hong Kong Vs Scotland,Hong Kong,Tanwir Afzal,2,0,34,1,17.00,4,3,3,0,0,T20I # 445
+Hong Kong Vs Scotland,Hong Kong,Haseeb Amjad,2.2,1,15,1,6.42,8,3,0,0,0,T20I # 445
+Hong Kong Vs Scotland,Hong Kong,Nadeem Ahmed,2,0,21,0,10.50,4,4,0,0,0,T20I # 445
+Hong Kong Vs Scotland,Hong Kong,Irfan Ahmed,3,0,26,2,8.66,7,2,1,0,1,T20I # 445
+Hong Kong Vs Scotland,Hong Kong,Aizaz Khan,3,0,20,1,6.66,7,2,0,1,0,T20I # 445
+Oman Vs Afghanistan,Afghanistan,Dawlat Zadran,4,0,21,2,5.25,13,1,1,0,1,T20I # 446
+Oman Vs Afghanistan,Afghanistan,Shapoor Zadran,4,0,20,1,5.00,12,2,0,2,0,T20I # 446
+Oman Vs Afghanistan,Afghanistan,Mirwais Ashraf,4,0,32,2,8.00,10,4,0,1,0,T20I # 446
+Oman Vs Afghanistan,Afghanistan,Aftab Alam,4,0,23,2,5.75,8,1,0,0,1,T20I # 446
+Oman Vs Afghanistan,Afghanistan,Mohammad Nabi,4,0,21,0,5.25,13,3,0,0,0,T20I # 446
+Oman Vs Afghanistan,Oman,Rajeshkumar Ranpura,4,0,17,2,4.25,16,2,0,3,0,T20I # 446
+Oman Vs Afghanistan,Oman,Munis Ansari,3.5,0,38,2,9.91,13,5,1,1,0,T20I # 446
+Oman Vs Afghanistan,Oman,Mehran Khan,4,0,32,0,8.00,11,4,1,1,0,T20I # 446
+Oman Vs Afghanistan,Oman,Mohammad Nadeem,4,0,20,1,5.00,10,1,0,1,0,T20I # 446
+Oman Vs Afghanistan,Oman,Khawar Ali,3,0,22,0,7.33,7,0,1,3,0,T20I # 446
+Ireland Vs Netherlands,Netherlands,Michael Swart,1,0,9,0,9.00,3,0,1,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Timm van der Gugten,3.5,0,16,2,4.17,14,0,1,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Mudassar Bukhari,4,0,28,4,7.00,12,5,0,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Paul van Meekeren,4,0,14,2,3.50,14,1,0,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Roelof van der Merwe,4,0,24,1,6.00,9,0,1,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Peter Borren,1,0,13,0,13.00,1,2,0,0,0,T20I # 447
+Ireland Vs Netherlands,Netherlands,Pieter Seelaar,2,0,21,0,10.50,1,0,2,0,0,T20I # 447
+Ireland Vs Netherlands,Ireland,Alex Cusack,3,0,21,1,7.00,8,3,0,1,0,T20I # 447
+Ireland Vs Netherlands,Ireland,Craig Young,4,0,28,1,7.00,13,4,1,0,0,T20I # 447
+Ireland Vs Netherlands,Ireland,John Mooney,3.1,0,19,0,6.00,7,2,0,0,0,T20I # 447
+Ireland Vs Netherlands,Ireland,George Dockrell,4,0,35,0,8.75,9,3,2,1,0,T20I # 447
+Ireland Vs Netherlands,Ireland,Kevin O'Brien,4,0,26,3,6.50,9,3,0,0,0,T20I # 447
+Pakistan Vs Sri Lanka,Sri Lanka,Binura Fernando,4,0,38,1,9.50,9,0,3,3,0,T20I # 448
+Pakistan Vs Sri Lanka,Sri Lanka,Angelo Mathews,4,0,33,1,8.25,8,4,0,2,0,T20I # 448
+Pakistan Vs Sri Lanka,Sri Lanka,Lasith Malinga,4,0,46,1,11.50,7,6,1,2,0,T20I # 448
+Pakistan Vs Sri Lanka,Sri Lanka,Jeffrey Vandersay,4,0,25,0,6.25,4,0,0,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Sri Lanka,Thisara Perera,4,0,30,2,7.50,7,3,0,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Anwar Ali,4,0,27,2,6.75,10,0,1,1,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Sohail Tanvir,4,0,29,3,7.25,9,2,1,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Mohammad Irfan,4,0,25,0,6.25,12,4,0,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Shahid Afridi,4,0,31,0,7.75,4,1,1,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Imad Wasim,3,0,21,1,7.00,7,1,1,0,0,T20I # 448
+Pakistan Vs Sri Lanka,Pakistan,Shoaib Malik,1,0,9,1,9.00,3,0,1,0,0,T20I # 448
+Sri Lanka Vs Pakistan,Pakistan,Anwar Ali,4,0,40,1,10.00,7,5,1,1,0,T20I # 449
+Sri Lanka Vs Pakistan,Pakistan,Sohail Tanvir,4,0,44,1,11.00,8,3,3,1,0,T20I # 449
+Sri Lanka Vs Pakistan,Pakistan,Shoaib Malik,3,0,16,2,5.33,10,1,1,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Pakistan,Mohammad Irfan,4,0,31,1,7.75,8,2,1,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Pakistan,Shahid Afridi,4,0,30,1,7.50,9,2,1,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Pakistan,Imad Wasim,1,0,8,0,8.00,3,0,0,1,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Binura Fernando,3.2,0,33,2,9.90,6,2,1,1,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Shehan Jayasuriya,4,0,37,1,9.25,7,1,2,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Thisara Perera,4,0,27,1,6.75,12,3,1,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Milinda Siriwardana,2,0,17,1,8.50,3,1,1,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Jeffrey Vandersay,2,0,19,0,9.50,3,0,2,0,0,T20I # 449
+Sri Lanka Vs Pakistan,Sri Lanka,Lasith Malinga,4,0,40,1,10.00,4,2,2,0,0,T20I # 449
+New Zealand Vs Zimbabwe,Zimbabwe,Prosper Utseya,2,0,30,0,15.00,1,4,1,0,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Taurai Muzarabani,3,0,34,1,11.33,5,6,0,0,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Chris Mpofu,3,0,24,0,8.00,9,3,1,0,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Chamu Chibhabha,2,0,18,0,9.00,6,2,1,0,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Sean Williams,4,0,28,3,7.00,9,2,1,0,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Graeme Cremer,3,0,28,1,9.33,5,1,2,1,0,T20I # 450
+New Zealand Vs Zimbabwe,Zimbabwe,Sikandar Raza,3,0,32,0,10.66,3,1,1,0,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,Adam Milne,4,0,10,2,2.50,19,1,0,0,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,Mitchell McClenaghan,4,0,33,2,8.25,9,5,0,2,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,James Neesham,3,0,21,1,7.00,8,2,0,2,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,Nathan McCullum,4,0,25,1,6.25,6,1,0,1,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,Ish Sodhi,4,0,15,1,3.75,14,1,0,0,0,T20I # 450
+New Zealand Vs Zimbabwe,New Zealand,Grant Elliott,1,0,7,1,7.00,4,0,1,0,0,T20I # 450
+New Zealand Vs South Africa,South Africa,Kyle Abbott,4,0,27,0,6.75,11,4,0,0,0,T20I # 451
+New Zealand Vs South Africa,South Africa,Kagiso Rabada,4,0,29,2,7.25,11,3,1,1,0,T20I # 451
+New Zealand Vs South Africa,South Africa,Morne Morkel,4,0,37,0,9.25,7,6,0,0,0,T20I # 451
+New Zealand Vs South Africa,South Africa,David Wiese,4,0,24,2,6.00,9,3,0,0,0,T20I # 451
+New Zealand Vs South Africa,South Africa,Aaron Phangiso,4,0,29,2,7.25,9,2,1,0,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Doug Bracewell,3,0,17,1,5.66,10,3,0,0,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Adam Milne,3.5,0,23,1,6.00,12,2,1,1,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Mitchell McClenaghan,3,0,33,1,11.00,6,5,1,0,1,T20I # 451
+New Zealand Vs South Africa,New Zealand,George Worker,2,0,19,1,9.50,4,3,0,1,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Nathan McCullum,4,0,34,0,8.50,4,2,1,0,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Grant Elliott,1,0,12,0,12.00,1,0,1,0,0,T20I # 451
+New Zealand Vs South Africa,New Zealand,Kane Williamson,1,0,9,0,9.00,0,1,0,0,0,T20I # 451
+New Zealand Vs South Africa,South Africa,Aaron Phangiso,4,0,40,1,10.00,6,4,1,2,0,T20I # 452
+New Zealand Vs South Africa,South Africa,Kyle Abbott,4,0,44,0,11.00,11,6,2,1,0,T20I # 452
+New Zealand Vs South Africa,South Africa,Kagiso Rabada,4,0,30,3,7.50,12,4,1,0,0,T20I # 452
+New Zealand Vs South Africa,South Africa,David Wiese,4,0,26,1,6.50,9,3,0,1,0,T20I # 452
+New Zealand Vs South Africa,South Africa,Eddie Leie,3,0,32,1,10.66,4,2,2,1,0,T20I # 452
+New Zealand Vs South Africa,South Africa,Farhaan Behardien,1,0,4,1,4.00,2,0,0,0,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,Nathan McCullum,4,0,31,2,7.75,6,1,2,0,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,Adam Milne,4,0,27,1,6.75,12,3,0,2,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,Mitchell McClenaghan,4,0,28,2,7.00,12,3,1,1,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,James Neesham,3,0,22,1,7.33,6,3,0,0,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,Ish Sodhi,4,0,27,2,6.75,7,3,0,0,0,T20I # 452
+New Zealand Vs South Africa,New Zealand,Grant Elliott,1,0,10,0,10.00,0,1,0,1,0,T20I # 452
+England Vs Australia,Australia,Mitchell Starc,4,0,32,1,8.00,12,3,1,4,0,T20I # 453
+England Vs Australia,Australia,Nathan Coulter-Nile,4,0,24,1,6.00,10,2,0,0,0,T20I # 453
+England Vs Australia,Australia,Pat Cummins,4,0,25,2,6.25,12,1,2,0,0,T20I # 453
+England Vs Australia,Australia,Mitchell Marsh,2,0,21,0,10.50,5,3,1,0,0,T20I # 453
+England Vs Australia,Australia,Glenn Maxwell,2,0,12,0,6.00,2,0,0,0,0,T20I # 453
+England Vs Australia,Australia,Marcus Stoinis,1,0,13,0,13.00,1,1,1,0,0,T20I # 453
+England Vs Australia,Australia,Shane Watson,2,0,33,0,16.50,3,0,4,1,0,T20I # 453
+England Vs Australia,Australia,Cameron Boyce,1,0,19,0,19.00,0,1,2,0,0,T20I # 453
+England Vs Australia,England,David Willey,4,0,34,2,8.50,9,4,1,0,0,T20I # 453
+England Vs Australia,England,Steven Finn,4,0,39,1,9.75,10,4,2,0,0,T20I # 453
+England Vs Australia,England,Reece Topley,4,0,35,1,8.75,7,5,0,0,0,T20I # 453
+England Vs Australia,England,Adil Rashid,3,0,32,0,10.66,2,1,2,0,0,T20I # 453
+England Vs Australia,England,Ben Stokes,4,0,29,1,7.25,9,3,0,1,0,T20I # 453
+England Vs Australia,England,Moeen Ali,1,0,3,1,3.00,3,0,0,0,0,T20I # 453
+Pakistan Vs Zimbabwe,Zimbabwe,Prosper Utseya,4,0,32,0,8.00,8,2,0,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Chamu Chibhabha,3,0,18,3,6.00,10,2,0,1,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Tinashe Panyangara,2,0,8,1,4.00,8,1,0,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Luke Jongwe,2,0,9,1,4.50,6,0,0,1,1,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Graeme Cremer,4,0,21,1,5.25,11,0,1,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Sean Williams,4,0,34,1,8.50,7,3,1,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Sikandar Raza,1,0,12,0,12.00,1,0,1,1,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Imad Wasim,4,0,11,4,2.75,15,0,0,1,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Sohail Tanvir,4,0,24,1,6.00,11,3,0,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Wahab Riaz,4,0,27,1,6.75,8,2,0,1,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Imran Khan,4,0,29,0,7.25,8,2,1,1,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Shahid Afridi,3,0,23,0,7.66,7,3,0,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Pakistan,Shoaib Malik,1,0,7,0,7.00,2,1,0,0,0,T20I # 454
+Pakistan Vs Zimbabwe,Zimbabwe,Chamu Chibhabha,2,0,13,0,6.50,6,2,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Zimbabwe,Tinashe Panyangara,4,0,27,2,6.75,13,3,1,1,0,T20I # 455
+Pakistan Vs Zimbabwe,Zimbabwe,Luke Jongwe,4,0,24,2,6.00,9,2,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Zimbabwe,Sean Williams,4,0,26,0,6.50,8,2,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Zimbabwe,Graeme Cremer,4,0,25,1,6.25,10,2,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Zimbabwe,Prosper Utseya,2,0,20,1,10.00,4,3,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Pakistan,Sohail Tanvir,4,0,18,1,4.50,13,1,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Pakistan,Mohammad Irfan,4,0,25,2,6.25,13,2,1,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Pakistan,Imad Wasim,4,0,14,1,3.50,14,1,0,1,0,T20I # 455
+Pakistan Vs Zimbabwe,Pakistan,Shahid Afridi,4,0,26,0,6.50,5,2,0,0,0,T20I # 455
+Pakistan Vs Zimbabwe,Pakistan,Imran Khan,4,0,35,2,8.75,6,0,2,0,0,T20I # 455
+India Vs South Africa,South Africa,Kyle Abbott,4,0,29,2,7.25,10,3,1,0,0,T20I # 456
+India Vs South Africa,South Africa,Kagiso Rabada,4,0,32,0,8.00,12,1,3,2,0,T20I # 456
+India Vs South Africa,South Africa,Marchant de Lange,4,0,47,0,11.75,7,5,2,2,1,T20I # 456
+India Vs South Africa,South Africa,Chris Morris,4,0,46,1,11.50,4,5,2,1,0,T20I # 456
+India Vs South Africa,South Africa,Imran Tahir,3,0,35,0,11.66,4,1,3,1,0,T20I # 456
+India Vs South Africa,South Africa,Jean-Paul Duminy,1,0,8,0,8.00,0,0,0,1,0,T20I # 456
+India Vs South Africa,India,Bhuvneshwar Kumar,4,0,40,0,10.00,8,5,1,1,0,T20I # 456
+India Vs South Africa,India,Sreenath Aravind,3.4,0,44,1,12.00,4,4,2,0,0,T20I # 456
+India Vs South Africa,India,Mohit Sharma,4,0,40,0,10.00,7,5,1,1,0,T20I # 456
+India Vs South Africa,India,Axar Patel,4,0,45,0,11.25,8,2,4,1,0,T20I # 456
+India Vs South Africa,India,Ravichandran Ashwin,4,0,26,1,6.50,9,1,1,1,0,T20I # 456
+India Vs South Africa,South Africa,Kyle Abbott,3,0,21,0,7.00,11,3,0,4,1,T20I # 457
+India Vs South Africa,South Africa,Imran Tahir,4,0,24,2,6.00,10,3,0,1,0,T20I # 457
+India Vs South Africa,South Africa,Kagiso Rabada,4,0,18,1,4.50,10,0,0,3,0,T20I # 457
+India Vs South Africa,South Africa,Chris Morris,2.2,0,16,2,6.85,6,2,0,1,0,T20I # 457
+India Vs South Africa,South Africa,Albie Morkel,4,0,12,3,3.00,13,0,0,0,0,T20I # 457
+India Vs South Africa,India,Bhuvneshwar Kumar,2,0,13,0,6.50,7,2,0,1,0,T20I # 457
+India Vs South Africa,India,Ravichandran Ashwin,4,0,24,3,6.00,13,2,1,0,0,T20I # 457
+India Vs South Africa,India,Harbhajan Singh,4,0,20,0,5.00,12,1,0,2,0,T20I # 457
+India Vs South Africa,India,Mohit Sharma,1,0,7,0,7.00,2,1,0,0,0,T20I # 457
+India Vs South Africa,India,Suresh Raina,3.1,0,12,0,3.78,10,1,0,0,0,T20I # 457
+India Vs South Africa,India,Axar Patel,3,0,17,1,5.66,6,0,1,0,0,T20I # 457
+Zimbabwe Vs Afghanistan,Afghanistan,Amir Hamza,4,0,28,0,7.00,0,0,4,0,40,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Mohammad Nabi,10.00,0,0,1,4,0,29,7.25,0,0,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Dawlat Zadran,2,0,20,3,10.00,0,0,4,0,20,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Gulbadin Naib,5.00,0,0,0,2,0,15,7.50,0,0,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Rashid Khan,34,21,28,1,6,0,161.90,13,18,34,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Karim Sadiq,2,0,72.22,0,17,16,19,1,0,106.25,T20I # 458
+Zimbabwe Vs Afghanistan,Zimbabwe,Taurai Muzarabani,4,0,39,0,9.75,0,0,2,0,20,T20I # 458
+Zimbabwe Vs Afghanistan,Zimbabwe,Chris Mpofu,10.00,0,0,0,1,0,5,5.00,0,0,T20I # 458
+Zimbabwe Vs Afghanistan,Afghanistan,Dawlat Zadran,4,1,24,2,6.00,0,0,3,0,40,T20I # 459
+Zimbabwe Vs Afghanistan,Afghanistan,Gulbadin Naib,13.33,0,1,2,4,0,52,13.00,0,1,T20I # 459
+Zimbabwe Vs Afghanistan,Afghanistan,Rashid Khan,1,0,16,1,16.00,0,0,4,0,26,T20I # 459
+Zimbabwe Vs Afghanistan,Afghanistan,Karim Sadiq,6.50,0,0,0,4,0,29,7.25,1,0,T20I # 459
+Zimbabwe Vs Afghanistan,Afghanistan,Amir Hamza,24,20,50,2,3,0,120.00,65,45,49,T20I # 459
+Zimbabwe Vs Afghanistan,Afghanistan,Mohammad Nabi,6,3,144.44,0,56,31,49,7,0,180.64,T20I # 459
+Zimbabwe Vs Afghanistan,Zimbabwe,Chris Mpofu,1,0,12,0,12.00,0,0,4,0,27,T20I # 459
+Zimbabwe Vs Afghanistan,Zimbabwe,Taurai Muzarabani,6.75,0,0,1,4,0,37,9.25,1,1,T20I # 459
+Sri Lanka Vs West Indies,West Indies,Jason Holder,2,0,27,0,13.50,3,5,0,2,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Jerome Taylor,3,0,34,0,11.33,5,5,1,0,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Daren Sammy,2,0,26,0,13.00,2,5,0,0,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Sunil Narine,4,0,20,1,5.00,13,1,1,1,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Devendra Bishoo,1,0,11,0,11.00,0,0,1,0,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Dwayne Bravo,4,0,53,0,13.25,3,3,4,0,0,T20I # 460
+Sri Lanka Vs West Indies,West Indies,Kieron Pollard,4,0,42,2,10.50,6,3,2,0,1,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Lasith Malinga,4,0,19,2,4.75,14,3,0,0,0,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Nuwan Kulasekara,4,0,37,0,9.25,8,2,2,3,0,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Sachithra Senanayake,4,0,46,4,11.50,9,1,5,0,0,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Dushmantha Chameera,3,0,30,1,10.00,8,1,3,2,0,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Milinda Siriwardana,4,0,41,2,10.25,8,3,3,1,0,T20I # 460
+Sri Lanka Vs West Indies,Sri Lanka,Shehan Jayasuriya,0.5,0,11,1,13.20,2,1,0,1,0,T20I # 460
+West Indies Vs Sri Lanka,Sri Lanka,Lasith Malinga,4,0,16,2,4.00,12,0,0,1,0,T20I # 461
+West Indies Vs Sri Lanka,Sri Lanka,Nuwan Kulasekara,4,0,22,0,5.50,10,1,0,1,0,T20I # 461
+West Indies Vs Sri Lanka,Sri Lanka,Sachithra Senanayake,3,0,38,0,12.66,3,2,3,0,0,T20I # 461
+West Indies Vs Sri Lanka,Sri Lanka,Dushmantha Chameera,3,0,36,1,12.00,6,4,1,2,0,T20I # 461
+West Indies Vs Sri Lanka,Sri Lanka,Milinda Siriwardana,3,0,17,2,5.66,9,0,1,2,0,T20I # 461
+West Indies Vs Sri Lanka,Sri Lanka,Shehan Jayasuriya,3,0,27,0,9.00,3,0,2,0,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Sunil Narine,4,0,24,1,6.00,8,2,0,1,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Ravi Rampaul,4,0,20,3,5.00,10,1,0,0,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Jerome Taylor,2,0,22,1,11.00,6,5,0,1,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Kieron Pollard,4,0,23,1,5.75,8,1,0,1,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Daren Sammy,2,0,17,0,8.50,3,2,0,0,0,T20I # 461
+West Indies Vs Sri Lanka,West Indies,Dwayne Bravo,4,0,28,4,7.00,9,0,2,0,1,T20I # 461
+Zimbabwe Vs Bangladesh,Bangladesh,Mashrafe Mortaza,4,0,20,2,5.00,14,1,1,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Bangladesh,Al-Amin Hossain,4,0,20,2,5.00,14,3,0,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Bangladesh,Mustafizur Rahman,3.3,0,16,2,4.57,11,1,0,1,0,T20I # 462
+Zimbabwe Vs Bangladesh,Bangladesh,Nasir Hossain,3,0,29,1,9.66,8,3,2,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Bangladesh,Mahmudullah,3,1,18,1,6.00,8,0,1,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Bangladesh,Jubair Hossain,2,0,20,2,10.00,5,1,2,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Tinashe Panyangara,3,0,25,0,8.33,9,4,0,1,2,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Neville Madziva,3,0,24,0,8.00,6,2,0,2,0,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Luke Jongwe,1.4,0,24,0,14.40,3,4,1,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Tendai Chisoro,4,1,15,2,3.75,12,1,0,0,0,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Graeme Cremer,4,0,29,3,7.25,7,2,0,1,0,T20I # 462
+Zimbabwe Vs Bangladesh,Zimbabwe,Sean Williams,2,0,15,0,7.50,4,0,1,0,0,T20I # 462
+Bangladesh Vs Zimbabwe,Zimbabwe,Tinashe Panyangara,4,0,30,3,7.50,13,5,0,2,1,T20I # 463
+Bangladesh Vs Zimbabwe,Zimbabwe,Neville Madziva,4,0,25,2,6.25,13,0,2,0,1,T20I # 463
+Bangladesh Vs Zimbabwe,Zimbabwe,Tendai Chisoro,4,0,27,1,6.75,10,3,0,0,1,T20I # 463
+Bangladesh Vs Zimbabwe,Zimbabwe,Sean Williams,4,0,26,0,6.50,7,1,0,0,1,T20I # 463
+Bangladesh Vs Zimbabwe,Zimbabwe,Graeme Cremer,4,0,21,2,5.25,9,1,0,1,0,T20I # 463
+Bangladesh Vs Zimbabwe,Bangladesh,Mashrafe Mortaza,4,0,27,0,6.75,10,1,1,0,1,T20I # 463
+Bangladesh Vs Zimbabwe,Bangladesh,Al-Amin Hossain,4,0,20,3,5.00,13,3,0,0,0,T20I # 463
+Bangladesh Vs Zimbabwe,Bangladesh,Mustafizur Rahman,4,0,12,1,3.00,18,1,0,1,1,T20I # 463
+Bangladesh Vs Zimbabwe,Bangladesh,Arafat Sunny,4,0,26,1,6.50,9,1,1,0,0,T20I # 463
+Bangladesh Vs Zimbabwe,Bangladesh,Nasir Hossain,3.5,0,45,1,11.73,6,1,4,0,0,T20I # 463
+Hong Kong Vs Oman,Oman,Bilal Khan,0,4,1,3,13,3.25,0,0,4,0,T20I # 464
+Hong Kong Vs Oman,Oman,Munis Ansari,20,5.00,1,1,0,4,0,17,4.25,0,T20I # 464
+Hong Kong Vs Oman,Oman,Ajay Lalcheta,0,4,7,1,0,0,57.14,12,14,1,T20I # 464
+Hong Kong Vs Oman,Oman,Mehran Khan,0,85.71,16,2,22,1,0,72.72,1,4,T20I # 464
+Hong Kong Vs Oman,Oman,Khawar Ali,0,0,25.00,0,33,32,4,0,103.12,37,T20I # 464
+Oman Vs United Arab Emirates,United Arab Emirates,Manjula Guruge,1,0,4,2,2,9,2.25,0,0,4,T20I # 465
+Oman Vs United Arab Emirates,United Arab Emirates,Qadeer Ahmed,0,21,5.25,1,0,0,3,0,30,10.00,T20I # 465
+Oman Vs United Arab Emirates,United Arab Emirates,Rohan Mustafa,0,0,1,3,0,11,11.00,0,0,24,T20I # 465
+Oman Vs United Arab Emirates,United Arab Emirates,Ahmed Raza,21,3,1,1,114.28,41,31,4,2,132.25,T20I # 465
+Oman Vs United Arab Emirates,United Arab Emirates,Zaheer Maqsood,54,43,4,0,1,125.58,11,13,0,1,T20I # 465
+Oman Vs United Arab Emirates,United Arab Emirates,Mohammad Shahzad,84.61,2,2,0,0,0,100.00,3.2,0,21,T20I # 465
+Oman Vs Hong Kong,Hong Kong,Tanwir Afzal,18,4.50,2,1,0,4,0,22,5.50,1,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Haseeb Amjad,0,4,0,1,25,6.25,0,0,1,0,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Aizaz Khan,12,12.00,1,3,0,3,0,25,8.33,0,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Anshy Rath,0,0,1,0,0,0,0.00,10,7,2,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Waqas Khan,0,142.85,27,0,35,2,0,77.14,20,18,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Nadeem Ahmed,3,0,111.11,0,29,26,2,0,111.53,7,T20I # 466
+Oman Vs Hong Kong,Hong Kong,Tanwir Afzal,4,0,52,0,13.00,3,1,4,1,22,T20I # 467
+Oman Vs Hong Kong,Hong Kong,Haseeb Amjad,5.50,0,0,2,4,1,15,3.75,0,0,T20I # 467
+Oman Vs Hong Kong,Hong Kong,Nadeem Ahmed,4,0,29,0,7.25,0,0,20,21,4,T20I # 467
+Oman Vs Hong Kong,Hong Kong,Aizaz Khan,0,95.23,5,2,4,0,0,125.00,65,45,T20I # 467
+Oman Vs Hong Kong,Hong Kong,Anshy Rath,4,3,144.44,0,63,41,3,3,153.65,3,T20I # 467
+Oman Vs Hong Kong,Oman,Bilal Khan,0,17,8.50,0,0,0,1,0,9,9.00,T20I # 467
+Oman Vs Hong Kong,Oman,Ajay Lalcheta,0,0,2,1,0,20,10.00,0,0,0.3,T20I # 467
+England Vs Pakistan,Pakistan,Anwar Ali,4,0,19,1,4.75,12,1,0,0,0,T20I # 468
+England Vs Pakistan,Pakistan,Sohail Tanvir,4,1,31,2,7.75,10,4,0,1,0,T20I # 468
+England Vs Pakistan,Pakistan,Wahab Riaz,4,0,33,1,8.25,10,4,1,0,0,T20I # 468
+England Vs Pakistan,Pakistan,Shahid Afridi,4,0,33,0,8.25,9,4,1,0,0,T20I # 468
+England Vs Pakistan,Pakistan,Imran Khan,4,0,42,0,10.50,4,3,2,1,0,T20I # 468
+England Vs Pakistan,England,Chris Jordan,4,0,37,0,9.25,10,6,0,3,0,T20I # 468
+England Vs Pakistan,England,Reece Topley,4,0,24,3,6.00,13,1,1,2,0,T20I # 468
+England Vs Pakistan,England,Liam Plunkett,4,0,21,3,5.25,13,2,0,0,0,T20I # 468
+England Vs Pakistan,England,Moeen Ali,4,0,30,1,7.50,9,2,1,1,0,T20I # 468
+England Vs Pakistan,England,Stephen Parry,4,0,33,2,8.25,10,0,3,0,0,T20I # 468
+England Vs Pakistan,Pakistan,Anwar Ali,4,0,27,2,6.75,7,0,1,2,0,T20I # 469
+England Vs Pakistan,Pakistan,Sohail Tanvir,4,0,43,1,10.75,8,3,3,1,0,T20I # 469
+England Vs Pakistan,Pakistan,Wahab Riaz,4,0,44,1,11.00,5,2,3,2,0,T20I # 469
+England Vs Pakistan,Pakistan,Shahid Afridi,4,0,15,3,3.75,13,1,0,0,0,T20I # 469
+England Vs Pakistan,Pakistan,Ahmed Shehzad,1,0,10,0,10.00,0,1,0,0,0,T20I # 469
+England Vs Pakistan,Pakistan,Shoaib Malik,3,0,32,1,10.66,4,2,2,1,0,T20I # 469
+England Vs Pakistan,England,David Willey,4,0,43,0,10.75,5,3,1,1,0,T20I # 469
+England Vs Pakistan,England,Chris Woakes,4,0,40,2,10.00,12,2,3,4,1,T20I # 469
+England Vs Pakistan,England,Liam Plunkett,4,0,33,3,8.25,8,3,1,1,1,T20I # 469
+England Vs Pakistan,England,Stephen Parry,4,0,33,1,8.25,9,2,2,0,0,T20I # 469
+England Vs Pakistan,England,Adil Rashid,4,0,18,2,4.50,12,2,0,0,0,T20I # 469
+Afghanistan Vs Hong Kong,Hong Kong,Tanwir Afzal,27,6.75,0,1,0,4,0,32,8.00,0,T20I # 470
+Afghanistan Vs Hong Kong,Hong Kong,Haseeb Amjad,0,4,0,1,34,8.50,0,0,4,0,T20I # 470
+Afghanistan Vs Hong Kong,Hong Kong,Nadeem Ahmed,23,5.75,0,0,0,18,17,2,0,105.88,T20I # 470
+Afghanistan Vs Hong Kong,Hong Kong,Aizaz Khan,2,6,0,1,0,33.33,35,18,1,3,T20I # 470
+Afghanistan Vs Hong Kong,Hong Kong,Anshy Rath,194.44,22,21,0,1,0,104.76,26,20,1,T20I # 470
+Afghanistan Vs Oman,Oman,Bilal Khan,0,0,3,1,0,30,10.00,0,0,4,T20I # 471
+Afghanistan Vs Oman,Oman,Munis Ansari,1,18,4.50,0,0,0,4,0,38,9.50,T20I # 471
+Afghanistan Vs Oman,Oman,Mehran Khan,0,0,2,3,0,19,9.50,0,0,19,T20I # 471
+Afghanistan Vs Oman,Oman,Ajay Lalcheta,7,3,1,1,271.42,2,4,0,0,50.00,T20I # 471
+Afghanistan Vs Oman,Oman,Zeeshan Maqsood,8,10,1,1,0,80.00,10,18,0,0,T20I # 471
+Afghanistan Vs Oman,Oman,Khawar Ali,55.55,34,31,0,2,0,109.67,11,10,1,T20I # 471
+Afghanistan Vs Oman,Oman,Bilal Khan,4,0,35,2,8.75,0,0,4,0,36,T20I # 472
+Afghanistan Vs Oman,Oman,Ajay Lalcheta,9.00,0,0,0,3,0,33,11.00,0,0,T20I # 472
+Afghanistan Vs Oman,Oman,Munis Ansari,4,0,20,0,5.00,0,0,1,0,11,T20I # 472
+Afghanistan Vs Oman,Oman,Mohammad Nadeem,11.00,0,0,0,24,14,4,1,171.42,3,T20I # 472
+Afghanistan Vs Oman,Oman,Zeeshan Maqsood,8,0,0,2,37.50,38,40,3,1,95.00,T20I # 472
+Afghanistan Vs Oman,Oman,Aamir Kaleem,28,26,2,0,0,107.69,20,14,0,1,T20I # 472
+England Vs Pakistan,Pakistan,Aamer Yamin,2,0,12,1,6.00,7,2,0,0,0,T20I # 473
+England Vs Pakistan,Pakistan,Sohail Tanvir,4,0,36,2,9.00,8,4,0,2,0,T20I # 473
+England Vs Pakistan,Pakistan,Mohammad Irfan,4,0,40,0,10.00,9,2,3,1,0,T20I # 473
+England Vs Pakistan,Pakistan,Shahid Afridi,4,0,19,2,4.75,7,0,0,1,0,T20I # 473
+England Vs Pakistan,Pakistan,Anwar Ali,4,0,35,1,8.75,11,1,3,1,0,T20I # 473
+England Vs Pakistan,Pakistan,Shoaib Malik,2,0,8,1,4.00,6,0,0,2,0,T20I # 473
+England Vs Pakistan,England,David Willey,4,0,36,3,9.00,9,4,1,4,0,T20I # 473
+England Vs Pakistan,England,Chris Woakes,4,0,26,1,6.50,11,2,1,0,0,T20I # 473
+England Vs Pakistan,England,Chris Jordan,4,0,39,0,9.75,5,6,0,0,0,T20I # 473
+England Vs Pakistan,England,Adil Rashid,4,0,29,1,7.25,9,1,2,0,0,T20I # 473
+England Vs Pakistan,England,Moeen Ali,4,0,22,1,5.50,13,0,2,1,0,T20I # 473
