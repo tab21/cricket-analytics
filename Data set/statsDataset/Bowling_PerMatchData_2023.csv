@@ -1,0 +1,843 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+India Vs Sri Lanka,Sri Lanka,Kasun Rajitha,4,0,47,0,11.75,9,5,3,1,0,T20I # 1984
+India Vs Sri Lanka,Sri Lanka,Dilshan Madushanka,4,0,35,1,8.75,12,4,1,2,0,T20I # 1984
+India Vs Sri Lanka,Sri Lanka,Maheesh Theekshana,4,0,29,1,7.25,6,0,2,0,0,T20I # 1984
+India Vs Sri Lanka,Sri Lanka,Chamika Karunaratne,3,0,22,1,7.33,7,3,0,1,0,T20I # 1984
+India Vs Sri Lanka,Sri Lanka,Dhananjaya de Silva,1,0,6,1,6.00,2,0,0,0,0,T20I # 1984
+India Vs Sri Lanka,Sri Lanka,Wanindu Hasaranga,4,0,22,1,5.50,10,1,1,0,0,T20I # 1984
+India Vs Sri Lanka,India,Hardik Pandya,3,0,12,0,4.00,13,2,0,1,0,T20I # 1984
+India Vs Sri Lanka,India,Shivam Mavi,4,0,22,4,5.50,14,4,0,0,0,T20I # 1984
+India Vs Sri Lanka,India,Umran Malik,4,0,27,2,6.75,12,3,1,1,0,T20I # 1984
+India Vs Sri Lanka,India,Yuzvendra Chahal,2,0,26,0,13.00,2,0,3,0,0,T20I # 1984
+India Vs Sri Lanka,India,Harshal Patel,4,0,41,2,10.25,9,3,2,1,1,T20I # 1984
+India Vs Sri Lanka,India,Axar Patel,3,0,31,0,10.33,3,1,2,1,0,T20I # 1984
+Sri Lanka Vs India,India,Hardik Pandya,2,0,13,0,6.50,7,0,1,1,0,T20I # 1985
+Sri Lanka Vs India,India,Arshdeep Singh,2,0,37,0,18.50,4,3,2,0,5,T20I # 1985
+Sri Lanka Vs India,India,Shivam Mavi,4,0,53,0,13.25,6,3,4,2,1,T20I # 1985
+Sri Lanka Vs India,India,Axar Patel,4,0,24,2,6.00,9,1,1,0,0,T20I # 1985
+Sri Lanka Vs India,India,Yuzvendra Chahal,4,0,30,1,7.50,5,0,2,0,0,T20I # 1985
+Sri Lanka Vs India,India,Umran Malik,4,0,48,3,12.00,8,3,4,1,1,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Dilshan Madushanka,4,0,45,2,11.25,10,3,3,3,0,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Kasun Rajitha,4,0,22,2,5.50,13,2,0,2,0,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Chamika Karunaratne,4,0,41,1,10.25,8,3,3,0,0,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Wanindu Hasaranga,3,0,41,1,13.66,5,0,5,1,0,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Maheesh Theekshana,4,0,33,0,8.25,7,3,1,0,0,T20I # 1985
+Sri Lanka Vs India,Sri Lanka,Dasun Shanaka,1,0,4,2,4.00,3,0,0,0,0,T20I # 1985
+India Vs Sri Lanka,Sri Lanka,Dilshan Madushanka,4,0,55,2,13.75,8,6,4,1,0,T20I # 1986
+India Vs Sri Lanka,Sri Lanka,Kasun Rajitha,4,1,35,1,8.75,9,4,1,1,0,T20I # 1986
+India Vs Sri Lanka,Sri Lanka,Maheesh Theekshana,4,0,48,0,12.00,4,5,2,0,0,T20I # 1986
+India Vs Sri Lanka,Sri Lanka,Chamika Karunaratne,4,0,52,1,13.00,7,3,5,1,0,T20I # 1986
+India Vs Sri Lanka,Sri Lanka,Wanindu Hasaranga,4,0,36,1,9.00,5,1,2,0,0,T20I # 1986
+India Vs Sri Lanka,India,Hardik Pandya,4,0,30,2,7.50,13,2,2,2,0,T20I # 1986
+India Vs Sri Lanka,India,Arshdeep Singh,2.4,0,20,3,7.50,9,3,0,4,0,T20I # 1986
+India Vs Sri Lanka,India,Shivam Mavi,1,0,6,0,6.00,3,1,0,0,0,T20I # 1986
+India Vs Sri Lanka,India,Axar Patel,3,0,19,1,6.33,8,1,1,1,0,T20I # 1986
+India Vs Sri Lanka,India,Umran Malik,3,0,31,2,10.33,7,5,0,3,1,T20I # 1986
+India Vs Sri Lanka,India,Yuzvendra Chahal,3,0,30,2,10.00,6,0,3,1,0,T20I # 1986
+Ireland Vs Zimbabwe,Zimbabwe,Tendai Chatara,3.2,0,17,2,5.10,12,2,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Zimbabwe,Richard Ngarava,3,0,20,2,6.66,9,3,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Zimbabwe,Brad Evans,2,0,9,1,4.50,7,1,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Zimbabwe,Ryan Burl,4,0,29,3,7.25,12,3,1,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Zimbabwe,Sean Williams,3,0,23,0,7.66,4,2,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Zimbabwe,Wellington Masakadza,4,0,13,2,3.25,15,1,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Harry Tector,4,0,17,2,4.25,14,2,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Mark Adair,3,0,12,2,4.00,13,2,0,1,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Gareth Delany,4,0,34,0,8.50,8,5,0,1,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Barry McCarthy,2,0,14,1,7.00,6,0,1,1,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,George Dockrell,2,0,17,0,8.50,1,1,0,0,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Curtis Campher,2,0,18,0,9.00,4,2,0,1,0,T20I # 1987
+Ireland Vs Zimbabwe,Ireland,Fionn Hand,1,0,6,0,6.00,1,0,0,0,0,T20I # 1987
+Zimbabwe Vs Ireland,Ireland,Harry Tector,4,0,22,2,5.50,11,1,0,1,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,Mark Adair,3,0,29,1,9.66,8,4,1,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,Graham Hume,4,0,17,3,4.25,11,0,0,1,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,Fionn Hand,2,0,22,0,11.00,2,2,1,1,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,Curtis Campher,2,0,14,0,7.00,4,1,0,1,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,Gareth Delany,4,0,27,1,6.75,9,2,0,1,0,T20I # 1988
+Zimbabwe Vs Ireland,Ireland,George Dockrell,1,0,5,0,5.00,1,0,0,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Tendai Chatara,4,0,26,1,6.50,12,3,0,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Richard Ngarava,4,0,32,1,8.00,10,2,2,2,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Brad Evans,3.4,0,38,0,10.36,5,0,3,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Wellington Masakadza,3,0,18,0,6.00,9,1,1,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Ryan Burl,4,0,26,2,6.50,10,2,1,0,0,T20I # 1988
+Zimbabwe Vs Ireland,Zimbabwe,Sean Williams,1,0,9,0,9.00,0,1,0,0,0,T20I # 1988
+Ireland Vs Zimbabwe,Zimbabwe,Wessly Madhevere,2,0,8,2,4.00,4,0,0,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Richard Ngarava,2,0,14,0,7.00,6,2,0,1,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Tendai Chatara,4,0,26,2,6.50,7,1,0,1,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Wellington Masakadza,4,0,33,1,8.25,4,2,0,1,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Luke Jongwe,3,0,23,2,7.66,5,1,1,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Ryan Burl,4,0,28,2,7.00,5,2,0,1,0,T20I # 1989
+Ireland Vs Zimbabwe,Zimbabwe,Innocent Kaia,1,0,4,0,4.00,3,0,0,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,Harry Tector,4,0,14,1,3.50,14,1,0,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,Mark Adair,3,0,15,1,5.00,9,1,0,2,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,Barry McCarthy,4,0,32,2,8.00,10,4,0,1,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,Curtis Campher,2,0,22,0,11.00,3,4,0,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,Ben White,3,0,26,2,8.66,6,4,0,0,0,T20I # 1989
+Ireland Vs Zimbabwe,Ireland,George Dockrell,3,0,31,0,10.33,2,1,2,1,0,T20I # 1989
+New Zealand Vs India,India,Hardik Pandya,3,0,33,0,11.00,3,2,2,1,0,T20I # 1990
+New Zealand Vs India,India,Arshdeep Singh,4,0,51,1,12.75,11,4,4,2,1,T20I # 1990
+New Zealand Vs India,India,Washington Sundar,4,0,22,2,5.50,11,1,1,0,0,T20I # 1990
+New Zealand Vs India,India,Deepak Hooda,2,0,14,0,7.00,4,2,0,0,0,T20I # 1990
+New Zealand Vs India,India,Umran Malik,1,0,16,0,16.00,1,2,1,0,0,T20I # 1990
+New Zealand Vs India,India,Kuldeep Yadav,4,0,20,1,5.00,10,2,0,0,0,T20I # 1990
+New Zealand Vs India,India,Shivam Mavi,2,0,19,1,9.50,3,3,0,0,0,T20I # 1990
+New Zealand Vs India,New Zealand,Jacob Duffy,0,0,0.00,1,,4,1,1,1,0,T20I # 1990
+New Zealand Vs India,New Zealand,Michael Bracewell,400.00,,3,2,0,27,9.00,10,4,1,T20I # 1990
+New Zealand Vs India,New Zealand,Mitchell Santner,2,0,,2,4,0,31,7.75,9,1,T20I # 1990
+New Zealand Vs India,New Zealand,Lockie Ferguson,2,2,0,2,,4,1,11,2.75,18,T20I # 1990
+New Zealand Vs India,New Zealand,Ish Sodhi,1,0,1,1,0,,4,1,33,8.25,T20I # 1990
+New Zealand Vs India,New Zealand,Blair Tickner,14,3,2,0,3,0,,3,0,30,T20I # 1990
+New Zealand Vs India,India,Hardik Pandya,4,0,25,1,6.25,9,3,0,1,0,T20I # 1991
+New Zealand Vs India,India,Washington Sundar,3,0,17,1,5.66,11,1,0,1,0,T20I # 1991
+New Zealand Vs India,India,Yuzvendra Chahal,2,1,4,1,2.00,10,0,0,1,0,T20I # 1991
+New Zealand Vs India,India,Deepak Hooda,4,0,17,1,4.25,9,0,0,0,0,T20I # 1991
+New Zealand Vs India,India,Kuldeep Yadav,4,0,17,1,4.25,10,1,0,0,0,T20I # 1991
+New Zealand Vs India,India,Arshdeep Singh,2,0,7,2,3.50,7,0,0,0,0,T20I # 1991
+New Zealand Vs India,India,Shivam Mavi,1,0,11,0,11.00,0,1,0,2,0,T20I # 1991
+New Zealand Vs India,New Zealand,Jacob Duffy,20,26,1,0,0,75.00,,1,0,8,T20I # 1991
+New Zealand Vs India,New Zealand,Michael Bracewell,8.00,3,1,1,0,0,0,,4,0,T20I # 1991
+New Zealand Vs India,New Zealand,Mitchell Santner,13,3.25,14,0,1,0,0,0,,4,T20I # 1991
+New Zealand Vs India,New Zealand,Glenn Phillips,0,20,5.00,0,10,1,0,3,0,,T20I # 1991
+New Zealand Vs India,New Zealand,Ish Sodhi,4,0,17,1,4.25,15,2,0,1,0,T20I # 1991
+New Zealand Vs India,New Zealand,Mark Chapman,,4,0,0,24,6.00,8,1,0,2,T20I # 1991
+New Zealand Vs India,New Zealand,Lockie Ferguson,0,,1,0,0,4,4.00,3,0,0,T20I # 1991
+New Zealand Vs India,New Zealand,Blair Tickner,0,0,,0,1,0,7,7.00,2,1,T20I # 1991
+India Vs New Zealand,New Zealand,Ben Lister,4,0,42,0,10.50,8,3,3,0,0,T20I # 1992
+India Vs New Zealand,New Zealand,Michael Bracewell,1,0,8,1,8.00,1,1,0,0,0,T20I # 1992
+India Vs New Zealand,New Zealand,Lockie Ferguson,4,0,54,0,13.50,6,5,4,1,0,T20I # 1992
+India Vs New Zealand,New Zealand,Blair Tickner,3,0,50,1,16.66,3,6,3,2,0,T20I # 1992
+India Vs New Zealand,New Zealand,Ish Sodhi,3,0,34,1,11.33,3,2,2,0,0,T20I # 1992
+India Vs New Zealand,New Zealand,Mitchell Santner,4,0,37,0,9.25,5,4,1,0,0,T20I # 1992
+India Vs New Zealand,New Zealand,Daryl Mitchell,1,0,6,1,6.00,2,0,0,1,0,T20I # 1992
+India Vs New Zealand,India,Hardik Pandya,4,0,16,4,4.00,14,0,1,0,0,T20I # 1992
+India Vs New Zealand,India,Arshdeep Singh,3,0,16,2,5.33,10,1,1,0,0,T20I # 1992
+India Vs New Zealand,India,Umran Malik,2.1,0,9,2,4.15,9,1,0,1,0,T20I # 1992
+India Vs New Zealand,India,Kuldeep Yadav,1,0,12,0,12.00,1,0,1,0,0,T20I # 1992
+India Vs New Zealand,India,Shivam Mavi,2,0,12,2,6.00,7,0,1,1,0,T20I # 1992
+United Arab Emirates Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,1,0,3,0,0,16,5.33,11,3,0,T20I # 1993
+United Arab Emirates Vs Afghanistan,Afghanistan,Azmatullah Omarzai,0,0,3,1,0,19,6.33,8,2,0,T20I # 1993
+United Arab Emirates Vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,1,0,4,0,0,27,6.75,4,1,0,T20I # 1993
+United Arab Emirates Vs Afghanistan,Afghanistan,Naveen-ul-Haq,0,0,4,0,0,34,8.50,8,2,2,T20I # 1993
+United Arab Emirates Vs Afghanistan,Afghanistan,Rashid Khan,0,0,2,2,0,12,6.00,6,0,1,T20I # 1993
+United Arab Emirates Vs Afghanistan,Afghanistan,Karim Janat,0,0,1,0,4,0,0,25.00,10,8,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Junaid Siddique,1,1,1,2,0,4,0,29,7.25,10,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Sanchit Sharma,3,1,0,0,0,4,0,34,8.50,8,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Zahoor Khan,2,2,0,1,0,3,0,16,5.33,5,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Muhammad Jawadullah,0,0,0,1,0,1,0,14,14.00,2,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Aayan Afzal Khan,0,2,0,0,0,1,0,4,4.00,3,T20I # 1993
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Rohan Mustafa,0,0,0,0,0,0.1,0,4,24.00,0,T20I # 1993
+Afghanistan Vs United Arab Emirates,United Arab Emirates,Junaid Siddique,0,4,0,1,23,5.75,11,2,0,3,T20I # 1994
+Afghanistan Vs United Arab Emirates,United Arab Emirates,Akif Raja,0,4,0,1,25,6.25,14,4,0,0,T20I # 1994
+Afghanistan Vs United Arab Emirates,United Arab Emirates,Zahoor Khan,0,4,0,2,30,7.50,10,3,1,1,T20I # 1994
+Afghanistan Vs United Arab Emirates,United Arab Emirates,Rohan Mustafa,0,4,0,0,31,7.75,7,2,1,0,T20I # 1994
+Afghanistan Vs United Arab Emirates,United Arab Emirates,Zawar Farid,0,91,50,2,8,7,182.00,38,46,2,T20I # 1994
+Afghanistan Vs United Arab Emirates,Afghanistan,Azmatullah Omarzai,40,10.00,10,0,1,4,0,0,2,0,T20I # 1994
+Afghanistan Vs United Arab Emirates,Afghanistan,Mujeeb Ur Rahman,23,11.50,5,0,2,2,0,0,3,0,T20I # 1994
+Afghanistan Vs United Arab Emirates,Afghanistan,Naveen-ul-Haq,15,5.00,11,0,2,0,0,0,4,0,T20I # 1994
+Afghanistan Vs United Arab Emirates,Afghanistan,Fareed Ahmad,16,4.00,8,0,0,0,0,0,2,0,T20I # 1994
+United Arab Emirates Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,0,3,0,0,43,14.33,5,6,1,3,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Naveen-ul-Haq,0,3,0,1,33,11.00,6,4,1,1,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Azmatullah Omarzai,0,4,0,0,16,4.00,9,0,0,0,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Rashid Khan,0,1,0,2,14,14.00,2,0,2,0,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Zahir Khan,0,3,0,0,23,7.66,4,3,0,0,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Karim Janat,0,2,0,0,13,6.50,7,2,0,1,T20I # 1995
+United Arab Emirates Vs Afghanistan,Afghanistan,Gulbadin Naib,0,20,15,2,3,0,133.33,60,51,5,T20I # 1995
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Junaid Siddique,3,3,0,0,0,4,0,28,7.00,9,T20I # 1995
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Akif Raja,1,1,3,1,0,4,0,30,7.50,9,T20I # 1995
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Zahoor Khan,2,0,4,2,0,2,0,14,7.00,4,T20I # 1995
+United Arab Emirates Vs Afghanistan,United Arab Emirates,Zawar Farid,1,0,0,1,0,2,0,21,10.50,2,T20I # 1995
+Argentina Vs Bermuda,Bermuda,Derrick Brangman,22,7.33,11,1,2,1,2,0,3,0,T20I # 1996
+Argentina Vs Bermuda,Bermuda,Zeko Burgess,14,4.66,10,2,1,0,1,0,3.2,0,T20I # 1996
+Argentina Vs Bermuda,Bermuda,Kamau Leverock,7,2.10,13,0,0,0,0,0,4,0,T20I # 1996
+Argentina Vs Bermuda,Bermuda,Malachi Jones,10,2.50,17,2,0,0,2,0,13,10,T20I # 1996
+Argentina Vs Bermuda,Bermuda,Delray Rawlins,1,1,130.00,4,2,8,0,0,25.00,14,T20I # 1996
+Argentina Vs Bermuda,Argentina,Alan	Kirschbaum,0,4,1,1,13,3.25,15,0,0,1,T20I # 1996
+Argentina Vs Bermuda,Argentina,Hernan Fennell,0,2,0,1,10,5.00,5,1,0,0,T20I # 1996
+Argentina Vs Bermuda,Argentina,Pedro Arrighi,0,2,0,1,9,4.50,6,0,0,2,T20I # 1996
+Bermuda Vs Argentina,Argentina,Alan	Kirschbaum,2,0,0,0,4,0,64,16.00,6,4,T20I # 1997
+Bermuda Vs Argentina,Argentina,Hernan Fennell,6,2,0,0,4,0,45,11.25,9,5,T20I # 1997
+Bermuda Vs Argentina,Argentina,Pedro Arrighi,2,1,0,2,4,0,29,7.25,11,3,T20I # 1997
+Bermuda Vs Argentina,Argentina,Tomas Rossi,1,0,0,2,2,0,28,14.00,3,1,T20I # 1997
+Bermuda Vs Argentina,Argentina,Lautaro Musiani,3,0,0,0,2,0,11,5.50,4,1,T20I # 1997
+Bermuda Vs Argentina,Argentina,Agustin Rivero,0,0,0,0,57,68,8,0,83.82,1,T20I # 1997
+Bermuda Vs Argentina,Bermuda,Delray Rawlins,4.33,13,2,2,0,1,1,3,0,22,T20I # 1997
+Bermuda Vs Argentina,Bermuda,Zeko Burgess,7.33,8,3,0,0,3,0,4,0,19,T20I # 1997
+Bermuda Vs Argentina,Bermuda,Kamau Leverock,4.75,13,2,2,0,0,0,4,0,19,T20I # 1997
+Bermuda Vs Argentina,Bermuda,Derrick Brangman,4.75,12,2,1,0,0,0,2,0,20,T20I # 1997
+Spain Vs Isle of Man,Isle of Man,Matthew Ansell,0,3,0,0,4,0,60,15.00,4,3,T20I # 1998
+Spain Vs Isle of Man,Isle of Man,Kieran Cawte,2,1,1,0,4,0,41,10.25,5,3,T20I # 1998
+Spain Vs Isle of Man,Isle of Man,Joseph Burrows,1,2,0,3,4,0,18,4.50,9,0,T20I # 1998
+Spain Vs Isle of Man,Isle of Man,Fraser Clarke,0,2,0,0,4,0,33,8.25,7,2,T20I # 1998
+Spain Vs Isle of Man,Isle of Man,Jacob Butler,1,2,1,0,30,33,3,0,90.90,13,T20I # 1998
+Spain Vs Isle of Man,Spain,Mohammad Kamran,0,3,1,0,9,3.00,14,1,0,0,T20I # 1998
+Spain Vs Isle of Man,Spain,Shafat Ali Syed,0,4,0,1,19,4.75,10,1,0,0,T20I # 1998
+Spain Vs Isle of Man,Spain,Atif Mehmood,0,4,0,1,18,4.50,12,0,1,0,T20I # 1998
+Spain Vs Isle of Man,Spain,Charlie Rumistrzewicz,0,2,0,2,13,6.50,6,2,0,1,T20I # 1998
+Spain Vs Isle of Man,Isle of Man,Matthew Ansell,1,3,0,0,42,14.00,3,0,3,0,T20I # 1999
+Spain Vs Isle of Man,Isle of Man,Joseph Burrows,29,9.66,1,0,0,4,0,27,6.75,4,T20I # 1999
+Isle of Man Vs Spain,Spain,Mohammad Kamran,3,3.00,6,1,0,0,2,0,2,1,T20I # 2000
+Isle of Man Vs Spain,Spain,Shafat Ali Syed,1,0.50,11,0,0,0,0,0,4,0,T20I # 2000
+Isle of Man Vs Spain,Spain,Atif Mehmood,18,4.50,11,1,1,0,1,0,4,0,T20I # 2000
+Isle of Man Vs Spain,Spain,Lorne Burns,24,6.00,10,3,3,0,0,0,1,0,T20I # 2000
+Isle of Man Vs Spain,Spain,Charlie Rumistrzewicz,2,2.00,6,4,0,0,2,0,28,14,T20I # 2000
+Isle of Man Vs Spain,Spain,Ameer Hamzah,4,2,200.00,1,0,1,0,0,0.00,12,T20I # 2000
+Isle of Man Vs Spain,Isle of Man,Matthew Ansell,0,3,0,0,2,0,13,6.50,6,1,T20I # 2000
+Isle of Man Vs Spain,Spain,Mohammad Kamran,0,22,5.50,5,16,2,1,0,0,4,T20I # 2001
+Isle of Man Vs Spain,Spain,Atif Mehmood,0,14,3.50,0,14,1,0,0,0,3,T20I # 2001
+Isle of Man Vs Spain,Spain,Lorne Burns,0,26,8.66,2,8,3,0,2,0,4,T20I # 2001
+Isle of Man Vs Spain,Spain,Robiul Khan,0,33,8.25,1,9,4,1,0,0,1,T20I # 2001
+Isle of Man Vs Spain,Spain,Charlie Rumistrzewicz,0,6,6.00,0,3,1,0,0,0,0,T20I # 2001
+Isle of Man Vs Spain,Spain,Doyle-Calle,1,0,0,0,0.00,28,17,2,2,164.70,T20I # 2001
+Isle of Man Vs Spain,Isle of Man,Joseph Burrows,0,1,3,1,0,14,4.66,8,0,0,T20I # 2001
+Isle of Man Vs Spain,Isle of Man,Kieran Cawte,1,0,4,0,0,32,8.00,7,1,2,T20I # 2001
+Isle of Man Vs Spain,Isle of Man,Fraser Clarke,1,0,2,2,0,14,7.00,5,0,1,T20I # 2001
+Panama Vs Argentina,Argentina,Alan	Kirschbaum,0,17,4.25,0,16,1,0,2,0,4,T20I # 2002
+Panama Vs Argentina,Argentina,Hernan Fennell,0,30,7.50,3,9,3,1,0,0,4,T20I # 2002
+Panama Vs Argentina,Argentina,Pedro Arrighi,0,28,7.00,1,7,1,0,1,0,2,T20I # 2002
+Panama Vs Argentina,Argentina,Santiago Rossi,0,7,3.50,0,8,0,0,1,1,3,T20I # 2002
+Panama Vs Argentina,Argentina,Agustin Husain,0,30,10.00,2,9,4,1,1,0,1,T20I # 2002
+Panama Vs Argentina,Argentina,Tomas Rossi,3,0,0,2,33.33,2,6,0,0,33.33,T20I # 2002
+Panama Vs Argentina,Panama,Khengar Bhal Ahir,4.42,10,1,3,0,0,0,4,0,21,T20I # 2002
+Panama Vs Argentina,Panama,Ahmed Patel,5.25,8,0,1,0,0,0,4,0,27,T20I # 2002
+Bermuda Vs Cayman Islands,Cayman Islands,Conroy Wright,3,2,0,0,0,1,0,13,13.00,3,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Thilina Hewa,2,0,4,0,0,1,0,20,20.00,2,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Demar Johnson,2,1,3,0,0,3,0,25,8.33,7,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Troy Taylor,1,1,3,0,0,4,0,21,5.25,8,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Alistair Ifill,0,0,0,0,0,4,0,19,4.75,14,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Adrian Wright,1,1,0,2,0,2,0,26,13.00,3,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Paul Manning,2,2,0,1,0,1,0,6,6.00,3,T20I # 2003
+Bermuda Vs Cayman Islands,Cayman Islands,Sacha De Alwis,0,0,2,0,1,4,8,1,0,50.00,T20I # 2003
+Bermuda Vs Cayman Islands,Bermuda,Delray Rawlins,1,0,4,1,0,15,3.75,16,1,0,T20I # 2003
+Bermuda Vs Cayman Islands,Bermuda,Zeko Burgess,3,0,4,2,1,13,3.25,14,1,0,T20I # 2003
+Bermuda Vs Cayman Islands,Bermuda,Kamau Leverock,0,0,4,3,0,23,5.75,11,1,1,T20I # 2003
+Isle of Man Vs Spain,Spain,Mohammad Kamran,0,29,7.25,0,8,2,1,1,0,4,T20I # 2004
+Isle of Man Vs Spain,Spain,Atif Mehmood,0,16,4.00,1,14,0,1,0,0,3,T20I # 2004
+Isle of Man Vs Spain,Spain,Lorne Burns,0,23,7.66,2,3,0,1,0,1,4,T20I # 2004
+Isle of Man Vs Spain,Spain,Charlie Rumistrzewicz,0,31,7.75,0,12,2,1,4,0,1,T20I # 2004
+Isle of Man Vs Spain,Spain,Shafat Ali Syed,0,15,15.00,5,1,0,2,0,0,45,T20I # 2004
+Isle of Man Vs Spain,Spain,Ameer Hamzah,29,7,1,0,155.17,51,23,2,6,221.73,T20I # 2004
+Isle of Man Vs Spain,Isle of Man,Joseph Burrows,1,1,0,0,1,0,23,23.00,1,2,T20I # 2004
+Isle of Man Vs Spain,Isle of Man,Kieran Cawte,2,1,1,0,4,0,41,10.25,9,3,T20I # 2004
+Isle of Man Vs Spain,Isle of Man,Edward Walker,3,2,0,0,3.3,0,24,6.85,9,2,T20I # 2004
+Isle of Man Vs Spain,Spain,Mohammad Kamran,0,0.4,0,4,0,0.00,0,0,12,3,T20I # 2005
+Isle of Man Vs Spain,Spain,Atif Mehmood,0,2,400.00,4,0,0,0,0,-,0.2,T20I # 2005
+Panama Vs Bahamas,Bahamas,Junior Scott,18,4.50,13,2,2,0,0,0,2,1,T20I # 2006
+Panama Vs Bahamas,Bahamas,Kervon Hinds,3,1.50,9,2,0,0,0,0,4,0,T20I # 2006
+Panama Vs Bahamas,Bahamas,Jonathan Barry,26,6.50,13,2,2,0,3,0,4,0,T20I # 2006
+Panama Vs Bahamas,Bahamas,Marc Taylor,18,4.50,13,1,2,0,1,0,2,0,T20I # 2006
+Panama Vs Bahamas,Bahamas,Narendra Ekanayake,13,6.50,3,1,0,0,0,0,49,32,T20I # 2006
+Panama Vs Bahamas,Bahamas,Festus Benn,6,3,153.12,1,19,18,3,1,105.55,4,T20I # 2006
+Panama Vs Bahamas,Panama,Khengar Bhal Ahir,1,16,8.00,0,8,2,1,0,0,1,T20I # 2006
+Panama Vs Bahamas,Panama,Abdullah Jasat,0,10,10.00,0,3,2,0,1,0,4,T20I # 2006
+Panama Vs Bahamas,Panama,Nikunj Ahir,0,14,3.50,0,15,1,0,1,0,4,T20I # 2006
+Panama Vs Bahamas,Panama,Faizan Patel,0,26,6.50,0,15,2,1,4,0,4,T20I # 2006
+Panama Vs Bahamas,Panama,Rahul Ahir,0,12,3.00,3,18,0,1,1,0,1.3,T20I # 2006
+Bermuda Vs Argentina,Argentina,Alan	Kirschbaum,8,4,3,1,0,0,4,0,46,11.50,T20I # 2007
+Bermuda Vs Argentina,Argentina,Hernan Fennell,9,2,4,1,0,1,2,0,20,10.00,T20I # 2007
+Bermuda Vs Argentina,Argentina,Tomas Rossi,4,4,0,0,0,0,4,0,46,11.50,T20I # 2007
+Bermuda Vs Argentina,Argentina,Santiago Rossi,5,3,3,0,1,0,3,0,26,8.66,T20I # 2007
+Bermuda Vs Argentina,Argentina,Agustin Husain,5,3,0,0,2,0,3,0,33,11.00,T20I # 2007
+Bermuda Vs Argentina,Argentina,Agustin Rivero,7,3,2,0,2,0,11,10,2,0,T20I # 2007
+Bermuda Vs Argentina,Bermuda,Delray Rawlins,0,3,0,4,2,0,6,3.00,9,1,T20I # 2007
+Bermuda Vs Argentina,Bermuda,Zeko Burgess,0,0,0,1,4,0,18,4.50,12,2,T20I # 2007
+Bermuda Vs Argentina,Bermuda,Kamau Leverock,0,0,0,0,4,0,23,5.75,10,2,T20I # 2007
+Bermuda Vs Argentina,Bermuda,Derrick Brangman,0,0,0,1,2,0,11,5.50,6,1,T20I # 2007
+Cayman Islands Vs Bahamas,Bahamas,Junior Scott,18,4.50,16,0,3,0,0,0,2,0,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Kervon Hinds,11,5.50,6,5,1,0,1,0,1,0,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Gregory Taylor,19,19.00,2,0,1,2,0,0,4,0,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Jonathan Barry,19,4.75,11,0,0,1,0,0,4,0,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Marc Taylor,18,4.50,13,1,1,0,0,0,1.5,0,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Festus Benn,15,8.18,5,2,1,1,0,0,35,37,T20I # 2008
+Cayman Islands Vs Bahamas,Bahamas,Narendra Ekanayake,4,1,94.59,2,3,6,0,0,50.00,2,T20I # 2008
+Cayman Islands Vs Bahamas,Cayman Islands,Conroy Wright,5.50,13,2,1,0,1,0,4,0,18,T20I # 2008
+Cayman Islands Vs Bahamas,Cayman Islands,Troy Taylor,4.50,12,0,1,1,0,0,3,0,13,T20I # 2008
+Cayman Islands Vs Bahamas,Cayman Islands,Alistair Ifill,4.33,10,0,2,0,2,1,3,0,13,T20I # 2008
+Bermuda Vs Panama,Panama,Ahmed Patel,11.00,4,2,0,0,3,0,2,0,18,T20I # 2009
+Bermuda Vs Panama,Panama,Khengar Bhal Ahir,9.00,5,3,0,0,2,0,1,0,13,T20I # 2009
+Bermuda Vs Panama,Panama,Nikunj Ahir,13.00,1,1,0,1,0,0,3,0,37,T20I # 2009
+Bermuda Vs Panama,Panama,Rahul Ahir,12.33,5,4,0,2,0,0,2,0,16,T20I # 2009
+Bermuda Vs Panama,Panama,Sohel Patel,8.00,6,0,0,2,0,0,4,0,35,T20I # 2009
+Bermuda Vs Panama,Panama,Irfan Hafejee,8.75,8,2,0,2,2,0,4,0,36,T20I # 2009
+Bermuda Vs Panama,Panama,Vishal Ahir,9.00,7,2,0,2,0,0,3,0,19,T20I # 2009
+Bermuda Vs Panama,Panama,Anilkumar Natubhai Ahir,6.33,7,0,1,1,0,0,16,17,1,T20I # 2009
+Bermuda Vs Panama,Bermuda,Delray Rawlins,0,25,6.25,1,11,3,0,1,0,2,T20I # 2009
+Bermuda Vs Panama,Bermuda,Zeko Burgess,0,15,7.50,1,7,1,1,1,0,4,T20I # 2009
+Bermuda Vs Panama,Bermuda,Kamau Leverock,0,34,8.50,2,12,3,2,2,0,4,T20I # 2009
+Bermuda Vs Panama,Bermuda,Derrick Brangman,0,14,3.50,0,12,0,0,0,0,2,T20I # 2009
+Cayman Islands Vs Panama,Panama,Khengar Bhal Ahir,4,0,29,2,7.25,12,3,0,2,0,T20I # 2010
+Cayman Islands Vs Panama,Panama,Abdullah Jasat,3,0,24,1,8.00,3,1,0,0,0,T20I # 2010
+Cayman Islands Vs Panama,Panama,Rahul Ahir,4,0,18,0,4.50,14,1,0,0,1,T20I # 2010
+Cayman Islands Vs Panama,Panama,Irfan Hafejee,1,0,10,3,10.00,1,0,1,0,0,T20I # 2010
+Cayman Islands Vs Panama,Panama,Sohel Patel,2,0,17,0,8.50,4,2,0,0,0,T20I # 2010
+Cayman Islands Vs Panama,Panama,Vishal Ahir,3,0,14,0,4.66,10,0,0,0,0,T20I # 2010
+Cayman Islands Vs Panama,Panama,Anilkumar Natubhai Ahir,19,25,0,0,1,76.00,0,1,0,0,T20I # 2010
+Cayman Islands Vs Panama,Cayman Islands,Conroy Wright,22,5.73,10,3,2,0,2,0,4,0,T20I # 2010
+Cayman Islands Vs Panama,Cayman Islands,Thilina Hewa,14,3.50,13,0,0,0,0,0,4,0,T20I # 2010
+Cayman Islands Vs Panama,Cayman Islands,Demar Johnson,24,6.00,16,2,1,2,0,0,1,0,T20I # 2010
+Cayman Islands Vs Panama,Cayman Islands,Adrian Wright,14,14.00,2,0,1,1,0,0,1,0,T20I # 2010
+Argentina Vs Bahamas,Bahamas,Junior Scott,4,1,14,0,3.50,16,1,0,0,1,T20I # 2011
+Argentina Vs Bahamas,Bahamas,Kervon Hinds,3,1,20,1,6.66,9,2,0,1,0,T20I # 2011
+Argentina Vs Bahamas,Bahamas,Jonathan Barry,4,0,17,3,4.25,16,0,0,4,0,T20I # 2011
+Argentina Vs Bahamas,Bahamas,Marc Taylor,4,0,27,3,6.75,8,0,0,2,1,T20I # 2011
+Argentina Vs Bahamas,Bahamas,Narendra Ekanayake,3,0,25,0,8.33,5,1,1,0,0,T20I # 2011
+Argentina Vs Bahamas,Bahamas,Festus Benn,2,9,0,0,0,22.22,1,6,0,0,T20I # 2011
+Argentina Vs Bahamas,Argentina,Alan	Kirschbaum,3,1.00,16,2,0,0,1,0,3,0,T20I # 2011
+Argentina Vs Bahamas,Argentina,Hernan Fennell,11,3.66,12,4,1,0,2,0,3,0,T20I # 2011
+Argentina Vs Bahamas,Argentina,Tomas Rossi,15,5.00,9,2,0,1,0,0,1,0,T20I # 2011
+Argentina Vs Bahamas,Argentina,Santiago Rossi,6,6.00,2,0,0,0,0,0,2,0,T20I # 2011
+Bahamas Vs Bermuda,Bermuda,Delray Rawlins,13,3.25,17,2,1,0,1,0,4,0,T20I # 2012
+Bahamas Vs Bermuda,Bermuda,Kamau Leverock,13,3.25,13,1,0,0,1,0,4,0,T20I # 2012
+Bahamas Vs Bermuda,Bermuda,Jabari Darrell,15,3.75,13,1,1,0,0,0,4,0,T20I # 2012
+Bahamas Vs Bermuda,Bermuda,Derrick Brangman,12,3.00,17,4,0,0,2,0,48,26,T20I # 2012
+Bahamas Vs Bermuda,Bermuda,Malachi Jones,7,2,184.61,1,13,13,2,0,100.00,9,T20I # 2012
+Bahamas Vs Bermuda,Bahamas,Kervon Hinds,3,1,1,0,1,2,0,21,10.50,3,T20I # 2012
+Bahamas Vs Bermuda,Bahamas,Marc Taylor,4,0,0,0,0,1.2,0,10,7.50,6,T20I # 2012
+Argentina Vs Cayman Islands,Cayman Islands,Conroy Wright,4,0,22,1,5.50,11,2,0,0,0,T20I # 2013
+Argentina Vs Cayman Islands,Cayman Islands,Troy Taylor,2,0,17,3,8.50,7,4,0,0,0,T20I # 2013
+Argentina Vs Cayman Islands,Cayman Islands,Demar Johnson,4,0,25,0,6.25,10,2,0,2,0,T20I # 2013
+Argentina Vs Cayman Islands,Cayman Islands,Adrian Wright,2,0,13,1,6.50,7,1,1,0,0,T20I # 2013
+Argentina Vs Cayman Islands,Cayman Islands,Jahmeal Buchanan,4,0,22,0,5.50,9,2,0,0,0,T20I # 2013
+Argentina Vs Cayman Islands,Cayman Islands,Alistair Ifill,44,41,5,2,1,107.31,11,7,1,1,T20I # 2013
+Argentina Vs Cayman Islands,Argentina,Alan	Kirschbaum,2,0,17,0,8.50,6,3,0,2,0,T20I # 2013
+Argentina Vs Cayman Islands,Argentina,Hernan Fennell,4,0,27,1,6.75,11,3,1,0,0,T20I # 2013
+Argentina Vs Cayman Islands,Argentina,Tomas Rossi,2,0,17,1,8.50,3,2,0,1,0,T20I # 2013
+Argentina Vs Cayman Islands,Argentina,Santiago Rossi,3.5,0,20,2,5.21,9,0,0,1,1,T20I # 2013
+Kuwait Vs Malaysia,Malaysia,Rizwan Haider,0,4,0,2,43,10.75,2,0,4,0,T20I # 2014
+Kuwait Vs Malaysia,Malaysia,Vijay Unni,23,5.75,1,3,0,3,0,26,8.66,0,T20I # 2014
+Kuwait Vs Malaysia,Malaysia,Muhammad Wafiq,0,1,0,1,7,7.00,0,0,5,4,T20I # 2014
+Kuwait Vs Malaysia,Malaysia,Fitri Sham,1,0,125.00,2,58,52,5,2,111.53,4,T20I # 2014
+Kuwait Vs Malaysia,Malaysia,Sharvin Muniandy,4,1,0,1,100.00,30,13,6,1,230.76,T20I # 2014
+Kuwait Vs Malaysia,Malaysia,Virandeep Singh,10,17,1,0,0,58.82,13,12,2,0,T20I # 2014
+Hong Kong Vs Bahrain,Bahrain,Rizwan Butt,4,0,43,0,10.75,1,2,3,0,13,T20I # 2015
+Hong Kong Vs Bahrain,Bahrain,Ali Dawood,4.33,0,0,0,2,0,15,7.50,0,0,T20I # 2015
+Hong Kong Vs Bahrain,Bahrain,Sarfaraz Ali,3,0,13,1,4.33,0,0,4,0,35,T20I # 2015
+Hong Kong Vs Bahrain,Bahrain,Sathaiya Veerapathiran,8.75,1,0,1,13,10,1,1,130.00,8,T20I # 2015
+Hong Kong Vs Bahrain,Bahrain,Abdul Majid,4,2,0,1,200.00,29,15,2,3,193.33,T20I # 2015
+Hong Kong Vs Bahrain,Bahrain,Imran Anwar,19,29,1,1,0,65.51,21,19,1,0,T20I # 2015
+Malaysia Vs Bahrain,Bahrain,Rizwan Butt,38,9.50,0,2,0,4,0,37,9.25,2,T20I # 2016
+Malaysia Vs Bahrain,Bahrain,Ali Dawood,0,4,0,1,29,7.25,0,0,2,0,T20I # 2016
+Malaysia Vs Bahrain,Bahrain,Sarfaraz Ali,22,11.00,1,0,0,2,0,30,15.00,0,T20I # 2016
+Malaysia Vs Bahrain,Bahrain,Sathaiya Veerapathiran,0,0,3,2,0,0,0.00,8,4,0,T20I # 2016
+Malaysia Vs Bahrain,Bahrain,Imran Anwar,1,200.00,8,0,5,0,1,160.00,65,46,T20I # 2016
+Malaysia Vs Bahrain,Bahrain,Abdul Majid,4,3,141.30,0,25,24,1,1,104.16,11,T20I # 2016
+Hong Kong Vs Kuwait,Kuwait,Shahrukh Quddus,8.75,0,0,2,4,0,32,8.00,0,0,T20I # 2017
+Hong Kong Vs Kuwait,Kuwait,Mohamed Shafeeq,3,0,25,2,8.33,0,0,1,0,3,T20I # 2017
+Hong Kong Vs Kuwait,Kuwait,Sayed Monib,3.00,0,0,1,4,0,22,5.50,1,0,T20I # 2017
+Hong Kong Vs Kuwait,Kuwait,Shiraz Khan,0,2,0,0,0,0.00,12,24,2,0,T20I # 2017
+Hong Kong Vs Kuwait,Kuwait,Mohammed Aslam,50.00,9,9,1,2,0,100.00,16,11,0,T20I # 2017
+Hong Kong Vs Kuwait,Kuwait,Bilal Tahir,2,145.45,3,1,4,0,0,75.00,19,17,T20I # 2017
+England Vs Bangladesh,Bangladesh,Nasum Ahmed,4,0,31,1,7.75,7,3,1,0,0,T20I # 2018
+England Vs Bangladesh,Bangladesh,Taskin Ahmed,4,0,35,1,8.75,6,5,0,0,0,T20I # 2018
+England Vs Bangladesh,Bangladesh,Mustafizur Rahman,4,0,34,1,8.50,9,3,1,3,0,T20I # 2018
+England Vs Bangladesh,Bangladesh,Shakib Al Hasan,4,0,26,1,6.50,7,1,1,0,0,T20I # 2018
+England Vs Bangladesh,Bangladesh,Hasan Mahmud,4,0,26,2,6.50,9,0,2,0,0,T20I # 2018
+England Vs Bangladesh,England,Sam Curran,2,0,18,0,9.00,3,3,0,0,0,T20I # 2018
+England Vs Bangladesh,England,Chris Woakes,2,0,21,0,10.50,4,4,0,0,0,T20I # 2018
+England Vs Bangladesh,England,Jofra Archer,3,0,27,1,9.00,4,3,0,1,0,T20I # 2018
+England Vs Bangladesh,England,Adil Rashid,3,0,25,1,8.33,7,2,1,0,0,T20I # 2018
+England Vs Bangladesh,England,Mark Wood,2,0,24,1,12.00,3,5,0,0,0,T20I # 2018
+England Vs Bangladesh,England,Moeen Ali,4,0,27,1,6.75,10,4,0,0,0,T20I # 2018
+England Vs Bangladesh,England,Chris Jordan,2,0,16,0,8.00,5,3,0,0,0,T20I # 2018
+Kuwait Vs Bahrain,Bahrain,Rizwan Butt,4,0,18,2,4.50,-,-,-,1,0,T20I # 2019
+Kuwait Vs Bahrain,Bahrain,Abdul Majid,4,0,35,0,8.75,9,3,2,0,0,T20I # 2019
+Kuwait Vs Bahrain,Bahrain,Sarfaraz Ali,4,0,51,1,12.75,8,3,5,0,0,T20I # 2019
+Kuwait Vs Bahrain,Bahrain,Sathaiya Veerapathiran,4,0,22,1,5.50,14,2,1,0,0,T20I # 2019
+Kuwait Vs Bahrain,Bahrain,Imran Anwar,5,7,1,3,0,71.42,5,9,0,0,T20I # 2019
+Kuwait Vs Bahrain,Kuwait,Shahrukh Quddus,0,4,0,0,47,11.75,11,2,4,6,T20I # 2019
+Kuwait Vs Bahrain,Kuwait,Ilyas Ahmed,0,4,0,2,27,6.75,8,2,1,0,T20I # 2019
+Kuwait Vs Bahrain,Kuwait,Sayed Monib,0,4,0,2,36,9.00,7,3,2,0,T20I # 2019
+Malaysia Vs Hong Kong,Hong Kong,Haroon Arshad,10,3.33,11,2,1,0,0,0,3.4,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Ehsan Khan,26,7.09,8,2,2,0,3,1,2,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Aizaz Khan,6,3.00,6,2,0,0,0,0,2,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Kinchit Shah,6,3.00,7,0,0,0,1,0,2,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Nasrulla Rana,8,4.00,6,1,0,0,1,0,2,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Nizakat Khan,18,9.00,1,0,2,0,0,0,2,0,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Raag Kapur,13,6.50,5,0,0,1,1,0,1,3,T20I # 2020
+Malaysia Vs Hong Kong,Hong Kong,Yasim Murtaza,0,0,33.33,1,13,9,0,1,144.44,5,T20I # 2020
+Malaysia Vs Hong Kong,Malaysia,Syazrul Idrus,0,31,7.75,1,11,2,2,1,0,4,T20I # 2020
+Malaysia Vs Hong Kong,Malaysia,Fitri Sham,0,12,3.00,2,17,0,1,0,0,4,T20I # 2020
+Malaysia Vs Hong Kong,Malaysia,Rizwan Haider,0,8,2.00,1,16,0,0,0,0,0.1,T20I # 2020
+Bahrain Vs Kuwait,Kuwait,Shahrukh Quddus,0,18,6.00,2,12,3,0,1,0,4,T20I # 2021
+Bahrain Vs Kuwait,Kuwait,Ilyas Ahmed,0,30,7.50,1,13,3,2,0,0,3,T20I # 2021
+Bahrain Vs Kuwait,Kuwait,Sayed Monib,0,17,5.66,2,9,2,0,0,0,4,T20I # 2021
+Bahrain Vs Kuwait,Kuwait,Shiraz Khan,0,10,2.50,0,14,0,0,0,0,2,T20I # 2021
+Bahrain Vs Kuwait,Kuwait,Mohammed Aslam,0,26,13.00,1,4,1,3,0,0,25,T20I # 2021
+Bahrain Vs Kuwait,Kuwait,Adnan Idrees,23,3,0,1,108.69,37,33,4,2,112.12,T20I # 2021
+Bahrain Vs Kuwait,Bahrain,Rizwan Butt,1,0,2,0,0,24,12.00,5,2,2,T20I # 2021
+Bahrain Vs Kuwait,Bahrain,Abdul Majid,1,0,3,0,0,22,7.33,5,1,1,T20I # 2021
+Bahrain Vs Kuwait,Bahrain,Sathaiya Veerapathiran,0,0,4,1,0,19,4.75,10,1,0,T20I # 2021
+Bahrain Vs Kuwait,Bahrain,Sarfaraz Ali,0,0,2,0,0,13,6.50,3,0,0,T20I # 2021
+Hong Kong Vs Malaysia,Malaysia,Rizwan Haider,0,0,4,1,0,54,13.50,2,0,4,T20I # 2022
+Hong Kong Vs Malaysia,Malaysia,Vijay Unni,0,41,10.25,1,1,0,4,0,30,7.50,T20I # 2022
+Hong Kong Vs Malaysia,Malaysia,Fitri Sham,0,0,29,0,13,5,1,223.07,4,2,T20I # 2022
+Hong Kong Vs Malaysia,Malaysia,Muhammad Wafiq,1,0,200.00,2,7,11,0,0,63.63,2,T20I # 2022
+Hong Kong Vs Malaysia,Malaysia,Sharvin Muniandy,2,0,0,3,100.00,18,11,4,0,163.63,T20I # 2022
+England Vs Bangladesh,Bangladesh,Taskin Ahmed,4,0,27,1,6.75,12,4,0,3,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Mustafizur Rahman,4,0,19,1,4.75,17,2,1,1,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Nasum Ahmed,1,0,13,0,13.00,1,1,1,0,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Shakib Al Hasan,3,0,13,1,4.33,10,1,0,1,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Hasan Mahmud,2,0,10,1,5.00,6,1,0,0,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,4,0,12,4,3.00,13,0,0,0,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Najmul Hossain Shanto,1,0,9,0,9.00,0,1,0,0,0,T20I # 2023
+England Vs Bangladesh,Bangladesh,Afif Hossain,1,0,7,0,7.00,1,0,0,1,0,T20I # 2023
+England Vs Bangladesh,England,Sam Curran,3,0,15,1,5.00,8,1,0,1,0,T20I # 2023
+England Vs Bangladesh,England,Chris Woakes,1,0,7,0,7.00,3,1,0,0,0,T20I # 2023
+England Vs Bangladesh,England,Jofra Archer,4,0,13,3,3.25,14,1,0,0,0,T20I # 2023
+England Vs Bangladesh,England,Moeen Ali,4,0,25,1,6.25,8,1,1,0,0,T20I # 2023
+England Vs Bangladesh,England,Adil Rashid,4,0,28,0,7.00,10,2,1,2,0,T20I # 2023
+England Vs Bangladesh,England,Rehan Ahmed,2,0,11,1,5.50,2,0,0,0,0,T20I # 2023
+England Vs Bangladesh,England,Chris Jordan,0.5,0,15,0,18.00,0,3,0,0,0,T20I # 2023
+Vanuatu Vs Samoa,Samoa,Sitanisilao Toutai,1,18,4.50,1,-,-,-,0,1,3,T20I # 2024
+Vanuatu Vs Samoa,Samoa,Timezeen Rapi,0,23,7.66,3,-,-,-,0,0,4,T20I # 2024
+Vanuatu Vs Samoa,Samoa,Matthew Faatea,0,37,9.25,2,-,-,-,1,0,4,T20I # 2024
+Vanuatu Vs Samoa,Samoa,Darren Roache,0,37,9.25,1,-,-,-,0,1,1,T20I # 2024
+Vanuatu Vs Samoa,Samoa,Paul Rarotoga,0,3,3.00,0,-,-,-,0,0,1,T20I # 2024
+Vanuatu Vs Samoa,Samoa,Maene Tuilaepa,8,0,0,1,12.50,56,39,8,2,143.58,T20I # 2024
+Vanuatu Vs Samoa,Vanuatu,Godfrey Mangau,8.66,-,-,1,-,1,0,4,0,31,T20I # 2024
+Vanuatu Vs Samoa,Vanuatu,Obed Yosef,7.75,-,-,0,-,0,1,4,0,31,T20I # 2024
+Vanuatu Vs Samoa,Vanuatu,Patrick Matautaava,7.75,-,-,2,-,0,0,4,0,29,T20I # 2024
+Fiji Vs Samoa,Samoa,Timezeen Rapi,4,0,4,1,0,43,10.75,-,-,-,T20I # 2025
+Fiji Vs Samoa,Samoa,Matthew Faatea,3,2,4,1,0,48,12.00,-,-,-,T20I # 2025
+Fiji Vs Samoa,Samoa,Sitanisilao Toutai,1,0,3,0,0,27,9.00,-,-,-,T20I # 2025
+Fiji Vs Samoa,Samoa,Darren Roache,1,1,3,1,0,33,11.00,-,-,-,T20I # 2025
+Fiji Vs Samoa,Samoa,Maene Tuilaepa,1,0,2,1,0,18,9.00,-,-,-,T20I # 2025
+Fiji Vs Samoa,Samoa,Maletino Maiava,0,0,2,0,3,0,0,66.66,10,10,T20I # 2025
+Fiji Vs Samoa,Fiji,Villame Manakitoga,3,0,24,2,8.00,-,-,-,1,1,T20I # 2025
+Fiji Vs Samoa,Fiji,Siteri Tabuisulu,3.1,0,14,2,4.42,-,-,-,2,0,T20I # 2025
+Fiji Vs Samoa,Fiji,Peni Kotoisuva,4,0,25,2,6.25,-,-,-,0,0,T20I # 2025
+Fiji Vs Samoa,Fiji,Petero Cabebula,2,0,16,4,8.00,-,-,-,1,0,T20I # 2025
+Bangladesh Vs England,England,Sam Curran,4,0,28,0,7.00,7,2,0,2,1,T20I # 2026
+Bangladesh Vs England,England,Chris Woakes,1,0,12,0,12.00,1,2,0,0,0,T20I # 2026
+Bangladesh Vs England,England,Adil Rashid,4,0,23,1,5.75,12,2,0,3,0,T20I # 2026
+Bangladesh Vs England,England,Jofra Archer,4,0,33,0,8.25,7,3,1,1,0,T20I # 2026
+Bangladesh Vs England,England,Rehan Ahmed,3,0,26,0,8.66,6,2,1,0,0,T20I # 2026
+Bangladesh Vs England,England,Moeen Ali,1,0,12,0,12.00,1,0,1,0,0,T20I # 2026
+Bangladesh Vs England,England,Chris Jordan,3,0,21,1,7.00,8,3,0,0,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Tanvir Islam,2,0,17,1,8.50,3,1,1,0,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Taskin Ahmed,4,0,26,2,6.50,13,4,0,2,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Shakib Al Hasan,4,0,30,1,7.50,5,2,1,0,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Hasan Mahmud,4,0,29,0,7.25,12,4,1,0,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Mustafizur Rahman,4,0,14,1,3.50,14,1,0,0,0,T20I # 2026
+Bangladesh Vs England,Bangladesh,Mehidy Hasan Miraz,2,0,18,0,9.00,5,2,1,0,0,T20I # 2026
+Vanuatu Vs Fiji,Fiji,Siteri Tabuisulu,2,0,2,0,0,19,9.50,-,-,-,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Uraia Sorovakatini,2,0,4,1,0,39,9.75,-,-,-,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Petero Cabebula,0,0,4,0,0,38,9.50,-,-,-,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Peni Dakainivanua,0,0,2,1,0,29,14.50,-,-,-,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Peni Vuniwaqa,1,0,4,1,0,56,14.00,-,-,-,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Peni Kotoisuva,3,1,27,2,31,3,1,87.09,0,1,T20I # 2027
+Vanuatu Vs Fiji,Vanuatu,Godfrey Mangau,4,0,34,3,8.50,-,-,-,2,0,T20I # 2027
+Vanuatu Vs Fiji,Vanuatu,Obed Yosef,4,0,23,1,5.75,-,-,-,0,0,T20I # 2027
+Vanuatu Vs Fiji,Vanuatu,Nalin Nipiko,0.1,0,0,3,0.00,-,-,-,0,0,T20I # 2027
+Vanuatu Vs Fiji,Fiji,Villame Manakitoga,31,7.75,-,1,-,-,1,1,4,0,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Siteri Tabuisulu,32,8.00,-,0,-,-,1,0,1,0,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Peni Dakainivanua,22,22.00,-,1,-,-,2,1,4,0,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Peni Kotoisuva,26,6.50,-,0,-,-,0,0,2,0,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Petero Cabebula,6,3.00,-,1,-,-,0,0,1,0,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Seru Tupou,2,2.00,-,3,-,-,0,0,0,2,T20I # 2028
+Vanuatu Vs Fiji,Fiji,Peni Vuniwaqa,0,0,0.00,1,0,2,0,0,0.00,30,T20I # 2028
+Vanuatu Vs Fiji,Vanuatu,Godfrey Mangau,7.25,-,-,1,-,1,0,4,0,14,T20I # 2028
+Vanuatu Vs Fiji,Vanuatu,Patrick Matautaava,3.50,-,-,2,-,1,0,3,0,22,T20I # 2028
+Vanuatu Vs Fiji,Vanuatu,Nalin Nipiko,7.33,-,-,1,-,1,0,2,0,18,T20I # 2028
+Fiji Vs Samoa,Samoa,Uala Kaisala,0,3,0,0,14,4.66,-,-,-,6,T20I # 2029
+Fiji Vs Samoa,Samoa,Timezeen Rapi,0,3,0,0,22,7.33,-,-,-,1,T20I # 2029
+Fiji Vs Samoa,Samoa,Matthew Faatea,0,4,0,0,36,9.00,-,-,-,1,T20I # 2029
+Fiji Vs Samoa,Samoa,Sitanisilao Toutai,0,2,0,2,13,6.50,-,-,-,0,T20I # 2029
+Fiji Vs Samoa,Samoa,Paul Rarotoga,0,1,0,0,5,5.00,-,-,-,0,T20I # 2029
+Fiji Vs Samoa,Samoa,Darren Roache,0,3,0,1,28,9.33,-,-,-,2,T20I # 2029
+Fiji Vs Samoa,Samoa,Afapene Ilaoa,0,2,0,2,15,7.50,-,-,-,0,T20I # 2029
+Fiji Vs Samoa,Samoa,Maletino Maiava,0,26,27,0,2,1,96.29,20,21,4,T20I # 2029
+Fiji Vs Samoa,Fiji,Jone Wesele,4,0,32,1,8.00,-,-,-,2,0,T20I # 2029
+Fiji Vs Samoa,Fiji,Siteri Tabuisulu,4,0,24,0,6.00,-,-,-,0,0,T20I # 2029
+Fiji Vs Samoa,Fiji,Peni Dakainivanua,3,0,18,4,6.00,-,-,-,2,0,T20I # 2029
+Fiji Vs Samoa,Fiji,Petero Cabebula,1,0,11,0,11.00,-,-,-,0,2,T20I # 2029
+Pakistan Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,4,0,13,2,3.25,18,2,0,1,0,T20I # 2030
+Pakistan Vs Afghanistan,Afghanistan,Azmatullah Omarzai,3,0,20,1,6.66,8,1,1,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,4,0,9,2,2.25,15,0,0,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Afghanistan,Naveen-ul-Haq,2,0,19,1,9.50,5,4,0,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Afghanistan,Rashid Khan,4,0,15,1,3.75,11,0,0,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Afghanistan,Mohammad Nabi,3,0,12,2,4.00,11,0,1,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Pakistan,Naseem Shah,4,0,27,1,6.75,10,2,1,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Pakistan,Zaman Khan,3,0,19,0,6.33,11,3,0,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Pakistan,Ihsanullah,3.5,0,17,2,4.43,14,0,1,2,0,T20I # 2030
+Pakistan Vs Afghanistan,Pakistan,Imad Wasim,4,1,11,1,2.75,17,1,0,0,0,T20I # 2030
+Pakistan Vs Afghanistan,Pakistan,Shadab Khan,3,0,15,0,5.00,7,1,0,0,0,T20I # 2030
+South Africa Vs West Indies,West Indies,Akeal Hosein,2,0,28,1,14.00,4,3,2,0,0,T20I # 2031
+South Africa Vs West Indies,West Indies,Sheldon Cottrell,3,0,31,2,10.33,7,1,3,2,0,T20I # 2031
+South Africa Vs West Indies,West Indies,Alzarri Joseph,2,0,21,1,10.50,2,3,0,1,0,T20I # 2031
+South Africa Vs West Indies,West Indies,Romario Shepherd,2,0,20,1,10.00,3,1,1,2,0,T20I # 2031
+South Africa Vs West Indies,West Indies,Odean Smith,2,0,27,2,13.50,3,3,1,1,1,T20I # 2031
+South Africa Vs West Indies,South Africa,Bjorn Fortuin,2,0,42,1,21.00,2,2,5,1,0,T20I # 2031
+South Africa Vs West Indies,South Africa,Wayne Parnell,1.3,0,25,0,16.66,1,2,2,1,0,T20I # 2031
+South Africa Vs West Indies,South Africa,Sisanda Magala,2,0,21,3,10.50,4,4,0,0,0,T20I # 2031
+South Africa Vs West Indies,South Africa,Tabraiz Shamsi,2,0,27,1,13.50,2,0,3,1,0,T20I # 2031
+South Africa Vs West Indies,South Africa,Anrich Nortje,3,0,17,1,5.66,10,1,1,1,0,T20I # 2031
+West Indies Vs South Africa,South Africa,Wayne Parnell,4,0,43,2,10.75,4,6,0,2,0,T20I # 2032
+West Indies Vs South Africa,South Africa,Aiden Markram,2,0,22,0,11.00,5,1,2,1,0,T20I # 2032
+West Indies Vs South Africa,South Africa,Kagiso Rabada,4,0,39,0,9.75,12,4,3,0,0,T20I # 2032
+West Indies Vs South Africa,South Africa,Marco Jansen,4,0,52,3,13.00,9,3,5,1,0,T20I # 2032
+West Indies Vs South Africa,South Africa,Sisanda Magala,4,0,67,0,16.75,3,3,7,0,0,T20I # 2032
+West Indies Vs South Africa,South Africa,Tabraiz Shamsi,2,0,33,0,16.50,4,0,5,0,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Akeal Hosein,2,0,33,0,16.50,2,6,1,0,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Sheldon Cottrell,1,0,29,0,29.00,0,2,3,2,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Jason Holder,4,0,48,1,12.00,7,8,1,0,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Romario Shepherd,3.5,0,44,0,11.47,5,4,2,3,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Odean Smith,2,0,36,1,18.00,1,3,3,1,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Raymon Reifer,4,0,42,1,10.50,5,3,2,2,0,T20I # 2032
+West Indies Vs South Africa,West Indies,Rovman Powell,2,0,27,1,13.50,4,3,1,2,1,T20I # 2032
+Pakistan Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,4,1,19,2,4.75,13,1,1,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Afghanistan,Azmatullah Omarzai,3,0,34,0,11.33,3,3,1,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Afghanistan,Naveen-ul-Haq,4,0,26,1,6.50,10,3,0,0,1,T20I # 2033
+Pakistan Vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,2,0,19,0,9.50,2,1,1,1,0,T20I # 2033
+Pakistan Vs Afghanistan,Afghanistan,Rashid Khan,4,0,16,1,4.00,10,0,0,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Afghanistan,Karim Janat,3,0,13,1,4.33,7,0,0,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Naseem Shah,4,0,39,0,9.75,7,1,3,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Zaman Khan,3.5,0,22,1,5.73,10,3,0,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Ihsanullah,3,0,23,1,7.66,4,2,0,1,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Mohammad Nawaz,4,0,16,0,4.00,9,0,0,0,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Shadab Khan,4,0,24,0,6.00,12,2,0,1,0,T20I # 2033
+Pakistan Vs Afghanistan,Pakistan,Imad Wasim,1,0,5,0,5.00,1,0,0,0,0,T20I # 2033
+Bangladesh Vs Ireland,Ireland,Harry Tector,2,0,16,1,8.00,6,0,1,3,0,T20I # 2034
+Bangladesh Vs Ireland,Ireland,Mark Adair,3.2,0,48,1,14.40,4,6,2,2,0,T20I # 2034
+Bangladesh Vs Ireland,Ireland,Graham Hume,4,0,35,1,8.75,7,3,1,1,0,T20I # 2034
+Bangladesh Vs Ireland,Ireland,Craig Young,4,0,45,2,11.25,5,4,2,0,0,T20I # 2034
+Bangladesh Vs Ireland,Ireland,Gareth Delany,3,0,21,0,7.00,6,0,1,0,0,T20I # 2034
+Bangladesh Vs Ireland,Ireland,Ben White,3,0,37,0,12.33,6,4,2,1,0,T20I # 2034
+Bangladesh Vs Ireland,Bangladesh,Nasum Ahmed,1,0,18,0,18.00,1,4,0,1,0,T20I # 2034
+Bangladesh Vs Ireland,Bangladesh,Mustafizur Rahman,2,0,16,0,8.00,4,2,0,0,0,T20I # 2034
+Bangladesh Vs Ireland,Bangladesh,Hasan Mahmud,2,0,20,1,10.00,5,4,0,1,0,T20I # 2034
+Bangladesh Vs Ireland,Bangladesh,Taskin Ahmed,2,0,16,4,8.00,5,2,0,0,1,T20I # 2034
+Bangladesh Vs Ireland,Bangladesh,Shakib Al Hasan,1,0,5,0,5.00,4,1,0,0,0,T20I # 2034
+Pakistan Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,4,0,25,1,6.25,11,3,0,0,0,T20I # 2035
+Pakistan Vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,4,0,28,2,7.00,10,3,1,0,0,T20I # 2035
+Pakistan Vs Afghanistan,Afghanistan,Mohammad Nabi,3,0,32,1,10.66,6,2,2,2,0,T20I # 2035
+Pakistan Vs Afghanistan,Afghanistan,Fareed Ahmad,2,0,28,1,14.00,3,2,2,0,0,T20I # 2035
+Pakistan Vs Afghanistan,Afghanistan,Rashid Khan,4,0,31,1,7.75,5,0,2,2,0,T20I # 2035
+Pakistan Vs Afghanistan,Afghanistan,Karim Janat,3,0,32,1,10.66,3,4,0,0,1,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Imad Wasim,3,0,25,1,8.33,6,2,1,1,0,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Zaman Khan,3.4,0,20,1,5.45,15,0,2,1,0,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Ihsanullah,4,0,29,3,7.25,13,4,1,1,0,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Mohammad Wasim,3,0,13,1,4.33,11,2,0,0,0,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Shadab Khan,4,0,13,3,3.25,13,0,0,1,0,T20I # 2035
+Pakistan Vs Afghanistan,Pakistan,Mohammad Nawaz,1,0,11,0,11.00,1,0,1,0,0,T20I # 2035
+West Indies Vs South Africa,South Africa,Bjorn Fortuin,2,0,22,0,11.00,5,0,3,0,0,T20I # 2036
+West Indies Vs South Africa,South Africa,Wayne Parnell,4,0,43,0,10.75,6,2,3,2,0,T20I # 2036
+West Indies Vs South Africa,South Africa,Lungi Ngidi,4,0,45,2,11.25,11,4,2,2,2,T20I # 2036
+West Indies Vs South Africa,South Africa,Kagiso Rabada,4,0,50,2,12.50,9,4,4,1,0,T20I # 2036
+West Indies Vs South Africa,South Africa,Anrich Nortje,4,0,36,2,9.00,7,2,2,1,0,T20I # 2036
+West Indies Vs South Africa,South Africa,Aiden Markram,2,0,21,1,10.50,4,1,2,0,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Sheldon Cottrell,3,0,24,0,8.00,8,4,0,2,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Roston Chase,4,0,43,0,10.75,5,8,0,0,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Alzarri Joseph,4,0,40,5,10.00,10,3,3,1,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Jason Holder,4,0,42,1,10.50,5,3,1,4,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Romario Shepherd,4,0,44,0,11.00,6,3,2,3,0,T20I # 2036
+West Indies Vs South Africa,West Indies,Raymon Reifer,1,0,18,0,18.00,0,3,0,0,0,T20I # 2036
+Bangladesh Vs Ireland,Ireland,Gareth Delany,2,0,24,0,12.00,2,0,2,2,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Mark Adair,4,0,52,1,13.00,5,6,2,2,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Graham Hume,3,0,49,0,16.33,0,5,2,1,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Fionn Hand,1,0,19,0,19.00,0,2,1,0,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Ben White,4,0,28,2,7.00,10,4,0,0,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Harry Tector,2,0,17,0,8.50,5,1,1,2,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Curtis Campher,1,0,10,0,10.00,1,1,0,1,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Taskin Ahmed,4,0,27,3,6.75,12,1,2,0,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Shakib Al Hasan,4,0,22,5,5.50,13,2,1,0,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Nasum Ahmed,3,0,37,0,12.33,7,0,5,1,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Mehidy Hasan Miraz,1,0,9,0,9.00,2,1,0,0,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Hasan Mahmud,2,0,6,1,3.00,6,0,0,0,0,T20I # 2037
+Bangladesh Vs Ireland,Bangladesh,Mustafizur Rahman,3,0,21,0,7.00,6,1,1,0,0,T20I # 2037
+Bangladesh Vs Ireland,Ireland,Fionn Hand,2.2,0,15,1,6.42,8,3,0,0,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Mark Adair,4,0,25,3,6.25,13,3,1,0,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Harry Tector,4,0,28,1,7.00,9,2,1,1,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Curtis Campher,4,0,23,1,5.75,13,2,1,0,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Ben White,2,0,15,1,7.50,6,1,1,1,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Matthew Humphreys,2,0,10,2,5.00,5,1,0,0,0,T20I # 2038
+Bangladesh Vs Ireland,Ireland,Gareth Delany,1,0,7,1,7.00,1,0,0,1,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Taskin Ahmed,4,0,28,1,7.00,16,3,1,1,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Shakib Al Hasan,2,0,15,0,7.50,6,3,0,0,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Hasan Mahmud,2,0,26,0,13.00,2,1,2,2,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Shoriful Islam,2,0,25,1,12.50,4,4,1,0,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Nasum Ahmed,1,0,12,0,12.00,2,1,1,0,0,T20I # 2038
+Bangladesh Vs Ireland,Bangladesh,Rishad Hossain,3,0,19,1,6.33,5,2,0,0,0,T20I # 2038
+Sri Lanka Vs New Zealand,New Zealand,Adam Milne,4,0,42,1,10.50,9,3,3,2,0,T20I # 2039
+Sri Lanka Vs New Zealand,New Zealand,Ben Lister,4,0,43,1,10.75,8,5,1,3,0,T20I # 2039
+Sri Lanka Vs New Zealand,New Zealand,Henry Shipley,4,0,43,1,10.75,8,0,4,3,0,T20I # 2039
+Sri Lanka Vs New Zealand,New Zealand,James Neesham,4,0,30,2,7.50,9,1,2,0,0,T20I # 2039
+Sri Lanka Vs New Zealand,New Zealand,Ish Sodhi,4,0,33,0,8.25,6,1,2,1,0,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Maheesh Theekshana,4,0,22,1,5.50,11,3,0,0,0,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Dilshan Madushanka,3,0,45,1,15.00,5,3,4,0,1,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Pramod Madushan,4,0,37,2,9.25,4,5,0,2,0,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Chamika Karunaratne,3,0,36,0,12.00,2,3,2,0,0,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Wanindu Hasaranga,4,0,30,2,7.50,9,1,2,0,0,T20I # 2039
+Sri Lanka Vs New Zealand,Sri Lanka,Dasun Shanaka,2,0,20,2,10.00,3,1,1,0,0,T20I # 2039
+Sri Lanka Vs New Zealand,New Zealand,Adam Milne,4,0,26,5,6.50,15,3,1,2,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,Ben Lister,4,0,26,2,6.50,10,2,1,1,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,Henry Shipley,3,0,25,1,8.33,5,2,1,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,Rachin Ravindra,3,0,24,1,8.00,7,1,2,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,James Neesham,2,0,20,1,10.00,4,0,2,2,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,Ish Sodhi,3,0,17,0,5.66,5,1,0,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Maheesh Theekshana,4,0,18,0,4.50,14,2,0,1,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Dilshan Madushanka,1,0,18,0,18.00,0,4,0,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Kasun Rajitha,2,0,25,1,12.50,6,1,2,2,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Pramod Madushan,2,0,21,0,10.50,2,1,0,3,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Dasun Shanaka,1,0,10,0,10.00,1,1,0,1,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Wanindu Hasaranga,3,0,22,0,7.33,4,0,1,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,Sri Lanka,Dhananjaya de Silva,1.4,0,31,0,18.60,1,2,3,0,0,T20I # 2040
+Sri Lanka Vs New Zealand,New Zealand,Matt Henry,4,0,33,0,8.25,14,2,3,1,0,T20I # 2041
+Sri Lanka Vs New Zealand,New Zealand,Adam Milne,4,1,30,1,7.50,12,3,1,2,0,T20I # 2041
+Sri Lanka Vs New Zealand,New Zealand,Ben Lister,4,0,37,2,9.25,6,6,0,1,0,T20I # 2041
+Sri Lanka Vs New Zealand,New Zealand,Ish Sodhi,4,0,30,1,7.50,8,0,2,1,0,T20I # 2041
+Sri Lanka Vs New Zealand,New Zealand,James Neesham,2,0,22,0,11.00,3,2,1,1,0,T20I # 2041
+Sri Lanka Vs New Zealand,New Zealand,Rachin Ravindra,2,0,27,0,13.50,3,2,2,2,0,T20I # 2041
+Sri Lanka Vs New Zealand,Sri Lanka,Kasun Rajitha,4,0,34,0,8.50,7,1,2,2,0,T20I # 2041
+Sri Lanka Vs New Zealand,Sri Lanka,Maheesh Theekshana,4,0,22,1,5.50,9,1,0,0,0,T20I # 2041
+Sri Lanka Vs New Zealand,Sri Lanka,Pramod Madushan,4,0,38,1,9.50,4,4,1,0,0,T20I # 2041
+Sri Lanka Vs New Zealand,Sri Lanka,Lahiru Kumara,3.5,0,38,3,9.91,7,4,1,2,0,T20I # 2041
+Sri Lanka Vs New Zealand,Sri Lanka,Wanindu Hasaranga,4,0,41,0,10.25,4,4,1,0,0,T20I # 2041
+Portugal Vs Gibraltar,Gibraltar,Kabir Mirpuri,0,1,0,1,18,18.00,1,4,0,0,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,Louis Bruce,0,2,0,0,17,8.50,7,4,0,0,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,Avinash Pai,0,4,0,0,50,12.50,9,3,5,1,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,Jack Horrocks,0,2,0,2,27,13.50,6,2,2,4,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,James Fitzgerald,0,4,0,0,23,5.75,8,1,0,0,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,Iain Latin,0,3,0,2,34,11.33,7,2,3,1,T20I # 2042
+Portugal Vs Gibraltar,Gibraltar,Samarth Bodha,0,12,8,1,1,0,150.00,33,33,2,T20I # 2042
+Portugal Vs Gibraltar,Portugal,Najjam Shahzad,1,24,6.00,0,14,1,0,3,1,4,T20I # 2042
+Portugal Vs Gibraltar,Portugal,Zohaib Sarwar,1,13,3.25,1,13,0,0,0,0,1.3,T20I # 2042
+Gibraltar Vs Portugal,Portugal,Najjam Shahzad,0,5,1,1,4,0,18,4.50,16,2,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Junaid Khan,0,3,0,0,4,0,46,11.50,6,7,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Francoise Stoman,1,0,0,1,4,0,17,4.25,10,0,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Sirajullah Khadim,0,1,0,0,2,0,32,16.00,1,4,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Zohaib Sarwar,1,0,1,0,2,0,21,10.50,5,1,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Amandeep Singh,2,0,0,1,4,2,1,0,200.00,82,T20I # 2043
+Gibraltar Vs Portugal,Gibraltar,Avinash Pai,10,4,0,1,0,0,3.1,0,42,13.26,T20I # 2043
+Gibraltar Vs Portugal,Gibraltar,Kabir Mirpuri,3,2,3,2,1,0,3,0,26,8.66,T20I # 2043
+Gibraltar Vs Portugal,Gibraltar,Samarth Bodha,4,3,0,0,0,0,3,0,23,7.66,T20I # 2043
+Gibraltar Vs Portugal,Gibraltar,Iain Latin,5,2,0,2,1,0,1,0,14,14.00,T20I # 2043
+Gibraltar Vs Portugal,Portugal,Najjam Shahzad,4,0,26,0,6.50,12,2,0,3,0,T20I # 2044
+Gibraltar Vs Portugal,Portugal,Junaid Khan,4,0,25,2,6.25,9,0,1,1,0,T20I # 2044
+Gibraltar Vs Portugal,Portugal,Syed Maisam Ali,4,0,16,1,4.00,13,0,1,0,0,T20I # 2044
+Gibraltar Vs Portugal,Portugal,Sirajullah Khadim,3,0,25,1,8.33,4,3,0,2,0,T20I # 2044
+Gibraltar Vs Portugal,Portugal,Suman Ghimire,3,0,22,1,7.33,6,2,0,0,0,T20I # 2044
+Gibraltar Vs Portugal,Portugal,Amandeep Singh,6,3,0,1,1,200.00,25,24,2,0,T20I # 2044
+Gibraltar Vs Portugal,Gibraltar,James Fitzgerald,0,0,2,2,0,14,7.00,3,1,0,T20I # 2044
+Gibraltar Vs Portugal,Gibraltar,Kabir Mirpuri,0,0,2,0,0,26,13.00,2,3,1,T20I # 2044
+Gibraltar Vs Portugal,Gibraltar,Samarth Bodha,0,0,3,0,0,12,4.00,11,1,0,T20I # 2044
+Gibraltar Vs Portugal,Gibraltar,Jack Horrocks,1,0,2,1,0,13,6.50,4,1,0,T20I # 2044
+Pakistan Vs New Zealand,New Zealand,Matt Henry,4,0,32,3,8.00,13,4,1,2,0,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,Adam Milne,4,0,51,2,12.75,10,7,2,2,1,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,Ben Lister,3.5,0,30,2,7.82,9,3,1,1,0,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,James Neesham,3,0,18,1,6.00,9,3,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,Ish Sodhi,4,0,34,1,8.50,9,2,2,1,0,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,Rachin Ravindra,1,0,9,0,9.00,0,1,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Shaheen Shah Afridi,2,0,11,1,5.50,6,1,0,2,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Zaman Khan,2,0,7,1,3.50,6,0,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Faheem Ashraf,2,0,17,1,8.50,5,3,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Haris Rauf,3.3,0,18,4,5.14,14,1,1,1,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Iftikhar Ahmed,2,0,10,0,5.00,5,0,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Shadab Khan,3,0,29,1,9.66,7,4,1,0,0,T20I # 2045
+Pakistan Vs New Zealand,Pakistan,Imad Wasim,1,0,2,2,2.00,5,0,0,0,0,T20I # 2045
+Pakistan Vs New Zealand,New Zealand,Matt Henry,4,0,29,2,7.25,11,1,2,1,0,T20I # 2046
+Pakistan Vs New Zealand,New Zealand,Henry Shipley,3,0,39,0,13.00,3,6,1,0,0,T20I # 2046
+Pakistan Vs New Zealand,New Zealand,Ben Lister,4,0,41,0,10.25,5,5,1,1,0,T20I # 2046
+Pakistan Vs New Zealand,New Zealand,James Neesham,4,0,48,1,12.00,4,5,2,0,0,T20I # 2046
+Pakistan Vs New Zealand,New Zealand,Rachin Ravindra,4,0,22,1,5.50,9,0,1,0,0,T20I # 2046
+Pakistan Vs New Zealand,New Zealand,Cole McConchie,1,0,9,0,9.00,1,1,0,0,0,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Shaheen Shah Afridi,4,0,25,0,6.25,7,2,0,0,0,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Imad Wasim,3,0,19,1,6.33,8,0,1,1,0,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Zaman Khan,4,0,30,1,7.50,11,3,1,1,1,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Haris Rauf,4,0,27,4,6.75,9,3,0,1,0,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Shadab Khan,3,0,27,1,9.00,5,3,1,0,0,T20I # 2046
+Pakistan Vs New Zealand,Pakistan,Faheem Ashraf,2,0,23,0,11.50,2,2,1,0,0,T20I # 2046
+New Zealand Vs Pakistan,Pakistan,Shaheen Shah Afridi,4,0,33,2,8.25,9,2,1,1,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Naseem Shah,4,0,30,0,7.50,10,3,1,0,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Faheem Ashraf,2,0,12,0,6.00,6,2,0,0,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Haris Rauf,4,0,31,2,7.75,10,5,0,2,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Shadab Khan,4,0,34,1,8.50,9,2,2,0,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Imad Wasim,2,0,22,0,11.00,2,2,1,0,0,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,Matt Henry,4,0,27,1,6.75,8,1,1,2,0,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,Adam Milne,4,0,37,2,9.25,10,2,3,0,1,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,Ben Lister,2,0,11,0,5.50,7,0,1,1,0,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,Ish Sodhi,3,0,11,1,3.66,8,0,0,0,0,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,James Neesham,4,0,38,3,9.50,8,3,2,2,0,T20I # 2047
+New Zealand Vs Pakistan,New Zealand,Rachin Ravindra,3,0,28,2,9.33,7,2,2,0,0,T20I # 2047
+New Zealand Vs Pakistan,Pakistan,Shaheen Shah Afridi,0,2,0,1,3,0,32,10.66,8,5,T20I # 2048
+New Zealand Vs Pakistan,Pakistan,Zaman Khan,0,2,1,0,4,0,19,4.75,11,2,T20I # 2048
+New Zealand Vs Pakistan,Pakistan,Imad Wasim,0,0,0,3,3,0,25,8.33,5,2,T20I # 2048
+New Zealand Vs Pakistan,Pakistan,Shadab Khan,1,0,0,0,3.5,0,35,9.13,6,4,T20I # 2048
+New Zealand Vs Pakistan,Pakistan,Haris Rauf,1,0,0,1,1,0,9,9.00,1,1,T20I # 2048
+Pakistan Vs New Zealand,New Zealand,Adam Milne,0,0,2,0,0,29,14.50,3,3,2,T20I # 2049
+Pakistan Vs New Zealand,New Zealand,Rachin Ravindra,1,0,3,0,0,34,11.33,3,5,0,T20I # 2049
+Pakistan Vs New Zealand,New Zealand,Henry Shipley,2,0,4,0,0,33,8.25,7,1,2,T20I # 2049
+Pakistan Vs New Zealand,New Zealand,Blair Tickner,1,0,4,3,0,21,5.25,9,1,0,T20I # 2049
+Pakistan Vs New Zealand,New Zealand,Ish Sodhi,0,0,3,1,0,42,14.00,3,5,2,T20I # 2049
+Pakistan Vs New Zealand,New Zealand,James Neesham,1,0,0,0,1,0,0,0.00,19,13,T20I # 2049
+Pakistan Vs New Zealand,Pakistan,Shaheen Shah Afridi,9,1,0,2,1,0,4,0,39,9.75,T20I # 2049
+Pakistan Vs New Zealand,Pakistan,Imad Wasim,8,3,1,2,1,2,4,0,39,9.75,T20I # 2049
+Pakistan Vs New Zealand,Pakistan,Ihsanullah,4,2,2,0,2,0,2,0,29,14.50,T20I # 2049
+Pakistan Vs New Zealand,Pakistan,Haris Rauf,2,3,2,0,0,0,1.2,0,17,12.75,T20I # 2049
+Indonesia Vs Thailand,Thailand,Chanchai Pengkumta,0,15,15.00,0,-,-,-,1,1,4,T20I # 2050
+Indonesia Vs Thailand,Thailand,Narawit Nuntarach,0,28,7.00,0,-,-,-,1,0,4,T20I # 2050
+Indonesia Vs Thailand,Thailand,Kamron Senamontree,0,12,3.00,1,-,-,-,2,0,4,T20I # 2050
+Indonesia Vs Thailand,Thailand,Nopphon Senamontree,0,27,6.75,2,-,-,-,0,0,4,T20I # 2050
+Indonesia Vs Thailand,Thailand,Sorawat Desungnoen,1,19,4.75,1,-,-,-,0,0,1,T20I # 2050
+Indonesia Vs Thailand,Thailand,Vichanath Singh,0,11,11.00,2,-,-,-,1,1,2,T20I # 2050
+Indonesia Vs Thailand,Thailand,Sittipong Hongsi,7,0,0,1,28.57,6,10,1,0,60.00,T20I # 2050
+Indonesia Vs Thailand,Indonesia,Maxi Koda,3.25,-,-,1,-,0,0,4,0,24,T20I # 2050
+Indonesia Vs Thailand,Indonesia,Danilson Hawoe,6.00,-,-,3,-,1,0,2,0,18,T20I # 2050
+Indonesia Vs Thailand,Indonesia,Kadek Gamantika,9.00,-,-,1,-,0,0,3,0,17,T20I # 2050
+Malaysia Vs Indonesia,Indonesia,Maxi Koda,0,4,0,1,34,8.50,-,-,-,1,T20I # 2051
+Malaysia Vs Indonesia,Indonesia,Danilson Hawoe,0,4,0,2,24,6.00,-,-,-,2,T20I # 2051
+Malaysia Vs Indonesia,Indonesia,Kadek Gamantika,0,4,0,1,28,7.00,-,-,-,1,T20I # 2051
+Malaysia Vs Indonesia,Indonesia,Gede Arta,0,1,0,2,21,21.00,-,-,-,1,T20I # 2051
+Malaysia Vs Indonesia,Indonesia,Ketut Artawan,1,3,0,0,41,13.66,-,-,-,0,T20I # 2051
+Malaysia Vs Indonesia,Indonesia,Ferdinando Banunaek,0,3,9,0,0,0,33.33,37,38,1,T20I # 2051
+Malaysia Vs Indonesia,Malaysia,Muhammad Wafiq,-,-,0,0,0,4,0,17,4.25,-,T20I # 2051
+Malaysia Vs Indonesia,Malaysia,Fitri Sham,-,-,0,0,0,2,0,10,5.00,-,T20I # 2051
+Malaysia Vs Indonesia,Malaysia,Vijay Unni,-,-,1,1,0,4,0,15,3.75,-,T20I # 2051
+Malaysia Vs Indonesia,Malaysia,Muhammad Amir,-,-,0,0,0,4,0,22,5.50,-,T20I # 2051
+Singapore Vs Philippines,Philippines,Josef Doctora,0,0,4,1,0,35,8.75,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Daniel Smith,2,1,4,2,0,23,5.75,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Kepler Lukies,0,0,4,0,0,36,9.00,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Henry Tyler,1,1,4,2,0,34,8.50,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Amanpreet Sirah,0,0,1,0,0,13,13.00,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Robert Mitchell,0,0,1,0,0,17,17.00,-,-,-,T20I # 2052
+Singapore Vs Philippines,Philippines,Miggy Podosky,1,1,4,0,6,0,0,66.66,0,1,T20I # 2052
+Singapore Vs Philippines,Singapore,Adwitya Bhargava,3,0,13,2,4.33,-,-,-,3,0,T20I # 2052
+Singapore Vs Philippines,Singapore,Amjad Mahboob,3,0,17,1,5.66,-,-,-,3,0,T20I # 2052
+Singapore Vs Philippines,Singapore,Anish Paraam,4,0,18,0,4.50,-,-,-,1,0,T20I # 2052
+Singapore Vs Philippines,Singapore,Raoul Sharma,4,0,19,1,4.75,-,-,-,0,0,T20I # 2052
+Thailand Vs Malaysia,Malaysia,Syazrul Idrus,0,23,5.75,1,-,-,-,0,0,2,T20I # 2053
+Thailand Vs Malaysia,Malaysia,Vijay Unni,0,17,8.50,2,-,-,-,4,0,4,T20I # 2053
+Thailand Vs Malaysia,Malaysia,Syed Aziz,0,13,3.25,0,-,-,-,0,0,2,T20I # 2053
+Thailand Vs Malaysia,Malaysia,Virandeep Singh,0,18,9.00,2,-,-,-,0,0,4,T20I # 2053
+Thailand Vs Malaysia,Malaysia,Muhammad Amir,0,24,6.00,1,-,-,-,0,0,15,T20I # 2053
+Thailand Vs Malaysia,Malaysia,Sharvin Muniandy,11,3,0,0,136.36,42,33,4,1,127.27,T20I # 2053
+Thailand Vs Malaysia,Thailand,Chanchai Pengkumta,-,-,0,0,0,2,0,12,6.00,-,T20I # 2053
+Thailand Vs Malaysia,Thailand,Kamron Senamontree,-,-,0,2,0,2,0,16,8.00,-,T20I # 2053
+Thailand Vs Malaysia,Thailand,Sorawat Desungnoen,-,-,0,0,0,2,0,15,7.50,-,T20I # 2053
+Thailand Vs Malaysia,Thailand,Nopphon Senamontree,-,-,0,0,0,1,0,21,21.00,-,T20I # 2053
+Thailand Vs Malaysia,Thailand,Khanitson Namchaikul,-,-,1,0,0,0.3,0,3,6.00,-,T20I # 2053
+Cambodia Vs Singapore,Singapore,Avi Dixit,4,0,19,1,4.75,-,-,-,3,0,T20I # 2054
+Cambodia Vs Singapore,Singapore,Adwitya Bhargava,4,0,47,4,11.75,-,-,-,4,0,T20I # 2054
+Cambodia Vs Singapore,Singapore,Amjad Mahboob,4,0,39,1,9.75,-,-,-,0,0,T20I # 2054
+Cambodia Vs Singapore,Singapore,Anish Paraam,1,0,11,1,11.00,-,-,-,6,0,T20I # 2054
+Cambodia Vs Singapore,Singapore,Raoul Sharma,3,0,42,0,14.00,-,-,-,0,0,T20I # 2054
+Cambodia Vs Singapore,Singapore,Anantha Krishna,16,10,3,0,0,160.00,3,4,0,0,T20I # 2054
+Cambodia Vs Singapore,Cambodia,Sharwan Godara,18,4.69,-,0,-,-,0,0,4,0,T20I # 2054
+Cambodia Vs Singapore,Cambodia,Gulam Chughtai,21,5.25,-,2,-,-,0,0,4,0,T20I # 2054
+Cambodia Vs Singapore,Cambodia,Luqman Butt,31,7.75,-,2,-,-,0,0,1,0,T20I # 2054
+Portugal Vs Malta,Malta,Ashok Bishnoi,2,4,0,1,35,8.75,8,5,0,0,T20I # 2055
+Portugal Vs Malta,Malta,Fanyan Mughal,0,4,0,1,26,6.50,12,1,0,1,T20I # 2055
+Portugal Vs Malta,Malta,Fazil Rahman,1,4,0,2,32,8.00,7,1,0,3,T20I # 2055
+Portugal Vs Malta,Malta,Amar Sharma,0,2,0,1,18,9.00,6,0,2,1,T20I # 2055
+Portugal Vs Malta,Malta,David Marks,0,2,0,0,18,9.00,5,3,0,1,T20I # 2055
+Portugal Vs Malta,Malta,Varun Thamotharam,0,4,11,0,0,0,36.36,20,20,4,T20I # 2055
+Portugal Vs Malta,Portugal,Junaid Khan,1,17,4.85,3,14,1,1,1,1,3,T20I # 2055
+Portugal Vs Malta,Portugal,Najjam Shahzad,0,18,6.00,0,6,0,0,1,0,1,T20I # 2055
+Gibraltar Vs Portugal,Portugal,Junaid Khan,34,8.50,13,2,3,2,2,0,4,0,T20I # 2056
+Gibraltar Vs Portugal,Portugal,Najjam Shahzad,26,6.50,12,3,2,1,1,0,4,0,T20I # 2056
+Gibraltar Vs Portugal,Portugal,Francoise Stoman,18,4.50,17,1,0,1,1,0,2,0,T20I # 2056
+Gibraltar Vs Portugal,Portugal,Sirajullah Khadim,32,16.00,3,1,2,3,2,0,2,0,T20I # 2056
+Gibraltar Vs Portugal,Portugal,Mubeen Tariq,30,15.00,2,0,3,2,0,0,20,11,T20I # 2056
+Gibraltar Vs Portugal,Portugal,Amir Zaib,1,1,181.81,1,22,20,3,0,110.00,54,T20I # 2056
+Gibraltar Vs Portugal,Gibraltar,Kabir Mirpuri,0,0,4,0,0,34,8.50,10,2,2,T20I # 2056
+Gibraltar Vs Portugal,Gibraltar,Louis Bruce,1,0,2,0,0,10,5.00,7,0,0,T20I # 2056
+Gibraltar Vs Portugal,Gibraltar,Avinash Pai,2,1,4,0,0,35,8.75,8,3,1,T20I # 2056
+Gibraltar Vs Portugal,Gibraltar,James Fitzgerald,0,0,1,0,0,17,17.00,1,2,1,T20I # 2056
+Gibraltar Vs Portugal,Gibraltar,Samarth Bodha,1,0,0.2,1,0,6,18.00,1,0,1,T20I # 2056
+Portugal Vs Malta,Malta,Ashok Bishnoi,24,8.00,10,4,3,0,4,1,3.5,1,T20I # 2057
+Portugal Vs Malta,Malta,Fanyan Mughal,26,6.78,14,0,3,1,2,0,2,0,T20I # 2057
+Portugal Vs Malta,Malta,Fazil Rahman,19,9.50,3,3,1,1,0,0,4,0,T20I # 2057
+Portugal Vs Malta,Malta,Jaison Jerome,24,6.00,9,0,0,1,0,0,3,0,T20I # 2057
+Portugal Vs Malta,Malta,Amar Sharma,22,7.33,7,1,1,1,1,0,14,12,T20I # 2057
+Portugal Vs Malta,Malta,Varun Thamotharam,2,0,116.66,1,7,9,1,0,77.77,1,T20I # 2057
+Portugal Vs Malta,Portugal,Junaid Khan,13,0,0,1,2,0,3.1,0,23,7.26,T20I # 2057
+Portugal Vs Malta,Portugal,Najjam Shahzad,9,2,1,1,1,0,3,0,17,5.66,T20I # 2057
+Portugal Vs Malta,Portugal,Francoise Stoman,6,1,0,3,0,0,2,0,25,12.50,T20I # 2057
+Gibraltar Vs Malta,Malta,Ashok Bishnoi,4,1,2,0,0,7,3.50,7,0,0,T20I # 2058
+Gibraltar Vs Malta,Malta,Fanyan Mughal,2,0,3,0,0,28,9.33,5,3,1,T20I # 2058
+Gibraltar Vs Malta,Malta,Varun Thamotharam,1,0,4,1,0,23,5.75,10,1,0,T20I # 2058
+Gibraltar Vs Malta,Malta,Fazil Rahman,0,0,4,0,0,26,6.50,7,2,0,T20I # 2058
+Gibraltar Vs Malta,Malta,Yash Singh,2,0,4,1,0,42,10.50,10,2,4,T20I # 2058
+Gibraltar Vs Malta,Malta,Amar Sharma,1,0,5,1,5,1,0,100.00,17,12,T20I # 2058
+Gibraltar Vs Malta,Gibraltar,James Fitzgerald,0,1,0,1,13,13.00,1,1,1,0,T20I # 2058
+Gibraltar Vs Malta,Gibraltar,Avinash Pai,0,4,0,3,24,6.00,9,1,0,2,T20I # 2058
+Gibraltar Vs Malta,Gibraltar,Jack Horrocks,0,4,0,0,18,4.50,13,0,1,0,T20I # 2058
+Gibraltar Vs Malta,Gibraltar,Louis Bruce,0,2,0,1,21,10.50,5,2,1,1,T20I # 2058
+Gibraltar Vs Malta,Gibraltar,Kabir Mirpuri,0,1,0,0,2,2.00,4,0,0,0,T20I # 2058
+Gibraltar Vs Malta,Malta,Amar Sharma,0,19,9.50,0,4,2,0,1,0,2,T20I # 2059
+Gibraltar Vs Malta,Malta,Jaison Jerome,0,17,8.50,0,4,3,0,0,0,4,T20I # 2059
+Gibraltar Vs Malta,Malta,Fanyan Mughal,0,32,8.00,0,10,4,0,0,0,3,T20I # 2059
+Gibraltar Vs Malta,Malta,Fazil Rahman,0,18,6.00,4,9,2,0,0,0,3,T20I # 2059
+Gibraltar Vs Malta,Malta,Yash Singh,0,20,6.66,1,6,1,0,2,0,4,T20I # 2059
+Gibraltar Vs Malta,Malta,Varun Thamotharam,0,26,6.50,2,9,0,0,1,1,12,T20I # 2059
+Gibraltar Vs Malta,Malta,David Marks,7,0,2,0,171.42,3,9,0,0,33.33,T20I # 2059
+Gibraltar Vs Malta,Gibraltar,Avinash Pai,4.50,11,1,3,0,1,0,4,0,16,T20I # 2059
+Gibraltar Vs Malta,Gibraltar,Louis Bruce,4.00,11,0,1,0,0,1,1,0,3,T20I # 2059
+Gibraltar Vs Portugal,Portugal,Junaid Khan,25,8.33,10,1,4,0,2,1,4,0,T20I # 2060
+Gibraltar Vs Portugal,Portugal,Najjam Shahzad,16,4.00,11,0,0,0,0,0,4,0,T20I # 2060
+Gibraltar Vs Portugal,Portugal,Assad Mehmood,5,1.25,19,1,0,0,0,0,3,0,T20I # 2060
+Gibraltar Vs Portugal,Portugal,Francoise Stoman,12,4.00,10,2,1,0,0,0,2,0,T20I # 2060
+Gibraltar Vs Portugal,Portugal,Sirajullah Khadim,8,4.00,5,1,0,0,1,0,56,32,T20I # 2060
+Gibraltar Vs Portugal,Portugal,Zohaib Sarwar,2,6,175.00,2,4,9,0,0,44.44,1,T20I # 2060
+Gibraltar Vs Portugal,Gibraltar,Kenroy Nestor,0,2,0,0,3,0,20,6.66,9,2,T20I # 2060
+Gibraltar Vs Portugal,Gibraltar,Louis Bruce,0,1,0,0,2,0,32,16.00,3,1,T20I # 2060
+Gibraltar Vs Portugal,Gibraltar,Andrew Reyes,4,0,0,1,1,0,5,5.00,3,0,T20I # 2060
+Gibraltar Vs Portugal,Gibraltar,James Fitzgerald,0,1,0,0,0.5,0,5,6.00,1,0,T20I # 2060
+Malta Vs Portugal,Portugal,Junaid Khan,0,2,0,0,3,0,24,8.00,8,2,T20I # 2061
+Malta Vs Portugal,Portugal,Najjam Shahzad,0,3,2,2,4,0,38,9.50,11,4,T20I # 2061
+Malta Vs Portugal,Portugal,Francoise Stoman,2,3,0,2,3,0,13,4.33,10,0,T20I # 2061
+Malta Vs Portugal,Portugal,Assad Mehmood,0,1,0,0,2,0,26,13.00,4,1,T20I # 2061
+Malta Vs Portugal,Portugal,Sirajullah Khadim,3,0,0,0,4,0,42,10.50,5,3,T20I # 2061
+Malta Vs Portugal,Portugal,Zohaib Sarwar,2,1,0,0,80,31,6,8,258.06,36,T20I # 2061
+Malta Vs Portugal,Malta,Amar Sharma,36,18.00,3,0,4,3,0,0,2,0,T20I # 2061
+Malta Vs Portugal,Malta,Fazil Rahman,16,8.00,6,0,1,1,2,0,1,0,T20I # 2061
+Malta Vs Portugal,Malta,Fanyan Mughal,25,25.00,2,1,0,4,1,0,4,0,T20I # 2061
+Malta Vs Portugal,Malta,Varun Thamotharam,33,8.25,7,0,4,0,0,1,4,0,T20I # 2061
+Gibraltar Vs Portugal,Portugal,Junaid Khan,1,0,3,0,0,28,9.33,6,3,1,T20I # 2062
+Gibraltar Vs Portugal,Portugal,Najjam Shahzad,2,0,4,1,0,22,5.50,14,2,1,T20I # 2062
+Gibraltar Vs Portugal,Portugal,Sirajullah Khadim,0,0,4,2,0,27,6.75,12,3,1,T20I # 2062
+Gibraltar Vs Portugal,Portugal,Francoise Stoman,1,0,3,0,0,19,6.33,8,2,0,T20I # 2062
+Gibraltar Vs Portugal,Portugal,Suman Ghimire,1,0,2,1,0,14,7.00,5,1,0,T20I # 2062
+Gibraltar Vs Portugal,Portugal,Zohaib Sarwar,2,0,14,1,6,3,0,233.33,15,20,T20I # 2062
+Gibraltar Vs Portugal,Gibraltar,Kenroy Nestor,3,0,10,2,3.33,10,0,0,1,0,T20I # 2062
+Gibraltar Vs Portugal,Gibraltar,Louis Bruce,3,0,31,1,10.33,5,3,1,2,0,T20I # 2062
+Gibraltar Vs Portugal,Gibraltar,Andrew Reyes,2.5,0,26,2,9.17,8,3,1,1,0,T20I # 2062
+Malta Vs Gibraltar,Gibraltar,Avinash Pai,4,0,27,0,6.75,14,4,0,2,0,T20I # 2063
+Malta Vs Gibraltar,Gibraltar,Louis Bruce,4,0,25,1,6.25,9,2,0,0,0,T20I # 2063
+Malta Vs Gibraltar,Gibraltar,Kabir Mirpuri,2,0,23,3,11.50,6,0,3,2,0,T20I # 2063
+Malta Vs Gibraltar,Gibraltar,Andrew Reyes,4,0,29,1,7.25,11,1,1,1,1,T20I # 2063
+Malta Vs Gibraltar,Gibraltar,Samarth Bodha,2,0,32,1,16.00,3,2,3,1,0,T20I # 2063
+Malta Vs Gibraltar,Gibraltar,Richard Hatchman,36,14,2,1,4,257.14,0,1,0,0,T20I # 2063
+Malta Vs Gibraltar,Malta,Varun Thamotharam,42,10.50,5,0,4,1,3,0,4,0,T20I # 2063
+Malta Vs Gibraltar,Malta,Fazil Rahman,18,4.50,12,4,1,0,3,0,2,0,T20I # 2063
+Malta Vs Gibraltar,Malta,David Marks,23,11.50,3,0,1,2,0,0,4,0,T20I # 2063
+Cambodia Vs Philippines,Philippines,Kepler Lukies,2,0,4,1,0,32,8.00,-,-,-,T20I # 2064
+Cambodia Vs Philippines,Philippines,Daniel Smith,2,0,4,2,0,27,6.75,-,-,-,T20I # 2064
+Cambodia Vs Philippines,Philippines,Miggy Podosky,3,0,3,0,0,26,8.66,-,-,-,T20I # 2064
+Cambodia Vs Philippines,Philippines,Amanpreet Sirah,1,0,4,0,0,37,9.25,-,-,-,T20I # 2064
+Cambodia Vs Philippines,Philippines,Henry Tyler,2,1,1,1,0,13,13.00,-,-,-,T20I # 2064
+Cambodia Vs Philippines,Philippines,Ryan Hutton,0,0,0,1,3,0,0,0.00,68,43,T20I # 2064
+Cambodia Vs Philippines,Cambodia,Sharwan Godara,2,0,24,2,12.00,-,-,-,0,0,T20I # 2064
+Cambodia Vs Philippines,Cambodia,Gulam Chughtai,3,0,35,1,11.66,-,-,-,2,0,T20I # 2064
+Cambodia Vs Philippines,Cambodia,Utkarsh Jain,3,0,31,1,10.33,-,-,-,1,0,T20I # 2064
+Cambodia Vs Philippines,Cambodia,Uday Hathinjar,4,0,40,1,10.00,-,-,-,0,0,T20I # 2064
+Singapore Vs Indonesia,Indonesia,Maxi Koda,0,4,0,1,29,7.25,-,-,-,1,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Danilson Hawoe,0,4,0,0,29,7.25,-,-,-,0,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Kadek Gamantika,0,0,0,1,0,0.00,-,-,-,0,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Ahmad Ramdoni,0,2,0,0,14,7.00,-,-,-,1,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Gede Arta,0,4,0,1,28,7.00,-,-,-,1,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Ferdinando Banunaek,0,1,0,2,12,12.00,-,-,-,0,T20I # 2065
+Singapore Vs Indonesia,Indonesia,Anjar Tadarus,1,34,22,1,5,1,154.54,13,9,0,T20I # 2065
+Singapore Vs Indonesia,Singapore,Anish Paraam,0,4,0,0,29,7.25,-,-,-,3,T20I # 2065
+Singapore Vs Indonesia,Singapore,Adwitya Bhargava,0,4,0,2,24,6.00,-,-,-,0,T20I # 2065
+Singapore Vs Indonesia,Singapore,Amjad Mahboob,0,4,0,3,21,5.25,-,-,-,0,T20I # 2065
+Singapore Vs Indonesia,Singapore,Avi Dixit,0,2,0,1,17,8.50,-,-,-,2,T20I # 2065
+Cambodia Vs Malaysia,Malaysia,Pavandeep Singh,30,7.50,-,0,-,-,4,0,4,0,T20I # 2066
+Cambodia Vs Malaysia,Malaysia,Syazrul Idrus,11,2.75,-,3,-,-,0,0,4,0,T20I # 2066
+Cambodia Vs Malaysia,Malaysia,Sharvin Muniandy,28,7.00,-,2,-,-,5,0,4,0,T20I # 2066
+Cambodia Vs Malaysia,Malaysia,Fitri Sham,47,11.75,-,2,-,-,2,0,1,0,T20I # 2066
+Cambodia Vs Malaysia,Malaysia,Vijay Unni,12,12.00,-,2,-,-,0,0,21,13,T20I # 2066
+Cambodia Vs Malaysia,Malaysia,Virandeep Singh,3,0,161.53,0,0,3,0,0,0.00,6,T20I # 2066
+Cambodia Vs Malaysia,Cambodia,Sharwan Godara,-,-,-,3,1,0,1,0,9,9.00,T20I # 2066
+Cambodia Vs Malaysia,Cambodia,Gulam Chughtai,-,-,-,3,0,0,3,0,18,6.00,T20I # 2066
+Cambodia Vs Malaysia,Cambodia,Luqman Butt,-,-,-,1,1,0,3,0,17,5.66,T20I # 2066
+Cambodia Vs Malaysia,Cambodia,Ram Sharan,-,-,-,0,0,0,1,0,7,7.00,T20I # 2066
+Cambodia Vs Malaysia,Cambodia,Salvin Stanly,-,-,-,,0,0,,,,,T20I # 2066

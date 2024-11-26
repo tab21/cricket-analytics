@@ -1,0 +1,1 @@
+CREATE TABLE Batting ( PlayerName VARCHAR(255) NOT NULL, MatchID VARCHAR(11), MatchDate VARCHAR(11), Runs INT, Balls INT, out_not_out VARCHAR(10), strike_rate Dec(10,4) )

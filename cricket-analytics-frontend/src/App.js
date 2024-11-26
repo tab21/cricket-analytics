@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar";
 import axios from "axios";
+import { Line } from "react-chartjs-2";
+import "chart.js/auto";
 import "./App.css"; // Import the CSS file
 
 const formatDate = (dateString) => {
@@ -31,6 +33,60 @@ const App = () => {
     }
   };
 
+  const getGraphData = (data, key) => {
+    const filteredData = data.filter(
+      (entry) => entry[key] > 0 || entry[key] !== null
+    );
+
+    return {
+      labels: filteredData.map((entry) => formatDate(entry.matchdate)),
+      datasets: [
+        {
+          label: key === "sr" ? "Strike Rate" : "Economy",
+          data: filteredData.map((entry) => parseFloat(entry[key])),
+          fill: false,
+          backgroundColor: key === "sr" ? "blue" : "red",
+          borderColor: key === "sr" ? "blue" : "red",
+        },
+      ],
+    };
+  };
+
+  const getGraphOptions = (type, filteredData) => ({
+    plugins: {
+      tooltip: {
+        callbacks: {
+          label: function (context) {
+            const index = context.dataIndex;
+            const entry = filteredData[index]; // Get the full data entry from filteredData
+
+            if (type === "batting") {
+              return [
+                `Match Date: ${formatDate(entry.matchdate)}`,
+                `Runs: ${entry.runs}`,
+                `4s: ${entry["4s"]}`,
+                `6s: ${entry["6s"]}`,
+                `Strike Rate: ${entry.sr || "N/A"}`,
+              ].join("\n");
+            }
+
+            if (type === "bowling") {
+              return [
+                `Match Date: ${formatDate(entry.matchdate)}`,
+                `Overs: ${entry.overs}`,
+                `Wickets: ${entry.wickets}`,
+                `Runs: ${entry.runs}`,
+                `Economy: ${entry.economy}`,
+              ].join("\n");
+            }
+
+            return "";
+          },
+        },
+      },
+    },
+  });
+
   return (
     <div className="app-container">
       <Navbar onSearch={searchPlayer} />
@@ -54,7 +110,33 @@ const App = () => {
           <p>DOB: {formatDate(playerDetails.dateofbirth)}</p>
           <p>Batting Style: {playerDetails.battingstyle}</p>
           <p>Bowling Style: {playerDetails.bowlingstyle}</p>
-          <p>Position: {playerDetails.position}</p>
+          <p>Position: {playerDetails.position || "N/A"}</p>
+
+          {/* Graphs Section */}
+          {playerDetails.stats?.batting?.length > 0 && (
+            <div className="chart">
+              <h3>Batting Performance</h3>
+              <Line
+                data={getGraphData(playerDetails.stats.batting, "sr")}
+                options={getGraphOptions(
+                  "batting",
+                  playerDetails.stats.batting
+                )}
+              />
+            </div>
+          )}
+          {playerDetails.stats?.bowling?.length > 0 && (
+            <div className="chart">
+              <h3>Bowling Performance</h3>
+              <Line
+                data={getGraphData(playerDetails.stats.bowling, "economy")}
+                options={getGraphOptions(
+                  "bowling",
+                  playerDetails.stats.bowling
+                )}
+              />
+            </div>
+          )}
         </div>
       ) : suggestions.length > 0 ? (
         <div className="suggestions-container">
