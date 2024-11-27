@@ -8,29 +8,29 @@ async function connectToFriendDB() {
   const dbName = "myDatabase";
   const collectionName = "cricket_stats";
 
-  // for delete
+  // // for delete
 
-  try {
-    await client.connect();
-    console.log("Connected to MongoDB database!");
+  // try {
+  //   await client.connect();
+  //   console.log("Connected to MongoDB database!");
 
-    const database = client.db(dbName);
-    const collection = database.collection(collectionName);
-    const documents = await collection
-      .find({ playerName: "Ishan Kishan" })
-      .toArray();
+  //   const database = client.db(dbName);
+  //   const collection = database.collection(collectionName);
+  //   const documents = await collection
+  //     .find({ playerName: "Ishan Kishan" })
+  //     .toArray();
 
-    console.log("deleting documents:", documents[0]);
+  //   console.log("deleting documents:", documents[0]);
 
-    // Delete the first matching document
-    const result = await collection.deleteOne(documents[0]);
+  //   // Delete the first matching document
+  //   const result = await collection.deleteOne(documents[0]);
 
-    console.log(`document deleted.`);
-  } catch (err) {
-    console.error("Error deleting document:", err);
-  } finally {
-    await client.close();
-  }
+  //   console.log(`document deleted.`);
+  // } catch (err) {
+  //   console.error("Error deleting document:", err);
+  // } finally {
+  //   await client.close();
+  // }
 
   // for insertion
 
