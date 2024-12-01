@@ -1,14 +1,20 @@
 const express = require("express");
-const mysql = require("mysql2");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const readline = require("readline");
 const { MongoClient } = require("mongodb");
+const { createClient } = require("@supabase/supabase-js");
+
+const supabaseUrl = "https://ssyduwwzzeesxvqqovru.supabase.co";
+const supabaseKey =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzeWR1d3d6emVlc3h2cXFvdnJ1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzMwNTAzNjUsImV4cCI6MjA0ODYyNjM2NX0.yAvBe7zmDa-h63vActGYolAboQZbFuKC4EOvbWqI3uM";
+
+const supabase = createClient(supabaseUrl, supabaseKey);
 
 const uri =
   "mongodb+srv://tab21:tab21@cricketstats.7mur1.mongodb.net/?retryWrites=true&w=majority&appName=CricketStats";
-
 const client = new MongoClient(uri);
+
 const dbName = "myDatabase";
 const collectionName = "cricket_stats";
 
@@ -16,38 +22,49 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const db = mysql.createConnection({
-  host: "sql12.freesqldatabase.com",
-  user: "sql12746379",
-  password: "plkbmDFHQh",
-  database: "sql12746379",
-});
+let leven;
 
-db.connect((err) => {
-  if (err) {
-    console.error("Error connecting to MySQL:", err);
-    return;
-  }
-  console.log("Connected to MySQL database");
-});
+// Dynamically import 'leven' (ESM module)
+(async () => {
+  const module = await import("leven");
+  leven = module.default;
+})();
 
 let playerDataCache = [];
 
-const loadPlayerData = () => {
-  db.query("SELECT * FROM PlayerDetails", (err, results) => {
-    if (err) {
-      console.error("Error loading player data:", err);
-      return;
+// Load Player Data
+const loadPlayerData = async () => {
+  let allData = [];
+  let page = 0;
+  const pageSize = 1000; // Maximum number of rows returned per query
+
+  while (true) {
+    const { data, error } = await supabase
+      .from("playerdetails")
+      .select("*")
+      .range(page * pageSize, (page + 1) * pageSize - 1);
+
+    if (error) {
+      console.error("Error fetching data:", error);
+      break;
     }
-    playerDataCache = results;
-    console.log("Player data loaded into memory");
-  });
+
+    if (data.length === 0) {
+      break; // No more data, exit the loop
+    }
+
+    allData = [...allData, ...data]; // Append new data to the list
+    page++; // Move to the next page
+  }
+
+  playerDataCache = allData;
+  console.log("Data loaded into memory successfully:", playerDataCache.length);
 };
 
 // Load data on startup
 loadPlayerData();
 
-// API Endpoint to Reload Player Data
+// Reload API
 app.get("/reload", (req, res) => {
   loadPlayerData();
   res.json({ message: "Player data reloaded successfully" });
@@ -66,94 +83,100 @@ rl.on("line", (input) => {
   }
 });
 
-// Function for Levenshtein Distance
-function levenshteinDistance(a, b) {
-  const matrix = Array.from({ length: a.length + 1 }, () =>
-    Array(b.length + 1).fill(0)
-  );
-
-  for (let i = 0; i <= a.length; i++) matrix[i][0] = i;
-  for (let j = 0; j <= b.length; j++) matrix[0][j] = j;
-
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-      matrix[i][j] = Math.min(
-        matrix[i - 1][j] + 1,
-        matrix[i][j - 1] + 1,
-        matrix[i - 1][j - 1] + cost
-      );
-    }
-  }
-
-  return matrix[a.length][b.length];
-}
-
-// API Endpoint for Search
+// Search API
 app.get("/search", async (req, res) => {
   const searchQuery = req.query.name;
-
   console.log("\n\nsearchQuery:", searchQuery);
 
-  const exactMatch = playerDataCache.find(
-    (player) => player.PlayerName.toLowerCase() === searchQuery.toLowerCase()
-  );
+  const exactMatch = () => {
+    for (let player of playerDataCache) {
+      // console.log("player.playername:", player.playername.toLowerCase());
 
-  if (exactMatch) {
+      if (player.playername.toLowerCase() === searchQuery.toLowerCase()) {
+        return player;
+      }
+    }
+    return null; // Explicit return if no match is found
+  };
+
+  const match = exactMatch();
+  // console.log("Exact match:", match);
+
+  // Proceed with MongoDB query if an exact match exists
+  if (match) {
     try {
       await client.connect();
-      console.log(
-        "Connected to MongoDB database! and querying : ",
-        searchQuery
-      );
+      console.log("Connected to MongoDB database! Querying:", searchQuery);
 
       const database = client.db(dbName);
       const collection = database.collection(collectionName);
 
-      // Query MongoDB for player stats using playerName
+      // Query MongoDB for player stats
       const mongoPlayerStats = await collection
         .find({ playerName: searchQuery })
         .toArray();
 
-      // console.log("\n\nMongoDB player stats:", mongoPlayerStats);
-
       if (mongoPlayerStats.length > 0) {
-        // Combine MySQL data with MongoDB data and return
-
         const combinedData = {
-          ...exactMatch,
+          ...match,
           stats: {
             batting: mongoPlayerStats[0].batting,
             bowling: mongoPlayerStats[0].bowling,
-          }, // MongoDB player stats
+          },
         };
 
-        console.log("Combined data: \n ", combinedData);
+        console.log("Combined data: \n", combinedData);
         return res.json({ match: combinedData });
       } else {
-        console.log("Exact match found: \n ", exactMatch);
-        return res.json({ match: exactMatch });
+        console.log("Exact match found but no MongoDB stats available.");
+        return res.json({ match });
       }
     } catch (error) {
-      console.error("Error querying MongoDB:", error);
-      res.status(500).json({ error: "Error querying MongoDB" });
+      console.error("Error connecting to MongoDB:", error.message);
+      console.log("Returning partial data (exact match).");
+      return res.json({ match }); // Return exact match data if MongoDB fails
     } finally {
       await client.close();
     }
   }
 
-  const distances = playerDataCache.map((player) => ({
-    player: {
-      name: player.PlayerName,
-      country: player.country_name,
-      image: player.image_path,
-    },
-    distance: levenshteinDistance(
-      searchQuery.toLowerCase(),
-      player.PlayerName.toLowerCase()
-    ),
-  }));
+  // Proceed with fuzzy matching if no exact match
+  const isSingleWord = searchQuery.split(" ").length === 1;
+  const distances = playerDataCache.map((player) => {
+    const playerName = player.playername.toLowerCase();
+    const [firstName, ...lastNameParts] = playerName.split(" ");
+    const lastName = lastNameParts.join(" "); // Handle multi-part last names if any
 
+    let distance;
+
+    if (isSingleWord) {
+      // Calculate Levenshtein distance for first name, last name, and full name
+      const firstNameDistance = leven(searchQuery, firstName);
+      const lastNameDistance = leven(searchQuery, lastName);
+      const fullNameDistance = leven(searchQuery, playerName);
+
+      // Use the minimum distance
+      distance = Math.min(
+        firstNameDistance,
+        lastNameDistance,
+        fullNameDistance
+      );
+    } else {
+      // For multi-word queries, compare against the full name
+      distance = leven(searchQuery, playerName);
+    }
+
+    return {
+      player: {
+        name: player.playername,
+        country: player.country_name,
+        image: player.image_path,
+      },
+      distance,
+    };
+  });
+
+  // Sort distances and get top 5 matches
   const topMatches = distances
     .sort((a, b) => a.distance - b.distance)
     .slice(0, 5);
@@ -161,6 +184,7 @@ app.get("/search", async (req, res) => {
   res.json({ suggestions: topMatches });
 });
 
+// Start Server
 const PORT = 8000;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);

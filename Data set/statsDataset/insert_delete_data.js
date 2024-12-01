@@ -104,6 +104,42 @@ async function connectToFriendDB() {
   // } finally {
   //   await client.close();
   // }
+
+  // For update
+  try {
+    await client.connect();
+    console.log("Connected to MongoDB database!");
+
+    const database = client.db(dbName);
+    const collection = database.collection(collectionName);
+
+    // Define the filter and update
+
+    const filter = { playerName: "Ishan Kishan" };
+    const update = {
+      $set: {
+        "batting.$[match].runs": 50,
+      },
+    };
+    const options = {
+      arrayFilters: [
+        {
+          "match.matchid": "T20I # 1985",
+        },
+      ],
+    };
+
+    // Update the matching document
+    const result = await collection.updateOne(filter, update, options);
+
+    console.log(
+      `Matched ${result.matchedCount} document(s) and modified ${result.modifiedCount} document(s).`
+    );
+  } catch (err) {
+    console.error("Error updating document:", err);
+  } finally {
+    await client.close();
+  }
 }
 
 connectToFriendDB();
