@@ -4,6 +4,7 @@ const bodyParser = require("body-parser");
 const readline = require("readline");
 const { MongoClient } = require("mongodb");
 const { createClient } = require("@supabase/supabase-js");
+const jaroWinkler = require("jaro-winkler");
 
 const supabaseUrl = "https://ssyduwwzzeesxvqqovru.supabase.co";
 const supabaseKey =
@@ -22,21 +23,13 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-let leven;
-
-// Dynamically import 'leven' (ESM module)
-(async () => {
-  const module = await import("leven");
-  leven = module.default;
-})();
-
 let playerDataCache = [];
 
 // Load Player Data
 const loadPlayerData = async () => {
   let allData = [];
   let page = 0;
-  const pageSize = 1000; // Maximum number of rows returned per query
+  const pageSize = 1000;
 
   while (true) {
     const { data, error } = await supabase
@@ -50,11 +43,11 @@ const loadPlayerData = async () => {
     }
 
     if (data.length === 0) {
-      break; // No more data, exit the loop
+      break;
     }
 
-    allData = [...allData, ...data]; // Append new data to the list
-    page++; // Move to the next page
+    allData = [...allData, ...data];
+    page++;
   }
 
   playerDataCache = allData;
@@ -85,24 +78,20 @@ rl.on("line", (input) => {
 
 // Search API
 app.get("/search", async (req, res) => {
-  const searchQuery = req.query.name;
+  const searchQuery = req.query.name.toLowerCase();
   console.log("\n\nsearchQuery:", searchQuery);
 
   const exactMatch = () => {
     for (let player of playerDataCache) {
-      // console.log("player.playername:", player.playername.toLowerCase());
-
-      if (player.playername.toLowerCase() === searchQuery.toLowerCase()) {
+      if (player.playername.toLowerCase() === searchQuery) {
         return player;
       }
     }
-    return null; // Explicit return if no match is found
+    return null;
   };
 
   const match = exactMatch();
-  // console.log("Exact match:", match);
 
-  // Proceed with MongoDB query if an exact match exists
   if (match) {
     try {
       await client.connect();
@@ -111,7 +100,6 @@ app.get("/search", async (req, res) => {
       const database = client.db(dbName);
       const collection = database.collection(collectionName);
 
-      // Query MongoDB for player stats
       const mongoPlayerStats = await collection
         .find({ playerName: searchQuery })
         .toArray();
@@ -133,38 +121,18 @@ app.get("/search", async (req, res) => {
       }
     } catch (error) {
       console.error("Error connecting to MongoDB:", error.message);
-      console.log("Returning partial data (exact match).");
-      return res.json({ match }); // Return exact match data if MongoDB fails
+      return res.json({ match });
     } finally {
       await client.close();
     }
   }
 
-  // Proceed with fuzzy matching if no exact match
-  const isSingleWord = searchQuery.split(" ").length === 1;
+  // Fuzzy matching using Jaro-Winkler
   const distances = playerDataCache.map((player) => {
     const playerName = player.playername.toLowerCase();
-    const [firstName, ...lastNameParts] = playerName.split(" ");
-    const lastName = lastNameParts.join(" "); // Handle multi-part last names if any
 
-    let distance;
-
-    if (isSingleWord) {
-      // Calculate Levenshtein distance for first name, last name, and full name
-      const firstNameDistance = leven(searchQuery, firstName);
-      const lastNameDistance = leven(searchQuery, lastName);
-      const fullNameDistance = leven(searchQuery, playerName);
-
-      // Use the minimum distance
-      distance = Math.min(
-        firstNameDistance,
-        lastNameDistance,
-        fullNameDistance
-      );
-    } else {
-      // For multi-word queries, compare against the full name
-      distance = leven(searchQuery, playerName);
-    }
+    // Compute Jaro-Winkler similarity
+    const similarity = jaroWinkler(searchQuery, playerName);
 
     return {
       player: {
@@ -172,13 +140,13 @@ app.get("/search", async (req, res) => {
         country: player.country_name,
         image: player.image_path,
       },
-      distance,
+      similarity,
     };
   });
 
-  // Sort distances and get top 5 matches
+  // Sort by highest similarity (descending order) and get top 5 matches
   const topMatches = distances
-    .sort((a, b) => a.distance - b.distance)
+    .sort((a, b) => b.similarity - a.similarity)
     .slice(0, 5);
 
   res.json({ suggestions: topMatches });
