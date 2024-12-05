@@ -92,11 +92,11 @@ const App = () => {
       <Navbar onSearch={searchPlayer} />
       {playerDetails ? (
         <div className="player-details">
-          <h2>{playerDetails.PlayerName}</h2>
+          <h2>{playerDetails.playername}</h2>
           <img
             className="player-image"
             src={playerDetails.image_path}
-            alt={playerDetails.PlayerName}
+            alt={playerDetails.playername}
           />
           <div className="player-info">
             <p>Country: {playerDetails.country_name}</p>
