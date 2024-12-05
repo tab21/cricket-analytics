@@ -78,12 +78,12 @@ rl.on("line", (input) => {
 
 // Search API
 app.get("/search", async (req, res) => {
-  const searchQuery = req.query.name.toLowerCase();
+  const searchQuery = req.query.name;
   console.log("\n\nsearchQuery:", searchQuery);
 
   const exactMatch = () => {
     for (let player of playerDataCache) {
-      if (player.playername.toLowerCase() === searchQuery) {
+      if (player.playername.toLowerCase() === searchQuery.toLowerCase()) {
         return player;
       }
     }
@@ -132,7 +132,7 @@ app.get("/search", async (req, res) => {
     const playerName = player.playername.toLowerCase();
 
     // Compute Jaro-Winkler similarity
-    const similarity = jaroWinkler(searchQuery, playerName);
+    const similarity = jaroWinkler(searchQuery.toLowerCase(), playerName);
 
     return {
       player: {
